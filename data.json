@@ -128,7 +128,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 835,
+    "stars": 836,
     "archived": false
   },
   {
@@ -218,7 +218,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 919,
+    "stars": 920,
     "archived": false
   },
   {
@@ -248,7 +248,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 7271,
+    "stars": 7275,
     "archived": false
   },
   {
@@ -412,7 +412,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 710,
+    "stars": 711,
     "archived": false
   },
   {
@@ -491,7 +491,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 190,
+    "stars": 191,
     "archived": false
   },
   {
@@ -521,7 +521,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 71,
+    "stars": 72,
     "archived": false
   },
   {
@@ -612,6 +612,25 @@
     "pre": null,
     "updated": "2026-10-10",
     "stars": 7,
+    "archived": false
+  },
+  {
+    "name": "ps5-y2jb-autoloader",
+    "url": "https://github.com/itsPLK/ps5-y2jb-autoloader",
+    "description": "An automated payload loader for exploited PS5 consoles",
+    "category": "Payload",
+    "stable": {
+      "tag": "v0.5",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v0.5",
+      "date": "2026-05-01"
+    },
+    "pre": {
+      "tag": "v1.0.0-fb17d16",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.0-fb17d16",
+      "date": "2026-10-09"
+    },
+    "updated": "2026-10-09",
+    "stars": 741,
     "archived": false
   }
 ]
