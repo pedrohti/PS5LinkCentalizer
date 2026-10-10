@@ -45,7 +45,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 559,
+    "stars": 560,
     "archived": false
   },
   {
@@ -248,7 +248,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 7270,
+    "stars": 7271,
     "archived": false
   },
   {
@@ -491,7 +491,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 189,
+    "stars": 190,
     "archived": false
   },
   {
@@ -597,6 +597,21 @@
     "pre": null,
     "updated": "2026-10-10",
     "stars": 21,
+    "archived": false
+  },
+  {
+    "name": "PShare",
+    "url": "https://github.com/StonedModder/PShare",
+    "description": "Native PS5 homebrew app that sends media gallery items to Discord, Telegram, catbox.moe, a USB drive, a shared folder on your PC or a dozen other places, automatically",
+    "category": "Emulator",
+    "stable": {
+      "tag": "1.0",
+      "url": "https://github.com/StonedModder/PShare/releases/tag/1.0",
+      "date": "2026-10-10"
+    },
+    "pre": null,
+    "updated": "2026-10-10",
+    "stars": 7,
     "archived": false
   }
 ]
