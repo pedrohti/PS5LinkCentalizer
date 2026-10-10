@@ -38,5 +38,6 @@
   { "repo": "elripalda/Porpoise-Dolphin-Emulator-for-PS5", "category": "Emulator" },
   { "repo": "saawant12/orbit-store-ps5",         "category": "Homebrew" },
   { "repo": "Press5elect/PSSwanStation",         "category": "Emulator" },
-  { "repo": "StonedModder/PShare",               "category": "Emulator" }
+  { "repo": "StonedModder/PShare",               "category": "Emulator" },
+  { "repo": "itsPLK/ps5-y2jb-autoloader",        "category": "Payload" }
 ]
