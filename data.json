@@ -248,7 +248,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 7269,
+    "stars": 7270,
     "archived": false
   },
   {
@@ -412,7 +412,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 708,
+    "stars": 710,
     "archived": false
   },
   {
@@ -491,7 +491,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 188,
+    "stars": 189,
     "archived": false
   },
   {
@@ -582,6 +582,21 @@
     "pre": null,
     "updated": "2026-10-10",
     "stars": 505,
+    "archived": false
+  },
+  {
+    "name": "PSSwanStation",
+    "url": "https://github.com/Press5elect/PSSwanStation",
+    "description": "Port of Swanstation for PS5",
+    "category": "Emulator",
+    "stable": {
+      "tag": "build19",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build19",
+      "date": "2026-10-10"
+    },
+    "pre": null,
+    "updated": "2026-10-10",
+    "stars": 21,
     "archived": false
   }
 ]
