@@ -10,7 +10,7 @@ Link hub for the PS5 jailbreak scene.
    { "repo": "owner/repository", "category": "Payload" }
    ```
    Optional fields: `name` and `description` (override the GitHub ones), `category`.
-3. Open a Pull Request. The check validates the JSON and that the repo exists.
+3. Open a Pull Request. A bot checks it (valid JSON, `owner/name` format, known fields, duplicates, repo exists) and replies in a comment with what to fix; the comment updates on every push.
 
 Don't edit `data.json` or `offline.json`, they are generated automatically.
 
@@ -19,7 +19,7 @@ Don't edit `data.json` or `offline.json`, they are generated automatically.
 - `.github/workflows/update.yml` runs every 3h (and when `projects.json` changes), fetches the latest stable version and the latest beta/pre-release (if newer) of each repo, and commits `data.json`.
 - Pre-release = flagged as such on GitHub **or** tag containing `alpha`, `beta`, `rc`, `nightly`, `dev`, `pre`, `test`, `experimental`, or a trailing commit hash.
 - Repos without releases: uses tags (`git ls-remote`), sorted by version.
-- Dead repos (404): the PR check fails. On the scheduled run they are moved from `projects.json` to `offline.json`, keeping their last known info, and listed on `offline.html`. Every run also re-checks `offline.json`: a repo that is reachable again goes back to `projects.json` with its category.
+- Dead repos (404): the PR check flags them. On the scheduled run they are moved from `projects.json` to `offline.json`, keeping their last known info, and listed on `offline.html`. Every run also re-checks `offline.json`: a repo that is reachable again goes back to `projects.json` with its category.
 - Local: `node scripts/update.mjs` (Node 20+). Set `GITHUB_TOKEN` to avoid the 60 req/h limit.
 
 ## Disclaimer

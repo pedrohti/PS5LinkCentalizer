@@ -82,12 +82,6 @@ for (const p of projects) {
   console.log(`${p.repo} -> ${stable?.tag ?? "-"} | ${pre?.tag ?? "-"}`);
 }
 
-// STRICT (PR check): any dead repo fails the run, nothing is moved
-if (process.env.STRICT && dead.length) {
-  console.error(`Repos not found: ${dead.join(", ")}`);
-  process.exit(1);
-}
-
 await writeFile("data.json", JSON.stringify(out, null, 2) + "\n");
 
 // A repo listed again in projects.json and alive is no longer offline

@@ -1,19 +1,49 @@
 name: Validate PR
 
+# pull_request_target so the check can comment on PRs from forks too.
+# Safe because the PR's code is never run: the validator comes from the base branch
+# and only reads the PR's projects.json as data.
 on:
-  pull_request:
+  pull_request_target:
     paths: [projects.json]
+
+permissions:
+  contents: read
+  pull-requests: write
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Get the PR's projects.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          gh api "repos/$HEAD_REPO/contents/projects.json?ref=$HEAD_SHA" -H "Accept: application/vnd.github.raw" > pr-projects.json
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      # Fails on invalid JSON, bad repo format, dead (404) repos, or GitHub API errors
-      - run: node scripts/update.mjs
+      - id: check
+        continue-on-error: true
+        run: node scripts/validate.mjs pr-projects.json > report.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          STRICT: 1
+      - name: Comment on the PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          marker="<!-- projects-json-check -->"
+          body="$marker"$'\n'"$(cat report.md)"
+          id=$(gh api "repos/$GITHUB_REPOSITORY/issues/$PR/comments" --paginate --jq ".[] | select(.body | startswith(\"$marker\")) | .id" | head -1)
+          if [ -n "$id" ]; then
+            gh api -X PATCH "repos/$GITHUB_REPOSITORY/issues/comments/$id" -f body="$body" > /dev/null
+          else
+            gh api "repos/$GITHUB_REPOSITORY/issues/$PR/comments" -f body="$body" > /dev/null
+          fi
+      - name: Fail when projects.json has errors
+        if: steps.check.outcome == 'failure'
+        run: exit 1
