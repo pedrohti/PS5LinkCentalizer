@@ -37,4 +37,5 @@
   { "repo": "elripalda/psgfx",                   "category": "Customization" },
   { "repo": "elripalda/Porpoise-Dolphin-Emulator-for-PS5", "category": "Emulator" },
   { "repo": "saawant12/orbit-store-ps5",         "category": "Emulator" }
+  { "repo": "Press5elect/PSSwanStation",         "category": "Emulator" }
 ]
