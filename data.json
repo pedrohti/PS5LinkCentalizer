@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 383,
+    "stars": 387,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 579,
+    "stars": 599,
     "archived": false
   },
   {
@@ -54,17 +54,13 @@
     "description": "An unofficial Moonlight port (game streaming) for PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "01.000.060",
-      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.060",
-      "date": "2026-09-10"
+      "tag": "01.000.095",
+      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.095",
+      "date": "2026-10-11"
     },
-    "pre": {
-      "tag": "01.000.090",
-      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.090",
-      "date": "2026-10-07"
-    },
+    "pre": null,
     "updated": "2026-10-11",
-    "stars": 109,
+    "stars": 110,
     "archived": false
   },
   {
@@ -97,7 +93,7 @@
       "url": "https://github.com/blackbearreloaded/ps5-homebrew-ui/releases/tag/build-cache",
       "date": "2026-10-10"
     },
-    "updated": "2026-10-10",
+    "updated": "2026-10-11",
     "stars": 49,
     "archived": false
   },
@@ -113,7 +109,7 @@
     },
     "pre": null,
     "updated": "2026-08-04",
-    "stars": 371,
+    "stars": 372,
     "archived": false
   },
   {
@@ -128,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 848,
+    "stars": 859,
     "archived": false
   },
   {
@@ -143,7 +139,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 677,
+    "stars": 682,
     "archived": false
   },
   {
@@ -158,7 +154,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 154,
+    "stars": 155,
     "archived": false
   },
   {
@@ -173,7 +169,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 74,
+    "stars": 75,
     "archived": false
   },
   {
@@ -188,7 +184,7 @@
     },
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 483,
+    "stars": 485,
     "archived": false
   },
   {
@@ -218,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 940,
+    "stars": 951,
     "archived": false
   },
   {
@@ -233,7 +229,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 254,
+    "stars": 255,
     "archived": false
   },
   {
@@ -248,7 +244,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 7403,
+    "stars": 7498,
     "archived": false
   },
   {
@@ -263,7 +259,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 282,
+    "stars": 287,
     "archived": false
   },
   {
@@ -303,7 +299,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 110,
+    "stars": 111,
     "archived": false
   },
   {
@@ -318,7 +314,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 339,
+    "stars": 341,
     "archived": false
   },
   {
@@ -332,12 +328,12 @@
       "date": "2026-10-11"
     },
     "pre": {
-      "tag": "v7.0.5",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.5",
+      "tag": "v7.0.10",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.10",
       "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 620,
+    "stars": 636,
     "archived": false
   },
   {
@@ -352,7 +348,7 @@
     },
     "pre": null,
     "updated": "2026-10-01",
-    "stars": 39,
+    "stars": 41,
     "archived": false
   },
   {
@@ -411,8 +407,8 @@
       "date": "2026-10-10"
     },
     "pre": null,
-    "updated": "2026-10-10",
-    "stars": 813,
+    "updated": "2026-10-11",
+    "stars": 895,
     "archived": false
   },
   {
@@ -442,7 +438,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 284,
+    "stars": 286,
     "archived": false
   },
   {
@@ -457,7 +453,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 101,
+    "stars": 103,
     "archived": false
   },
   {
@@ -472,7 +468,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 121,
+    "stars": 130,
     "archived": false
   },
   {
@@ -482,12 +478,12 @@
     "category": "Homebrew",
     "stable": null,
     "pre": {
-      "tag": "v1.000.050",
-      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.050",
-      "date": "2026-10-08"
+      "tag": "v1.000.060",
+      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.060",
+      "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 206,
+    "stars": 214,
     "archived": false
   },
   {
@@ -546,7 +542,7 @@
       "date": "2026-10-03"
     },
     "pre": null,
-    "updated": "2026-10-03",
+    "updated": "2026-10-11",
     "stars": 34,
     "archived": false
   },
@@ -562,7 +558,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 133,
+    "stars": 138,
     "archived": false
   },
   {
@@ -577,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 514,
+    "stars": 523,
     "archived": false
   },
   {
@@ -626,7 +622,7 @@
       "date": "2026-10-09"
     },
     "updated": "2026-10-09",
-    "stars": 745,
+    "stars": 752,
     "archived": false
   }
 ]
