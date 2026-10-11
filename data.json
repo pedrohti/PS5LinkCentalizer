@@ -11,7 +11,7 @@
     },
     "pre": null,
     "updated": "2026-05-25",
-    "stars": 63,
+    "stars": 64,
     "archived": false
   },
   {
@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 379,
+    "stars": 383,
     "archived": false
   },
   {
@@ -40,12 +40,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v1.000.100",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.000.100",
-      "date": "2026-10-10"
+      "tag": "v1.000.110",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.000.110",
+      "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 567,
+    "stars": 579,
     "archived": false
   },
   {
@@ -63,8 +63,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.090",
       "date": "2026-10-07"
     },
-    "updated": "2026-10-10",
-    "stars": 108,
+    "updated": "2026-10-11",
+    "stars": 109,
     "archived": false
   },
   {
@@ -113,7 +113,7 @@
     },
     "pre": null,
     "updated": "2026-08-04",
-    "stars": 370,
+    "stars": 371,
     "archived": false
   },
   {
@@ -128,7 +128,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 843,
+    "stars": 848,
     "archived": false
   },
   {
@@ -143,7 +143,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 676,
+    "stars": 677,
     "archived": false
   },
   {
@@ -173,7 +173,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 72,
+    "stars": 74,
     "archived": false
   },
   {
@@ -188,7 +188,7 @@
     },
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 480,
+    "stars": 483,
     "archived": false
   },
   {
@@ -203,7 +203,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 182,
+    "stars": 184,
     "archived": false
   },
   {
@@ -218,7 +218,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 927,
+    "stars": 940,
     "archived": false
   },
   {
@@ -233,7 +233,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 253,
+    "stars": 254,
     "archived": false
   },
   {
@@ -248,7 +248,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 7311,
+    "stars": 7403,
     "archived": false
   },
   {
@@ -263,7 +263,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 277,
+    "stars": 282,
     "archived": false
   },
   {
@@ -288,7 +288,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 147,
+    "stars": 148,
     "archived": false
   },
   {
@@ -297,13 +297,13 @@
     "description": "A Windows app for managing your PS5 dump and image collection, reading PS5 packages, and building or converting images.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v1.2.0",
-      "url": "https://github.com/pearlxcore/PS5PKGTool/releases/tag/v1.2.0",
-      "date": "2026-09-21"
+      "tag": "v1.3.0",
+      "url": "https://github.com/pearlxcore/PS5PKGTool/releases/tag/v1.3.0",
+      "date": "2026-10-11"
     },
     "pre": null,
-    "updated": "2026-10-02",
-    "stars": 108,
+    "updated": "2026-10-11",
+    "stars": 110,
     "archived": false
   },
   {
@@ -318,7 +318,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 337,
+    "stars": 339,
     "archived": false
   },
   {
@@ -327,13 +327,17 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.0.1",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.1",
+      "tag": "v7.0.8",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.8",
       "date": "2026-10-11"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v7.0.5",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.5",
+      "date": "2026-10-11"
+    },
     "updated": "2026-10-11",
-    "stars": 601,
+    "stars": 620,
     "archived": false
   },
   {
@@ -408,7 +412,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 742,
+    "stars": 813,
     "archived": false
   },
   {
@@ -438,7 +442,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 283,
+    "stars": 284,
     "archived": false
   },
   {
@@ -453,7 +457,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 100,
+    "stars": 101,
     "archived": false
   },
   {
@@ -482,8 +486,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.050",
       "date": "2026-10-08"
     },
-    "updated": "2026-10-10",
-    "stars": 193,
+    "updated": "2026-10-11",
+    "stars": 206,
     "archived": false
   },
   {
@@ -513,7 +517,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 74,
+    "stars": 77,
     "archived": false
   },
   {
@@ -558,7 +562,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 129,
+    "stars": 133,
     "archived": false
   },
   {
@@ -573,7 +577,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 508,
+    "stars": 514,
     "archived": false
   },
   {
@@ -603,7 +607,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 17,
+    "stars": 27,
     "archived": false
   },
   {
@@ -622,7 +626,7 @@
       "date": "2026-10-09"
     },
     "updated": "2026-10-09",
-    "stars": 743,
+    "stars": 745,
     "archived": false
   }
 ]
