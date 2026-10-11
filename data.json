@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 378,
+    "stars": 379,
     "archived": false
   },
   {
@@ -44,8 +44,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.000.100",
       "date": "2026-10-10"
     },
-    "updated": "2026-10-10",
-    "stars": 560,
+    "updated": "2026-10-11",
+    "stars": 567,
     "archived": false
   },
   {
@@ -128,7 +128,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 836,
+    "stars": 843,
     "archived": false
   },
   {
@@ -143,7 +143,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 674,
+    "stars": 676,
     "archived": false
   },
   {
@@ -188,7 +188,7 @@
     },
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 479,
+    "stars": 480,
     "archived": false
   },
   {
@@ -203,7 +203,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 181,
+    "stars": 182,
     "archived": false
   },
   {
@@ -218,7 +218,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 920,
+    "stars": 927,
     "archived": false
   },
   {
@@ -243,12 +243,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-10-f63d3be",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-10-f63d3be",
-      "date": "2026-10-10"
+      "tag": "KytyPS5-2026-10-11-fbea51c",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-11-fbea51c",
+      "date": "2026-10-11"
     },
-    "updated": "2026-10-10",
-    "stars": 7275,
+    "updated": "2026-10-11",
+    "stars": 7311,
     "archived": false
   },
   {
@@ -263,7 +263,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 274,
+    "stars": 277,
     "archived": false
   },
   {
@@ -288,7 +288,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 144,
+    "stars": 147,
     "archived": false
   },
   {
@@ -303,7 +303,7 @@
     },
     "pre": null,
     "updated": "2026-10-02",
-    "stars": 107,
+    "stars": 108,
     "archived": false
   },
   {
@@ -318,7 +318,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 334,
+    "stars": 337,
     "archived": false
   },
   {
@@ -327,17 +327,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v6.8.2",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v6.8.2",
-      "date": "2026-10-10"
+      "tag": "v7.0.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.1",
+      "date": "2026-10-11"
     },
-    "pre": {
-      "tag": "v6.8.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v6.8.0",
-      "date": "2026-10-10"
-    },
-    "updated": "2026-10-10",
-    "stars": 593,
+    "pre": null,
+    "updated": "2026-10-11",
+    "stars": 601,
     "archived": false
   },
   {
@@ -412,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 711,
+    "stars": 742,
     "archived": false
   },
   {
@@ -441,8 +437,8 @@
       "date": "2026-10-08"
     },
     "pre": null,
-    "updated": "2026-10-10",
-    "stars": 282,
+    "updated": "2026-10-11",
+    "stars": 283,
     "archived": false
   },
   {
@@ -457,7 +453,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 99,
+    "stars": 100,
     "archived": false
   },
   {
@@ -466,16 +462,12 @@
     "description": "App patching system for PS4/PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "37549880588",
-      "url": "https://github.com/illusionyy/ps-patch-system/releases/tag/37549880588",
-      "date": "2026-10-07"
+      "tag": "38108724867",
+      "url": "https://github.com/illusionyy/ps-patch-system/releases/tag/38108724867",
+      "date": "2026-10-11"
     },
-    "pre": {
-      "tag": "38039691171",
-      "url": "https://github.com/illusionyy/ps-patch-system/releases/tag/38039691171",
-      "date": "2026-10-10"
-    },
-    "updated": "2026-10-10",
+    "pre": null,
+    "updated": "2026-10-11",
     "stars": 121,
     "archived": false
   },
@@ -491,7 +483,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 191,
+    "stars": 193,
     "archived": false
   },
   {
@@ -521,7 +513,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 72,
+    "stars": 74,
     "archived": false
   },
   {
@@ -566,7 +558,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 124,
+    "stars": 129,
     "archived": false
   },
   {
@@ -580,8 +572,8 @@
       "date": "2026-10-10"
     },
     "pre": null,
-    "updated": "2026-10-10",
-    "stars": 505,
+    "updated": "2026-10-11",
+    "stars": 508,
     "archived": false
   },
   {
@@ -590,12 +582,12 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build19",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build19",
-      "date": "2026-10-10"
+      "tag": "build20",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build20",
+      "date": "2026-10-11"
     },
     "pre": null,
-    "updated": "2026-10-10",
+    "updated": "2026-10-11",
     "stars": 21,
     "archived": false
   },
@@ -611,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 7,
+    "stars": 17,
     "archived": false
   },
   {
@@ -630,7 +622,7 @@
       "date": "2026-10-09"
     },
     "updated": "2026-10-09",
-    "stars": 741,
+    "stars": 743,
     "archived": false
   }
 ]
