@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 867,
+    "stars": 868,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 957,
+    "stars": 958,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 7560,
+    "stars": 7563,
     "archived": false
   },
   {
@@ -259,7 +259,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 289,
+    "stars": 290,
     "archived": false
   },
   {
@@ -333,7 +333,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 644,
+    "stars": 645,
     "archived": false
   },
   {
@@ -408,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 954,
+    "stars": 957,
     "archived": false
   },
   {
@@ -623,6 +623,21 @@
     },
     "updated": "2026-10-09",
     "stars": 754,
+    "archived": false
+  },
+  {
+    "name": "PS5-LZ4-Compression",
+    "url": "https://github.com/theghostonline/PS5-LZ4-Compression",
+    "description": "LZ4 compression for games, done entirely on the PS5",
+    "category": "Payload",
+    "stable": {
+      "tag": "v1.4.2",
+      "url": "https://github.com/theghostonline/PS5-LZ4-Compression/releases/tag/v1.4.2",
+      "date": "2026-10-11"
+    },
+    "pre": null,
+    "updated": "2026-10-11",
+    "stars": 32,
     "archived": false
   }
 ]
