@@ -40,5 +40,6 @@
   { "repo": "Press5elect/PSSwanStation",         "category": "Emulator" },
   { "repo": "StonedModder/PShare",               "category": "Emulator" },
   { "repo": "itsPLK/ps5-y2jb-autoloader",        "category": "Payload" },
-  { "repo": "theghostonline/PS5-LZ4-Compression","category": "Payload" }
+  { "repo": "theghostonline/PS5-LZ4-Compression","category": "Payload" },
+  { "repo": "ps5-payload-dev/ftpsrv",            "category": "Network" }
 ]
