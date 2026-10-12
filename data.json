@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 395,
+    "stars": 396,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-12",
-    "stars": 625,
+    "stars": 628,
     "archived": false
   },
   {
@@ -109,7 +109,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 385,
+    "stars": 386,
     "archived": false
   },
   {
@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 893,
+    "stars": 896,
     "archived": false
   },
   {
@@ -139,7 +139,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 702,
+    "stars": 705,
     "archived": false
   },
   {
@@ -184,7 +184,7 @@
     },
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 491,
+    "stars": 492,
     "archived": false
   },
   {
@@ -199,7 +199,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 190,
+    "stars": 191,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 986,
+    "stars": 987,
     "archived": false
   },
   {
@@ -229,7 +229,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 260,
+    "stars": 261,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 7844,
+    "stars": 7857,
     "archived": false
   },
   {
@@ -333,7 +333,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 670,
+    "stars": 671,
     "archived": false
   },
   {
@@ -408,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 1116,
+    "stars": 1117,
     "archived": false
   },
   {
@@ -453,7 +453,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 104,
+    "stars": 105,
     "archived": false
   },
   {
@@ -483,7 +483,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-11",
-    "stars": 234,
+    "stars": 235,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 583,
+    "stars": 586,
     "archived": false
   },
   {
@@ -638,6 +638,21 @@
     "pre": null,
     "updated": "2026-10-11",
     "stars": 63,
+    "archived": false
+  },
+  {
+    "name": "ftpsrv",
+    "url": "https://github.com/ps5-payload-dev/ftpsrv",
+    "description": "An FTP server for jailbroken PS4s and PS5s",
+    "category": "Network",
+    "stable": {
+      "tag": "v0.21.1",
+      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/tag/v0.21.1",
+      "date": "2026-08-20"
+    },
+    "pre": null,
+    "updated": "2026-09-30",
+    "stars": 179,
     "archived": false
   }
 ]
