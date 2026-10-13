@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 397,
+    "stars": 400,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 639,
+    "stars": 648,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 114,
+    "stars": 115,
     "archived": false
   },
   {
@@ -109,7 +109,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 390,
+    "stars": 392,
     "archived": false
   },
   {
@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 906,
+    "stars": 909,
     "archived": false
   },
   {
@@ -139,7 +139,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 708,
+    "stars": 714,
     "archived": false
   },
   {
@@ -154,7 +154,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 158,
+    "stars": 160,
     "archived": false
   },
   {
@@ -184,7 +184,7 @@
     },
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 492,
+    "stars": 494,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 996,
+    "stars": 1010,
     "archived": false
   },
   {
@@ -229,7 +229,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 262,
+    "stars": 263,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 7951,
+    "stars": 8058,
     "archived": false
   },
   {
@@ -259,7 +259,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 302,
+    "stars": 305,
     "archived": false
   },
   {
@@ -269,7 +269,7 @@
     "category": "Dev",
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 25,
+    "stars": 26,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 162,
+    "stars": 168,
     "archived": false
   },
   {
@@ -299,7 +299,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 124,
+    "stars": 129,
     "archived": false
   },
   {
@@ -333,7 +333,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 674,
+    "stars": 679,
     "archived": false
   },
   {
@@ -408,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 1136,
+    "stars": 1170,
     "archived": false
   },
   {
@@ -423,7 +423,7 @@
     },
     "pre": null,
     "updated": "2026-10-06",
-    "stars": 51,
+    "stars": 52,
     "archived": false
   },
   {
@@ -438,7 +438,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 294,
+    "stars": 296,
     "archived": false
   },
   {
@@ -453,7 +453,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 107,
+    "stars": 108,
     "archived": false
   },
   {
@@ -468,7 +468,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 138,
+    "stars": 140,
     "archived": false
   },
   {
@@ -483,7 +483,7 @@
       "date": "2026-10-11"
     },
     "updated": "2026-10-13",
-    "stars": 239,
+    "stars": 245,
     "archived": false
   },
   {
@@ -513,7 +513,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 83,
+    "stars": 84,
     "archived": false
   },
   {
@@ -528,7 +528,7 @@
     },
     "pre": null,
     "updated": "2026-10-07",
-    "stars": 19,
+    "stars": 20,
     "archived": false
   },
   {
@@ -558,7 +558,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 142,
+    "stars": 145,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 616,
+    "stars": 679,
     "archived": false
   },
   {
@@ -582,13 +582,13 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build20",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build20",
-      "date": "2026-10-11"
+      "tag": "build21",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build21",
+      "date": "2026-10-13"
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 23,
+    "stars": 24,
     "archived": false
   },
   {
@@ -617,12 +617,12 @@
       "date": "2026-05-01"
     },
     "pre": {
-      "tag": "v1.0.0-fb17d16",
-      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.0-fb17d16",
-      "date": "2026-10-09"
+      "tag": "v1.0.1-0866fb4",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.1-0866fb4",
+      "date": "2026-10-13"
     },
-    "updated": "2026-10-09",
-    "stars": 777,
+    "updated": "2026-10-13",
+    "stars": 781,
     "archived": false
   },
   {
@@ -637,7 +637,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 74,
+    "stars": 81,
     "archived": false
   },
   {
@@ -667,7 +667,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 217,
+    "stars": 219,
     "archived": false
   }
 ]
