@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 396,
+    "stars": 397,
     "archived": false
   },
   {
@@ -40,12 +40,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v1.000.110",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.000.110",
-      "date": "2026-10-11"
+      "tag": "v1.001.000",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.001.000",
+      "date": "2026-10-13"
     },
-    "updated": "2026-10-12",
-    "stars": 631,
+    "updated": "2026-10-13",
+    "stars": 639,
     "archived": false
   },
   {
@@ -59,7 +59,7 @@
       "date": "2026-10-12"
     },
     "pre": null,
-    "updated": "2026-10-12",
+    "updated": "2026-10-13",
     "stars": 114,
     "archived": false
   },
@@ -93,8 +93,8 @@
       "url": "https://github.com/blackbearreloaded/ps5-homebrew-ui/releases/tag/build-cache",
       "date": "2026-10-10"
     },
-    "updated": "2026-10-11",
-    "stars": 52,
+    "updated": "2026-10-13",
+    "stars": 53,
     "archived": false
   },
   {
@@ -109,7 +109,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 388,
+    "stars": 390,
     "archived": false
   },
   {
@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 901,
+    "stars": 906,
     "archived": false
   },
   {
@@ -139,7 +139,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 707,
+    "stars": 708,
     "archived": false
   },
   {
@@ -154,7 +154,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 159,
+    "stars": 158,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 992,
+    "stars": 996,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 7905,
+    "stars": 7951,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 161,
+    "stars": 162,
     "archived": false
   },
   {
@@ -333,7 +333,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 672,
+    "stars": 674,
     "archived": false
   },
   {
@@ -408,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 1129,
+    "stars": 1136,
     "archived": false
   },
   {
@@ -438,7 +438,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 295,
+    "stars": 294,
     "archived": false
   },
   {
@@ -453,7 +453,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 106,
+    "stars": 107,
     "archived": false
   },
   {
@@ -468,7 +468,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 137,
+    "stars": 138,
     "archived": false
   },
   {
@@ -482,8 +482,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.060",
       "date": "2026-10-11"
     },
-    "updated": "2026-10-11",
-    "stars": 237,
+    "updated": "2026-10-13",
+    "stars": 239,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 600,
+    "stars": 616,
     "archived": false
   },
   {
@@ -587,8 +587,8 @@
       "date": "2026-10-11"
     },
     "pre": null,
-    "updated": "2026-10-12",
-    "stars": 22,
+    "updated": "2026-10-13",
+    "stars": 23,
     "archived": false
   },
   {
@@ -622,7 +622,7 @@
       "date": "2026-10-09"
     },
     "updated": "2026-10-09",
-    "stars": 770,
+    "stars": 777,
     "archived": false
   },
   {
@@ -637,7 +637,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 70,
+    "stars": 74,
     "archived": false
   },
   {
@@ -652,7 +652,7 @@
     },
     "pre": null,
     "updated": "2026-09-30",
-    "stars": 179,
+    "stars": 180,
     "archived": false
   },
   {
@@ -667,7 +667,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 216,
+    "stars": 217,
     "archived": false
   }
 ]
