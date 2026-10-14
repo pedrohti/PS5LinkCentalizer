@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 403,
+    "stars": 405,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-14",
-    "stars": 669,
+    "stars": 672,
     "archived": false
   },
   {
@@ -59,8 +59,8 @@
       "date": "2026-10-12"
     },
     "pre": null,
-    "updated": "2026-10-13",
-    "stars": 118,
+    "updated": "2026-10-14",
+    "stars": 119,
     "archived": false
   },
   {
@@ -109,7 +109,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 399,
+    "stars": 400,
     "archived": false
   },
   {
@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 926,
+    "stars": 928,
     "archived": false
   },
   {
@@ -139,7 +139,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 723,
+    "stars": 725,
     "archived": false
   },
   {
@@ -178,13 +178,13 @@
     "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
     "category": "Payload",
     "stable": {
-      "tag": "v0.6.0",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/tag/v0.6.0",
-      "date": "2026-10-13"
+      "tag": "v0.6.1",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/tag/v0.6.1",
+      "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-13",
-    "stars": 529,
+    "updated": "2026-10-14",
+    "stars": 530,
     "archived": false
   },
   {
@@ -199,7 +199,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 194,
+    "stars": 198,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1034,
+    "stars": 1040,
     "archived": false
   },
   {
@@ -229,7 +229,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 265,
+    "stars": 266,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 8297,
+    "stars": 8347,
     "archived": false
   },
   {
@@ -259,7 +259,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 312,
+    "stars": 314,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 175,
+    "stars": 180,
     "archived": false
   },
   {
@@ -299,7 +299,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 135,
+    "stars": 138,
     "archived": false
   },
   {
@@ -314,7 +314,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 358,
+    "stars": 360,
     "archived": false
   },
   {
@@ -333,7 +333,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 695,
+    "stars": 696,
     "archived": false
   },
   {
@@ -408,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1230,
+    "stars": 1238,
     "archived": false
   },
   {
@@ -438,7 +438,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 313,
+    "stars": 319,
     "archived": false
   },
   {
@@ -468,7 +468,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 141,
+    "stars": 143,
     "archived": false
   },
   {
@@ -483,7 +483,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 263,
+    "stars": 267,
     "archived": false
   },
   {
@@ -513,7 +513,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 85,
+    "stars": 86,
     "archived": false
   },
   {
@@ -567,13 +567,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.3.0",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.3.0",
-      "date": "2026-10-13"
+      "tag": "v1.3.5",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.3.5",
+      "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-13",
-    "stars": 804,
+    "updated": "2026-10-14",
+    "stars": 819,
     "archived": false
   },
   {
@@ -617,12 +617,12 @@
       "date": "2026-05-01"
     },
     "pre": {
-      "tag": "v1.0.1-0866fb4",
-      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.1-0866fb4",
-      "date": "2026-10-13"
+      "tag": "v1.0.2-dev-ff3826a",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.2-dev-ff3826a",
+      "date": "2026-10-14"
     },
-    "updated": "2026-10-13",
-    "stars": 816,
+    "updated": "2026-10-14",
+    "stars": 822,
     "archived": false
   },
   {
@@ -631,13 +631,13 @@
     "description": "LZ4 compression for games, done entirely on the PS5",
     "category": "Payload",
     "stable": {
-      "tag": "v1.4.2",
-      "url": "https://github.com/theghostonline/PS5-LZ4-Compression/releases/tag/v1.4.2",
-      "date": "2026-10-11"
+      "tag": "v1.5.0",
+      "url": "https://github.com/theghostonline/PS5-LZ4-Compression/releases/tag/v1.5.0",
+      "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-11",
-    "stars": 88,
+    "updated": "2026-10-14",
+    "stars": 92,
     "archived": false
   },
   {
