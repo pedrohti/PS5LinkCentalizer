@@ -11,7 +11,7 @@
     },
     "pre": null,
     "updated": "2026-05-25",
-    "stars": 64,
+    "stars": 65,
     "archived": false
   },
   {
@@ -30,7 +30,7 @@
       "date": "2026-10-07"
     },
     "updated": "2026-10-07",
-    "stars": 401,
+    "stars": 402,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-14",
-    "stars": 653,
+    "stars": 662,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 117,
+    "stars": 118,
     "archived": false
   },
   {
@@ -109,7 +109,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 396,
+    "stars": 398,
     "archived": false
   },
   {
@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 915,
+    "stars": 919,
     "archived": false
   },
   {
@@ -139,7 +139,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 716,
+    "stars": 719,
     "archived": false
   },
   {
@@ -184,7 +184,7 @@
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 507,
+    "stars": 524,
     "archived": false
   },
   {
@@ -199,7 +199,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 191,
+    "stars": 192,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1018,
+    "stars": 1027,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 8189,
+    "stars": 8248,
     "archived": false
   },
   {
@@ -259,7 +259,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 307,
+    "stars": 310,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 169,
+    "stars": 171,
     "archived": false
   },
   {
@@ -299,7 +299,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 132,
+    "stars": 133,
     "archived": false
   },
   {
@@ -314,7 +314,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 355,
+    "stars": 357,
     "archived": false
   },
   {
@@ -333,7 +333,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 686,
+    "stars": 692,
     "archived": false
   },
   {
@@ -408,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1207,
+    "stars": 1220,
     "archived": false
   },
   {
@@ -432,13 +432,13 @@
     "description": "Wii U, 3DS, and DS emulation for PS5 homebrew (Cemu + Azahar+ Melon DS)",
     "category": "Emulator",
     "stable": {
-      "tag": "v3.5.0",
-      "url": "https://github.com/premohq/PS5CEMU-HAR/releases/tag/v3.5.0",
-      "date": "2026-10-08"
+      "tag": "v4.0.0",
+      "url": "https://github.com/premohq/PS5CEMU-HAR/releases/tag/v4.0.0",
+      "date": "2026-10-14"
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 298,
+    "stars": 305,
     "archived": false
   },
   {
@@ -468,7 +468,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 140,
+    "stars": 141,
     "archived": false
   },
   {
@@ -483,7 +483,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 251,
+    "stars": 257,
     "archived": false
   },
   {
@@ -558,7 +558,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 145,
+    "stars": 147,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 747,
+    "stars": 784,
     "archived": false
   },
   {
@@ -587,8 +587,8 @@
       "date": "2026-10-13"
     },
     "pre": null,
-    "updated": "2026-10-13",
-    "stars": 24,
+    "updated": "2026-10-14",
+    "stars": 25,
     "archived": false
   },
   {
@@ -622,7 +622,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 796,
+    "stars": 808,
     "archived": false
   },
   {
