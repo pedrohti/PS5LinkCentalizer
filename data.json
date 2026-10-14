@@ -40,12 +40,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v1.001.000",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.001.000",
-      "date": "2026-10-13"
+      "tag": "v1.002.000",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.002.000",
+      "date": "2026-10-14"
     },
-    "updated": "2026-10-13",
-    "stars": 650,
+    "updated": "2026-10-14",
+    "stars": 653,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 116,
+    "stars": 117,
     "archived": false
   },
   {
@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 912,
+    "stars": 915,
     "archived": false
   },
   {
@@ -139,7 +139,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 715,
+    "stars": 716,
     "archived": false
   },
   {
@@ -154,7 +154,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 161,
+    "stars": 162,
     "archived": false
   },
   {
@@ -169,7 +169,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 80,
+    "stars": 81,
     "archived": false
   },
   {
@@ -178,13 +178,13 @@
     "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
     "category": "Payload",
     "stable": {
-      "tag": "v0.5.2",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/tag/v0.5.2",
-      "date": "2026-09-29"
+      "tag": "v0.6.0",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/tag/v0.6.0",
+      "date": "2026-10-13"
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 501,
+    "stars": 507,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1015,
+    "stars": 1018,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 8135,
+    "stars": 8189,
     "archived": false
   },
   {
@@ -259,7 +259,7 @@
       "date": "2026-10-08"
     },
     "updated": "2026-10-10",
-    "stars": 305,
+    "stars": 307,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 168,
+    "stars": 169,
     "archived": false
   },
   {
@@ -299,7 +299,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 130,
+    "stars": 132,
     "archived": false
   },
   {
@@ -314,7 +314,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 353,
+    "stars": 355,
     "archived": false
   },
   {
@@ -333,7 +333,7 @@
       "date": "2026-10-12"
     },
     "updated": "2026-10-12",
-    "stars": 682,
+    "stars": 686,
     "archived": false
   },
   {
@@ -402,13 +402,13 @@
     "description": "A port of PCSX2 for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "vk-285-163",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-163",
-      "date": "2026-10-11"
+      "tag": "vk-285-171",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-171",
+      "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-11",
-    "stars": 1185,
+    "updated": "2026-10-14",
+    "stars": 1207,
     "archived": false
   },
   {
@@ -423,13 +423,13 @@
     },
     "pre": null,
     "updated": "2026-10-06",
-    "stars": 53,
+    "stars": 54,
     "archived": false
   },
   {
     "name": "PS5CEMU-HAR",
     "url": "https://github.com/premohq/PS5CEMU-HAR",
-    "description": "Wii U and 3DS emulation for PS5 homebrew (Cemu + Azahar)",
+    "description": "Wii U, 3DS, and DS emulation for PS5 homebrew (Cemu + Azahar+ Melon DS)",
     "category": "Emulator",
     "stable": {
       "tag": "v3.5.0",
@@ -437,8 +437,8 @@
       "date": "2026-10-08"
     },
     "pre": null,
-    "updated": "2026-10-12",
-    "stars": 297,
+    "updated": "2026-10-14",
+    "stars": 298,
     "archived": false
   },
   {
@@ -453,7 +453,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 108,
+    "stars": 109,
     "archived": false
   },
   {
@@ -478,12 +478,12 @@
     "category": "Homebrew",
     "stable": null,
     "pre": {
-      "tag": "v1.000.060",
-      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.060",
-      "date": "2026-10-11"
+      "tag": "v1.000.070",
+      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.070",
+      "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 245,
+    "stars": 251,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-10-13",
-    "stars": 714,
+    "stars": 747,
     "archived": false
   },
   {
@@ -622,7 +622,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 790,
+    "stars": 796,
     "archived": false
   },
   {
@@ -637,7 +637,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 84,
+    "stars": 87,
     "archived": false
   },
   {
@@ -667,7 +667,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 219,
+    "stars": 224,
     "archived": false
   }
 ]
