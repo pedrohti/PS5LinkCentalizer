@@ -44,8 +44,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.002.000",
       "date": "2026-10-14"
     },
-    "updated": "2026-10-14",
-    "stars": 672,
+    "updated": "2026-10-15",
+    "stars": 678,
     "archived": false
   },
   {
@@ -54,12 +54,12 @@
     "description": "An unofficial Moonlight port (game streaming) for PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "01.000.100",
-      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.100",
-      "date": "2026-10-12"
+      "tag": "01.000.110",
+      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.110",
+      "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-14",
+    "updated": "2026-10-15",
     "stars": 119,
     "archived": false
   },
@@ -94,7 +94,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 53,
+    "stars": 54,
     "archived": false
   },
   {
@@ -109,7 +109,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 400,
+    "stars": 401,
     "archived": false
   },
   {
@@ -124,7 +124,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 928,
+    "stars": 933,
     "archived": false
   },
   {
@@ -184,7 +184,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 530,
+    "stars": 540,
     "archived": false
   },
   {
@@ -199,7 +199,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 198,
+    "stars": 200,
     "archived": false
   },
   {
@@ -214,7 +214,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1040,
+    "stars": 1043,
     "archived": false
   },
   {
@@ -244,7 +244,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 8347,
+    "stars": 8396,
     "archived": false
   },
   {
@@ -254,12 +254,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v1.0.0-beta.1",
-      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v1.0.0-beta.1",
-      "date": "2026-10-08"
+      "tag": "v2.0.0-beta-2",
+      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v2.0.0-beta-2",
+      "date": "2026-10-15"
     },
-    "updated": "2026-10-10",
-    "stars": 314,
+    "updated": "2026-10-15",
+    "stars": 318,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 180,
+    "stars": 185,
     "archived": false
   },
   {
@@ -299,7 +299,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 138,
+    "stars": 141,
     "archived": false
   },
   {
@@ -314,7 +314,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 360,
+    "stars": 361,
     "archived": false
   },
   {
@@ -332,8 +332,8 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.18",
       "date": "2026-10-12"
     },
-    "updated": "2026-10-12",
-    "stars": 696,
+    "updated": "2026-10-15",
+    "stars": 700,
     "archived": false
   },
   {
@@ -408,7 +408,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1238,
+    "stars": 1243,
     "archived": false
   },
   {
@@ -437,8 +437,8 @@
       "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-14",
-    "stars": 319,
+    "updated": "2026-10-15",
+    "stars": 325,
     "archived": false
   },
   {
@@ -453,7 +453,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 109,
+    "stars": 111,
     "archived": false
   },
   {
@@ -483,7 +483,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 267,
+    "stars": 268,
     "archived": false
   },
   {
@@ -558,7 +558,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 149,
+    "stars": 151,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 819,
+    "stars": 841,
     "archived": false
   },
   {
@@ -588,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 25,
+    "stars": 26,
     "archived": false
   },
   {
@@ -617,12 +617,12 @@
       "date": "2026-05-01"
     },
     "pre": {
-      "tag": "v1.0.2-dev-ff3826a",
-      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.2-dev-ff3826a",
+      "tag": "v1.0.2-254c85f",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.2-254c85f",
       "date": "2026-10-14"
     },
     "updated": "2026-10-14",
-    "stars": 822,
+    "stars": 831,
     "archived": false
   },
   {
@@ -637,7 +637,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 92,
+    "stars": 95,
     "archived": false
   },
   {
@@ -667,7 +667,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 225,
+    "stars": 226,
     "archived": false
   }
 ]
