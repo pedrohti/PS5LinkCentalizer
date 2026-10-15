@@ -20,17 +20,13 @@
     "description": "Yet another HEN enabler for jailbroken PS5",
     "category": "HEN",
     "stable": {
-      "tag": "v0.0.13",
-      "url": "https://github.com/aydencharles/onionHEN/releases/tag/v0.0.13",
-      "date": "2026-09-11"
+      "tag": "v0.9.0",
+      "url": "https://github.com/aydencharles/onionHEN/releases/tag/v0.9.0",
+      "date": "2026-10-15"
     },
-    "pre": {
-      "tag": "v0.9.0-beta2",
-      "url": "https://github.com/aydencharles/onionHEN/releases/tag/v0.9.0-beta2",
-      "date": "2026-10-07"
-    },
-    "updated": "2026-10-07",
-    "stars": 405,
+    "pre": null,
+    "updated": "2026-10-15",
+    "stars": 408,
     "archived": false
   },
   {
@@ -45,7 +41,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 678,
+    "stars": 682,
     "archived": false
   },
   {
@@ -60,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 119,
+    "stars": 120,
     "archived": false
   },
   {
@@ -94,7 +90,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 54,
+    "stars": 58,
     "archived": false
   },
   {
@@ -109,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 401,
+    "stars": 406,
     "archived": false
   },
   {
@@ -124,7 +120,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 933,
+    "stars": 945,
     "archived": false
   },
   {
@@ -139,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 725,
+    "stars": 729,
     "archived": false
   },
   {
@@ -169,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 81,
+    "stars": 82,
     "archived": false
   },
   {
@@ -184,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 540,
+    "stars": 548,
     "archived": false
   },
   {
@@ -199,7 +195,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 200,
+    "stars": 201,
     "archived": false
   },
   {
@@ -214,7 +210,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1043,
+    "stars": 1052,
     "archived": false
   },
   {
@@ -229,7 +225,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 266,
+    "stars": 267,
     "archived": false
   },
   {
@@ -244,7 +240,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 8396,
+    "stars": 8448,
     "archived": false
   },
   {
@@ -259,7 +255,7 @@
       "date": "2026-10-15"
     },
     "updated": "2026-10-15",
-    "stars": 318,
+    "stars": 321,
     "archived": false
   },
   {
@@ -284,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 185,
+    "stars": 189,
     "archived": false
   },
   {
@@ -298,8 +294,8 @@
       "date": "2026-10-11"
     },
     "pre": null,
-    "updated": "2026-10-11",
-    "stars": 141,
+    "updated": "2026-10-15",
+    "stars": 142,
     "archived": false
   },
   {
@@ -314,7 +310,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 361,
+    "stars": 364,
     "archived": false
   },
   {
@@ -323,17 +319,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.0.22",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.22",
-      "date": "2026-10-12"
+      "tag": "v7.0.23",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.23",
+      "date": "2026-10-15"
     },
-    "pre": {
-      "tag": "v7.0.18",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.18",
-      "date": "2026-10-12"
-    },
+    "pre": null,
     "updated": "2026-10-15",
-    "stars": 700,
+    "stars": 701,
     "archived": false
   },
   {
@@ -408,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1243,
+    "stars": 1250,
     "archived": false
   },
   {
@@ -432,13 +424,13 @@
     "description": "Wii U, 3DS, and DS emulation for PS5 homebrew (Cemu + Azahar+ Melon DS)",
     "category": "Emulator",
     "stable": {
-      "tag": "v4.0.0",
-      "url": "https://github.com/premohq/PS5CEMU-HAR/releases/tag/v4.0.0",
-      "date": "2026-10-14"
+      "tag": "v4.0.1",
+      "url": "https://github.com/premohq/PS5CEMU-HAR/releases/tag/v4.0.1",
+      "date": "2026-10-15"
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 325,
+    "stars": 327,
     "archived": false
   },
   {
@@ -468,7 +460,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 143,
+    "stars": 144,
     "archived": false
   },
   {
@@ -483,7 +475,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-13",
-    "stars": 268,
+    "stars": 277,
     "archived": false
   },
   {
@@ -573,7 +565,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 841,
+    "stars": 858,
     "archived": false
   },
   {
@@ -588,7 +580,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 26,
+    "stars": 27,
     "archived": false
   },
   {
@@ -622,7 +614,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-14",
-    "stars": 831,
+    "stars": 844,
     "archived": false
   },
   {
@@ -636,8 +628,8 @@
       "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-14",
-    "stars": 95,
+    "updated": "2026-10-15",
+    "stars": 97,
     "archived": false
   },
   {
@@ -652,7 +644,7 @@
     },
     "pre": null,
     "updated": "2026-09-30",
-    "stars": 181,
+    "stars": 182,
     "archived": false
   },
   {
