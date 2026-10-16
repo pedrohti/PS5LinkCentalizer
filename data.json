@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 414,
+    "stars": 417,
     "archived": false
   },
   {
@@ -36,12 +36,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v1.002.000",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.002.000",
-      "date": "2026-10-14"
+      "tag": "v1.003.000",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.003.000",
+      "date": "2026-10-16"
     },
-    "updated": "2026-10-15",
-    "stars": 687,
+    "updated": "2026-10-16",
+    "stars": 694,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 121,
+    "stars": 122,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 407,
+    "stars": 411,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 958,
+    "stars": 962,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 731,
+    "stars": 733,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 162,
+    "stars": 163,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 553,
+    "stars": 556,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 202,
+    "stars": 204,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1056,
+    "stars": 1059,
     "archived": false
   },
   {
@@ -235,12 +235,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-13-9e41d83",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-13-9e41d83",
-      "date": "2026-10-13"
+      "tag": "KytyPS5-2026-10-16-83db2ef",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-16-83db2ef",
+      "date": "2026-10-16"
     },
-    "updated": "2026-10-13",
-    "stars": 8532,
+    "updated": "2026-10-16",
+    "stars": 8579,
     "archived": false
   },
   {
@@ -255,7 +255,7 @@
       "date": "2026-10-15"
     },
     "updated": "2026-10-15",
-    "stars": 328,
+    "stars": 330,
     "archived": false
   },
   {
@@ -280,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 196,
+    "stars": 200,
     "archived": false
   },
   {
@@ -295,7 +295,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 146,
+    "stars": 148,
     "archived": false
   },
   {
@@ -310,7 +310,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 368,
+    "stars": 369,
     "archived": false
   },
   {
@@ -319,17 +319,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.0.23",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.23",
-      "date": "2026-10-15"
+      "tag": "v7.0.26",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.26",
+      "date": "2026-10-16"
     },
-    "pre": {
-      "tag": "v7.0.25",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.25",
-      "date": "2026-10-15"
-    },
-    "updated": "2026-10-15",
-    "stars": 709,
+    "pre": null,
+    "updated": "2026-10-16",
+    "stars": 714,
     "archived": false
   },
   {
@@ -404,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1271,
+    "stars": 1280,
     "archived": false
   },
   {
@@ -419,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-06",
-    "stars": 54,
+    "stars": 55,
     "archived": false
   },
   {
@@ -433,8 +429,8 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-15",
-    "stars": 329,
+    "updated": "2026-10-16",
+    "stars": 331,
     "archived": false
   },
   {
@@ -464,7 +460,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 150,
+    "stars": 153,
     "archived": false
   },
   {
@@ -478,8 +474,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.070",
       "date": "2026-10-13"
     },
-    "updated": "2026-10-13",
-    "stars": 287,
+    "updated": "2026-10-15",
+    "stars": 293,
     "archived": false
   },
   {
@@ -494,7 +490,7 @@
     },
     "pre": null,
     "updated": "2026-08-05",
-    "stars": 11,
+    "stars": 12,
     "archived": false
   },
   {
@@ -509,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 87,
+    "stars": 91,
     "archived": false
   },
   {
@@ -554,7 +550,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 154,
+    "stars": 155,
     "archived": false
   },
   {
@@ -569,7 +565,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 883,
+    "stars": 895,
     "archived": false
   },
   {
@@ -618,7 +614,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 857,
+    "stars": 864,
     "archived": false
   },
   {
@@ -632,8 +628,8 @@
       "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-15",
-    "stars": 100,
+    "updated": "2026-10-16",
+    "stars": 102,
     "archived": false
   },
   {
@@ -663,7 +659,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 228,
+    "stars": 230,
     "archived": false
   }
 ]
