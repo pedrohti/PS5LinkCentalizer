@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 422,
+    "stars": 425,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-16"
     },
     "updated": "2026-10-16",
-    "stars": 710,
+    "stars": 717,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 60,
+    "stars": 61,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 972,
+    "stars": 973,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 563,
+    "stars": 566,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1071,
+    "stars": 1074,
     "archived": false
   },
   {
@@ -235,12 +235,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-16-d58aefd",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-16-d58aefd",
+      "tag": "KytyPS5-2026-10-16-d7974dc",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-16-d7974dc",
       "date": "2026-10-16"
     },
     "updated": "2026-10-16",
-    "stars": 8658,
+    "stars": 8695,
     "archived": false
   },
   {
@@ -255,7 +255,7 @@
       "date": "2026-10-15"
     },
     "updated": "2026-10-15",
-    "stars": 337,
+    "stars": 339,
     "archived": false
   },
   {
@@ -319,17 +319,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.0.27",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.27",
+      "tag": "v7.0.29",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.29",
       "date": "2026-10-16"
     },
-    "pre": {
-      "tag": "v7.0.28",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.28",
-      "date": "2026-10-16"
-    },
+    "pre": null,
     "updated": "2026-10-16",
-    "stars": 722,
+    "stars": 725,
     "archived": false
   },
   {
@@ -404,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1300,
+    "stars": 1315,
     "archived": false
   },
   {
@@ -434,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 336,
+    "stars": 337,
     "archived": false
   },
   {
@@ -449,7 +445,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 111,
+    "stars": 112,
     "archived": false
   },
   {
@@ -479,7 +475,7 @@
       "date": "2026-10-13"
     },
     "updated": "2026-10-15",
-    "stars": 297,
+    "stars": 300,
     "archived": false
   },
   {
@@ -539,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 45,
+    "stars": 49,
     "archived": false
   },
   {
@@ -554,7 +550,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 159,
+    "stars": 160,
     "archived": false
   },
   {
@@ -569,7 +565,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 911,
+    "stars": 918,
     "archived": false
   },
   {
@@ -578,9 +574,9 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build22",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build22",
-      "date": "2026-10-14"
+      "tag": "build23",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build23",
+      "date": "2026-10-16"
     },
     "pre": null,
     "updated": "2026-10-16",
@@ -618,7 +614,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 876,
+    "stars": 880,
     "archived": false
   },
   {
