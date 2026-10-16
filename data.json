@@ -41,7 +41,7 @@
       "date": "2026-10-16"
     },
     "updated": "2026-10-16",
-    "stars": 717,
+    "stars": 720,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 122,
+    "stars": 123,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 973,
+    "stars": 977,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 741,
+    "stars": 742,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 164,
+    "stars": 165,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 83,
+    "stars": 82,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1074,
+    "stars": 1075,
     "archived": false
   },
   {
@@ -240,7 +240,7 @@
       "date": "2026-10-16"
     },
     "updated": "2026-10-16",
-    "stars": 8695,
+    "stars": 8707,
     "archived": false
   },
   {
@@ -255,7 +255,7 @@
       "date": "2026-10-15"
     },
     "updated": "2026-10-15",
-    "stars": 339,
+    "stars": 341,
     "archived": false
   },
   {
@@ -319,13 +319,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.0.29",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.29",
+      "tag": "v7.0.31",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.31",
       "date": "2026-10-16"
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 725,
+    "stars": 729,
     "archived": false
   },
   {
@@ -400,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1315,
+    "stars": 1320,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 337,
+    "stars": 340,
     "archived": false
   },
   {
@@ -474,8 +474,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.070",
       "date": "2026-10-13"
     },
-    "updated": "2026-10-15",
-    "stars": 300,
+    "updated": "2026-10-16",
+    "stars": 302,
     "archived": false
   },
   {
@@ -505,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 92,
+    "stars": 93,
     "archived": false
   },
   {
@@ -520,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-07",
-    "stars": 20,
+    "stars": 21,
     "archived": false
   },
   {
@@ -535,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 49,
+    "stars": 54,
     "archived": false
   },
   {
@@ -550,7 +550,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 160,
+    "stars": 161,
     "archived": false
   },
   {
@@ -565,7 +565,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 918,
+    "stars": 922,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 880,
+    "stars": 881,
     "archived": false
   },
   {
@@ -629,7 +629,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 104,
+    "stars": 107,
     "archived": false
   },
   {
@@ -644,7 +644,7 @@
     },
     "pre": null,
     "updated": "2026-09-30",
-    "stars": 184,
+    "stars": 185,
     "archived": false
   },
   {
@@ -659,7 +659,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 232,
+    "stars": 231,
     "archived": false
   }
 ]
