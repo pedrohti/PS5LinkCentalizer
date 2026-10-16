@@ -15,7 +15,7 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Get the PR's projects.json
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -23,9 +23,9 @@ jobs:
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: |
           gh api "repos/$HEAD_REPO/contents/projects.json?ref=$HEAD_SHA" -H "Accept: application/vnd.github.raw" > pr-projects.json
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 24
       - id: check
         continue-on-error: true
         run: node scripts/validate.mjs pr-projects.json > report.md
