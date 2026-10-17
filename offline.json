@@ -6,5 +6,13 @@
     "category": "Payload",
     "lastVersion": "v0.5.5-beta",
     "offlineSince": "2026-10-05"
+  },
+  {
+    "repo": "theghostonline/PS5-LZ4-Compression",
+    "name": "PS5-LZ4-Compression",
+    "description": "LZ4 compression for games, done entirely on the PS5",
+    "category": "Payload",
+    "lastVersion": "v1.5.0",
+    "offlineSince": "2026-10-17"
   }
 ]

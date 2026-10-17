@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 431,
+    "stars": 432,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-17"
     },
     "updated": "2026-10-17",
-    "stars": 739,
+    "stars": 741,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 65,
+    "stars": 67,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 987,
+    "stars": 989,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 748,
+    "stars": 750,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 577,
+    "stars": 578,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1096,
+    "stars": 1099,
     "archived": false
   },
   {
@@ -240,7 +240,7 @@
       "date": "2026-10-17"
     },
     "updated": "2026-10-17",
-    "stars": 8851,
+    "stars": 8884,
     "archived": false
   },
   {
@@ -254,8 +254,8 @@
       "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v2.0.0-beta-2",
       "date": "2026-10-15"
     },
-    "updated": "2026-10-15",
-    "stars": 346,
+    "updated": "2026-10-17",
+    "stars": 348,
     "archived": false
   },
   {
@@ -280,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 203,
+    "stars": 204,
     "archived": false
   },
   {
@@ -295,7 +295,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 153,
+    "stars": 154,
     "archived": false
   },
   {
@@ -309,7 +309,7 @@
       "date": "2026-10-09"
     },
     "pre": null,
-    "updated": "2026-10-09",
+    "updated": "2026-10-17",
     "stars": 370,
     "archived": false
   },
@@ -325,7 +325,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 756,
+    "stars": 759,
     "archived": false
   },
   {
@@ -400,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1356,
+    "stars": 1359,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 346,
+    "stars": 347,
     "archived": false
   },
   {
@@ -460,7 +460,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 164,
+    "stars": 166,
     "archived": false
   },
   {
@@ -475,7 +475,7 @@
       "date": "2026-10-17"
     },
     "updated": "2026-10-17",
-    "stars": 313,
+    "stars": 314,
     "archived": false
   },
   {
@@ -520,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-07",
-    "stars": 21,
+    "stars": 23,
     "archived": false
   },
   {
@@ -550,7 +550,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 165,
+    "stars": 167,
     "archived": false
   },
   {
@@ -565,7 +565,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 955,
+    "stars": 963,
     "archived": false
   },
   {
@@ -614,22 +614,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 890,
-    "archived": false
-  },
-  {
-    "name": "PS5-LZ4-Compression",
-    "url": "https://github.com/theghostonline/PS5-LZ4-Compression",
-    "description": "LZ4 compression for games, done entirely on the PS5",
-    "category": "Payload",
-    "stable": {
-      "tag": "v1.5.0",
-      "url": "https://github.com/theghostonline/PS5-LZ4-Compression/releases/tag/v1.5.0",
-      "date": "2026-10-14"
-    },
-    "pre": null,
-    "updated": "2026-10-17",
-    "stars": 111,
+    "stars": 892,
     "archived": false
   },
   {
