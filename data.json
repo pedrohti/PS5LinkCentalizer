@@ -36,12 +36,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v1.003.000",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.003.000",
-      "date": "2026-10-16"
+      "tag": "v1.004.000",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.004.000",
+      "date": "2026-10-17"
     },
-    "updated": "2026-10-16",
-    "stars": 720,
+    "updated": "2026-10-17",
+    "stars": 723,
     "archived": false
   },
   {
@@ -55,7 +55,7 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-16",
+    "updated": "2026-10-17",
     "stars": 123,
     "archived": false
   },
@@ -90,7 +90,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 61,
+    "stars": 63,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 416,
+    "stars": 417,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 977,
+    "stars": 979,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 742,
+    "stars": 744,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 566,
+    "stars": 567,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1075,
+    "stars": 1077,
     "archived": false
   },
   {
@@ -235,12 +235,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-16-d7974dc",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-16-d7974dc",
-      "date": "2026-10-16"
+      "tag": "KytyPS5-2026-10-17-ba8b0c8",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-17-ba8b0c8",
+      "date": "2026-10-17"
     },
-    "updated": "2026-10-16",
-    "stars": 8707,
+    "updated": "2026-10-17",
+    "stars": 8732,
     "archived": false
   },
   {
@@ -255,7 +255,7 @@
       "date": "2026-10-15"
     },
     "updated": "2026-10-15",
-    "stars": 341,
+    "stars": 344,
     "archived": false
   },
   {
@@ -295,7 +295,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 148,
+    "stars": 149,
     "archived": false
   },
   {
@@ -310,7 +310,7 @@
     },
     "pre": null,
     "updated": "2026-10-09",
-    "stars": 370,
+    "stars": 371,
     "archived": false
   },
   {
@@ -323,9 +323,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.31",
       "date": "2026-10-16"
     },
-    "pre": null,
-    "updated": "2026-10-16",
-    "stars": 729,
+    "pre": {
+      "tag": "v7.0.32",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.32",
+      "date": "2026-10-17"
+    },
+    "updated": "2026-10-17",
+    "stars": 740,
     "archived": false
   },
   {
@@ -400,7 +404,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1320,
+    "stars": 1328,
     "archived": false
   },
   {
@@ -415,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-06",
-    "stars": 54,
+    "stars": 55,
     "archived": false
   },
   {
@@ -430,7 +434,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 340,
+    "stars": 342,
     "archived": false
   },
   {
@@ -460,7 +464,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 158,
+    "stars": 159,
     "archived": false
   },
   {
@@ -474,8 +478,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.070",
       "date": "2026-10-13"
     },
-    "updated": "2026-10-16",
-    "stars": 302,
+    "updated": "2026-10-17",
+    "stars": 303,
     "archived": false
   },
   {
@@ -535,7 +539,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 54,
+    "stars": 55,
     "archived": false
   },
   {
@@ -550,7 +554,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 161,
+    "stars": 163,
     "archived": false
   },
   {
@@ -565,7 +569,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 922,
+    "stars": 928,
     "archived": false
   },
   {
@@ -580,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 29,
+    "stars": 30,
     "archived": false
   },
   {
@@ -614,7 +618,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 881,
+    "stars": 882,
     "archived": false
   },
   {
@@ -628,7 +632,7 @@
       "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-16",
+    "updated": "2026-10-17",
     "stars": 107,
     "archived": false
   },
@@ -659,7 +663,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 231,
+    "stars": 233,
     "archived": false
   }
 ]
