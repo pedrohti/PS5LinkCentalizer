@@ -14,5 +14,13 @@
     "category": "Payload",
     "lastVersion": "v1.5.0",
     "offlineSince": "2026-10-17"
+  },
+  {
+    "repo": "blackbearreloaded/ps5-fsr4",
+    "name": "ps5-fsr4",
+    "description": "A proof of concept of FSR4 running on PS5 GPU",
+    "category": "Dev",
+    "lastVersion": "v01.000.010",
+    "offlineSince": "2026-10-18"
   }
 ]

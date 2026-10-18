@@ -11,7 +11,7 @@
     },
     "pre": null,
     "updated": "2026-05-25",
-    "stars": 68,
+    "stars": 69,
     "archived": false
   },
   {
@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 432,
+    "stars": 433,
     "archived": false
   },
   {
@@ -40,8 +40,8 @@
       "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.004.000",
       "date": "2026-10-17"
     },
-    "updated": "2026-10-17",
-    "stars": 741,
+    "updated": "2026-10-18",
+    "stars": 746,
     "archived": false
   },
   {
@@ -56,22 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 124,
-    "archived": false
-  },
-  {
-    "name": "ps5-fsr4",
-    "url": "https://github.com/blackbearreloaded/ps5-fsr4",
-    "description": "A proof of concept of FSR4 running on PS5 GPU",
-    "category": "Dev",
-    "stable": null,
-    "pre": {
-      "tag": "v01.000.010",
-      "url": "https://github.com/blackbearreloaded/ps5-fsr4/releases/tag/v01.000.010",
-      "date": "2026-10-05"
-    },
-    "updated": "2026-10-10",
-    "stars": 34,
+    "stars": 125,
     "archived": false
   },
   {
@@ -90,7 +75,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 67,
+    "stars": 1,
     "archived": false
   },
   {
@@ -120,7 +105,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 989,
+    "stars": 992,
     "archived": false
   },
   {
@@ -135,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 750,
+    "stars": 751,
     "archived": false
   },
   {
@@ -150,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 169,
+    "stars": 170,
     "archived": false
   },
   {
@@ -180,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 578,
+    "stars": 580,
     "archived": false
   },
   {
@@ -210,7 +195,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1099,
+    "stars": 1103,
     "archived": false
   },
   {
@@ -235,12 +220,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-17-c217380",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-17-c217380",
-      "date": "2026-10-17"
+      "tag": "KytyPS5-2026-10-18-fe3857a",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-18-fe3857a",
+      "date": "2026-10-18"
     },
-    "updated": "2026-10-17",
-    "stars": 8884,
+    "updated": "2026-10-18",
+    "stars": 8905,
     "archived": false
   },
   {
@@ -254,8 +239,8 @@
       "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v2.0.0-beta-2",
       "date": "2026-10-15"
     },
-    "updated": "2026-10-17",
-    "stars": 348,
+    "updated": "2026-10-18",
+    "stars": 349,
     "archived": false
   },
   {
@@ -265,7 +250,7 @@
     "category": "Dev",
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 27,
+    "stars": 28,
     "archived": false
   },
   {
@@ -280,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 204,
+    "stars": 205,
     "archived": false
   },
   {
@@ -310,7 +295,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 370,
+    "stars": 369,
     "archived": false
   },
   {
@@ -319,13 +304,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.0.34",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.34",
+      "tag": "v7.1.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.0",
       "date": "2026-10-17"
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 759,
+    "stars": 760,
     "archived": false
   },
   {
@@ -400,7 +385,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1359,
+    "stars": 1364,
     "archived": false
   },
   {
@@ -430,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 347,
+    "stars": 348,
     "archived": false
   },
   {
@@ -460,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 166,
+    "stars": 169,
     "archived": false
   },
   {
@@ -475,7 +460,7 @@
       "date": "2026-10-17"
     },
     "updated": "2026-10-17",
-    "stars": 314,
+    "stars": 318,
     "archived": false
   },
   {
@@ -565,7 +550,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 963,
+    "stars": 979,
     "archived": false
   },
   {
@@ -580,7 +565,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 32,
+    "stars": 33,
     "archived": false
   },
   {
@@ -614,7 +599,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 892,
+    "stars": 894,
     "archived": false
   },
   {
