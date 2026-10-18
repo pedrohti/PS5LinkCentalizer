@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 434,
+    "stars": 437,
     "archived": false
   },
   {
@@ -41,22 +41,22 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 748,
+    "stars": 756,
     "archived": false
   },
   {
     "name": "ProsperoLight",
-    "url": "https://github.com/blackbearreloaded/ProsperoLight",
+    "url": "https://github.com/LedyBacer/ProsperoLight",
     "description": "An unofficial Moonlight port (game streaming) for PS5",
     "category": "Homebrew",
     "stable": {
       "tag": "01.000.110",
-      "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.110",
+      "url": "https://github.com/LedyBacer/ProsperoLight/releases/tag/01.000.110",
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-17",
-    "stars": 127,
+    "updated": "2026-10-18",
+    "stars": 128,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 421,
+    "stars": 424,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 996,
+    "stars": 998,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 755,
+    "stars": 756,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 584,
+    "stars": 585,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 207,
+    "stars": 208,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1109,
+    "stars": 1113,
     "archived": false
   },
   {
@@ -225,13 +225,13 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 8954,
+    "stars": 8999,
     "archived": false
   },
   {
     "name": "PS5_RetroArch",
     "url": "https://github.com/mihawk-99/PS5_RetroArch",
-    "description": "🎮 RetroArch Homebrew for the PS5 that supports 33 cores & 44 systems.",
+    "description": "🎮 RetroArch Homebrew for the PS5 that supports 35 cores & 44 systems.",
     "category": "Emulator",
     "stable": null,
     "pre": {
@@ -240,7 +240,7 @@
       "date": "2026-10-15"
     },
     "updated": "2026-10-18",
-    "stars": 352,
+    "stars": 356,
     "archived": false
   },
   {
@@ -280,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 156,
+    "stars": 158,
     "archived": false
   },
   {
@@ -295,7 +295,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 369,
+    "stars": 371,
     "archived": false
   },
   {
@@ -304,9 +304,9 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.1.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.0",
-      "date": "2026-10-17"
+      "tag": "v7.1.2",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.2",
+      "date": "2026-10-18"
     },
     "pre": {
       "tag": "v7.1.1",
@@ -314,7 +314,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 764,
+    "stars": 769,
     "archived": false
   },
   {
@@ -329,7 +329,7 @@
     },
     "pre": null,
     "updated": "2026-10-01",
-    "stars": 41,
+    "stars": 42,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1375,
+    "stars": 1383,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 349,
+    "stars": 351,
     "archived": false
   },
   {
@@ -449,7 +449,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 171,
+    "stars": 172,
     "archived": false
   },
   {
@@ -464,7 +464,7 @@
       "date": "2026-10-17"
     },
     "updated": "2026-10-18",
-    "stars": 322,
+    "stars": 324,
     "archived": false
   },
   {
@@ -503,13 +503,13 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.1.0",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.1.0",
-      "date": "2026-10-07"
+      "tag": "v1.2.0",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.2.0",
+      "date": "2026-10-18"
     },
     "pre": null,
-    "updated": "2026-10-07",
-    "stars": 24,
+    "updated": "2026-10-18",
+    "stars": 26,
     "archived": false
   },
   {
@@ -539,7 +539,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 170,
+    "stars": 173,
     "archived": false
   },
   {
@@ -554,7 +554,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 994,
+    "stars": 1007,
     "archived": false
   },
   {
@@ -563,13 +563,13 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build23",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build23",
-      "date": "2026-10-16"
+      "tag": "build24",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build24",
+      "date": "2026-10-18"
     },
     "pre": null,
-    "updated": "2026-10-16",
-    "stars": 34,
+    "updated": "2026-10-18",
+    "stars": 35,
     "archived": false
   },
   {
@@ -584,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 27,
+    "stars": 28,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 898,
+    "stars": 904,
     "archived": false
   },
   {
@@ -618,7 +618,7 @@
     },
     "pre": null,
     "updated": "2026-09-30",
-    "stars": 185,
+    "stars": 186,
     "archived": false
   },
   {
