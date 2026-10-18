@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 433,
+    "stars": 434,
     "archived": false
   },
   {
@@ -36,12 +36,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v1.004.000",
-      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.004.000",
-      "date": "2026-10-17"
+      "tag": "v1.005.000",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden/releases/tag/v1.005.000",
+      "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 746,
+    "stars": 748,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 125,
+    "stars": 127,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 1,
+    "stars": 3,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 418,
+    "stars": 421,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 992,
+    "stars": 996,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 751,
+    "stars": 755,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 170,
+    "stars": 171,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 580,
+    "stars": 584,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 206,
+    "stars": 207,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1103,
+    "stars": 1109,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 270,
+    "stars": 271,
     "archived": false
   },
   {
@@ -225,7 +225,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 8905,
+    "stars": 8954,
     "archived": false
   },
   {
@@ -240,7 +240,7 @@
       "date": "2026-10-15"
     },
     "updated": "2026-10-18",
-    "stars": 349,
+    "stars": 352,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 205,
+    "stars": 207,
     "archived": false
   },
   {
@@ -280,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 154,
+    "stars": 156,
     "archived": false
   },
   {
@@ -308,9 +308,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.0",
       "date": "2026-10-17"
     },
-    "pre": null,
-    "updated": "2026-10-17",
-    "stars": 760,
+    "pre": {
+      "tag": "v7.1.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.1",
+      "date": "2026-10-18"
+    },
+    "updated": "2026-10-18",
+    "stars": 764,
     "archived": false
   },
   {
@@ -385,7 +389,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1364,
+    "stars": 1375,
     "archived": false
   },
   {
@@ -415,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 348,
+    "stars": 349,
     "archived": false
   },
   {
@@ -430,7 +434,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 112,
+    "stars": 111,
     "archived": false
   },
   {
@@ -445,22 +449,22 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 169,
+    "stars": 171,
     "archived": false
   },
   {
     "name": "ProsperoStore",
-    "url": "https://github.com/blackbearreloaded/ProsperoStore",
+    "url": "https://github.com/darkxex/ProsperoStore",
     "description": "Native PS5 app store for the homebrew catalog at homebrew.page (title PPSA99000)",
     "category": "Homebrew",
     "stable": null,
     "pre": {
       "tag": "v1.000.080",
-      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/tag/v1.000.080",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.080",
       "date": "2026-10-17"
     },
-    "updated": "2026-10-17",
-    "stars": 318,
+    "updated": "2026-10-18",
+    "stars": 322,
     "archived": false
   },
   {
@@ -490,7 +494,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 95,
+    "stars": 96,
     "archived": false
   },
   {
@@ -505,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-10-07",
-    "stars": 23,
+    "stars": 24,
     "archived": false
   },
   {
@@ -520,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 59,
+    "stars": 60,
     "archived": false
   },
   {
@@ -535,7 +539,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 167,
+    "stars": 170,
     "archived": false
   },
   {
@@ -550,7 +554,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 979,
+    "stars": 994,
     "archived": false
   },
   {
@@ -565,7 +569,7 @@
     },
     "pre": null,
     "updated": "2026-10-16",
-    "stars": 33,
+    "stars": 34,
     "archived": false
   },
   {
@@ -599,7 +603,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 894,
+    "stars": 898,
     "archived": false
   },
   {
@@ -629,7 +633,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 235,
+    "stars": 236,
     "archived": false
   }
 ]
