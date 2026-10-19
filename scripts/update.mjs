@@ -27,13 +27,13 @@ function fromReleases(releases) {
   releases = releases.toSorted((a, b) => (b.published_at ?? "").localeCompare(a.published_at ?? ""));
   for (const r of releases) {
     if (r.draft) continue;
-    const v = { tag: r.tag_name, url: r.html_url, date: (r.published_at ?? "").slice(0, 10) };
-    if (r.prerelease || PRE.test(r.tag_name)) pre ??= v;
-    else stable ??= v;
+    if (r.prerelease || PRE.test(r.tag_name)) pre ??= r;
+    else stable ??= r;
   }
-  // only show a pre-release that is newer than the stable one
-  if (stable && pre && pre.date < stable.date) pre = null;
-  return { stable, pre };
+  // only show a pre-release that is newer than the stable one (full timestamp: same-day releases are common)
+  if (stable && pre && pre.published_at < stable.published_at) pre = null;
+  const v = r => r && { tag: r.tag_name, url: r.html_url, date: (r.published_at ?? "").slice(0, 10) };
+  return { stable: v(stable), pre: v(pre) };
 }
 
 // No releases: read tags straight from git (no API quota). Tags carry no date here.
