@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 441,
+    "stars": 442,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 794,
+    "stars": 796,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 7,
+    "stars": 8,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 431,
+    "stars": 434,
     "archived": false
   },
   {
@@ -100,12 +100,12 @@
     "category": "Payload",
     "stable": null,
     "pre": {
-      "tag": "1.7beta5",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta5",
+      "tag": "1.7-beta5fix1",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7-beta5fix1",
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 1018,
+    "stars": 1020,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 768,
+    "stars": 769,
     "archived": false
   },
   {
@@ -159,13 +159,13 @@
     "description": "A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.",
     "category": "Payload",
     "stable": {
-      "tag": "v0.6.2",
-      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/tag/v0.6.2",
+      "tag": "v0.6.3",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/tag/v0.6.3",
       "date": "2026-10-19"
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 597,
+    "stars": 599,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 209,
+    "stars": 210,
     "archived": false
   },
   {
@@ -220,12 +220,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-19-e5f0ee7",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-19-e5f0ee7",
+      "tag": "KytyPS5-2026-10-19-0cad467",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-19-0cad467",
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 9155,
+    "stars": 9180,
     "archived": false
   },
   {
@@ -240,7 +240,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-19",
-    "stars": 367,
+    "stars": 370,
     "archived": false
   },
   {
@@ -280,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 167,
+    "stars": 169,
     "archived": false
   },
   {
@@ -308,11 +308,7 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.8",
       "date": "2026-10-19"
     },
-    "pre": {
-      "tag": "v7.1.7",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.7",
-      "date": "2026-10-19"
-    },
+    "pre": null,
     "updated": "2026-10-19",
     "stars": 788,
     "archived": false
@@ -383,13 +379,13 @@
     "description": "A port of PCSX2 for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "vk-285-171",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-171",
-      "date": "2026-10-14"
+      "tag": "vk-285-177",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-177",
+      "date": "2026-10-19"
     },
     "pre": null,
-    "updated": "2026-10-14",
-    "stars": 1421,
+    "updated": "2026-10-19",
+    "stars": 1431,
     "archived": false
   },
   {
@@ -449,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 176,
+    "stars": 177,
     "archived": false
   },
   {
@@ -464,7 +460,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 347,
+    "stars": 348,
     "archived": false
   },
   {
@@ -539,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 179,
+    "stars": 180,
     "archived": false
   },
   {
@@ -554,7 +550,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1034,
+    "stars": 1038,
     "archived": false
   },
   {
@@ -633,7 +629,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 240,
+    "stars": 242,
     "archived": false
   },
   {
@@ -648,7 +644,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 570,
+    "stars": 576,
     "archived": false
   }
 ]
