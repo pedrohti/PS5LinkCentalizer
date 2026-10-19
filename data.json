@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 437,
+    "stars": 438,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 771,
+    "stars": 778,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-18",
-    "stars": 129,
+    "stars": 131,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-13",
-    "stars": 5,
+    "stars": 6,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 425,
+    "stars": 426,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 1001,
+    "stars": 1006,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 758,
+    "stars": 760,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 171,
+    "stars": 172,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 588,
+    "stars": 591,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1118,
+    "stars": 1124,
     "archived": false
   },
   {
@@ -225,7 +225,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 9059,
+    "stars": 9086,
     "archived": false
   },
   {
@@ -239,8 +239,8 @@
       "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v3.0.0-beta-3",
       "date": "2026-10-18"
     },
-    "updated": "2026-10-18",
-    "stars": 363,
+    "updated": "2026-10-19",
+    "stars": 364,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 212,
+    "stars": 216,
     "archived": false
   },
   {
@@ -280,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 160,
+    "stars": 161,
     "archived": false
   },
   {
@@ -304,17 +304,17 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.1.4",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.4",
-      "date": "2026-10-18"
-    },
-    "pre": {
       "tag": "v7.1.5",
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.5",
       "date": "2026-10-18"
     },
-    "updated": "2026-10-18",
-    "stars": 774,
+    "pre": {
+      "tag": "v7.1.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.1",
+      "date": "2026-10-18"
+    },
+    "updated": "2026-10-19",
+    "stars": 776,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1402,
+    "stars": 1412,
     "archived": false
   },
   {
@@ -418,8 +418,8 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-16",
-    "stars": 355,
+    "updated": "2026-10-19",
+    "stars": 358,
     "archived": false
   },
   {
@@ -434,7 +434,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 111,
+    "stars": 113,
     "archived": false
   },
   {
@@ -449,22 +449,22 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 172,
+    "stars": 173,
     "archived": false
   },
   {
     "name": "ProsperoStore",
     "url": "https://github.com/darkxex/ProsperoStore",
-    "description": "Native PS5 app store for the homebrew catalog at homebrew.page (title PPSA99000)",
+    "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
     "category": "Homebrew",
     "stable": null,
     "pre": {
-      "tag": "v1.000.090",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.090",
-      "date": "2026-10-18"
+      "tag": "v1.000.101",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.101",
+      "date": "2026-10-19"
     },
-    "updated": "2026-10-18",
-    "stars": 333,
+    "updated": "2026-10-19",
+    "stars": 337,
     "archived": false
   },
   {
@@ -509,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-10-18",
-    "stars": 30,
+    "stars": 31,
     "archived": false
   },
   {
@@ -554,7 +554,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1019,
+    "stars": 1028,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 910,
+    "stars": 912,
     "archived": false
   },
   {
@@ -618,7 +618,7 @@
     },
     "pre": null,
     "updated": "2026-09-30",
-    "stars": 186,
+    "stars": 187,
     "archived": false
   },
   {
@@ -633,7 +633,22 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 236,
+    "stars": 237,
+    "archived": false
+  },
+  {
+    "name": "blackbox",
+    "url": "https://github.com/D3ATHLY/blackbox",
+    "description": "BB",
+    "category": "Homebrew",
+    "stable": {
+      "tag": "1.12.0",
+      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.0",
+      "date": "2026-10-18"
+    },
+    "pre": null,
+    "updated": "2026-10-19",
+    "stars": 558,
     "archived": false
   }
 ]
