@@ -3,7 +3,6 @@
   { "repo": "aydencharles/onionHEN",                       "category": "HEN" },
   { "repo": "blackbearreloaded/ProsperoEden",              "category": "Emulator" },
   { "repo": "blackbearreloaded/ProsperoLight",             "category": "Homebrew" },
-  { "repo": "blackbearreloaded/ps5-homebrew-ui",           "category": "Dev" },
   { "repo": "drakmor/nanoDNS",                             "category": "Network" },
   { "repo": "drakmor/ShadowMountPlus",                     "category": "Payload" },
   { "repo": "EchoStretch/kstuff-lite",                     "category": "HEN" },

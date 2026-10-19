@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 442,
+    "stars": 444,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 796,
+    "stars": 803,
     "archived": false
   },
   {
@@ -56,26 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 134,
-    "archived": false
-  },
-  {
-    "name": "ps5-homebrew-ui",
-    "url": "https://github.com/blackbearreloaded/ps5-homebrew-ui",
-    "description": "Reference for building polished, console-grade PS5 homebrew interfaces with OpenGL",
-    "category": "Dev",
-    "stable": {
-      "tag": "01.000.010",
-      "url": "https://github.com/blackbearreloaded/ps5-homebrew-ui/releases/tag/01.000.010",
-      "date": "2026-10-08"
-    },
-    "pre": {
-      "tag": "build-cache",
-      "url": "https://github.com/blackbearreloaded/ps5-homebrew-ui/releases/tag/build-cache",
-      "date": "2026-10-10"
-    },
-    "updated": "2026-10-13",
-    "stars": 8,
+    "stars": 136,
     "archived": false
   },
   {
@@ -90,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 434,
+    "stars": 436,
     "archived": false
   },
   {
@@ -105,7 +86,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 1020,
+    "stars": 1032,
     "archived": false
   },
   {
@@ -120,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 769,
+    "stars": 771,
     "archived": false
   },
   {
@@ -135,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 173,
+    "stars": 174,
     "archived": false
   },
   {
@@ -165,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 599,
+    "stars": 603,
     "archived": false
   },
   {
@@ -180,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 210,
+    "stars": 211,
     "archived": false
   },
   {
@@ -195,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1132,
+    "stars": 1134,
     "archived": false
   },
   {
@@ -225,7 +206,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 9180,
+    "stars": 9224,
     "archived": false
   },
   {
@@ -240,7 +221,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-19",
-    "stars": 370,
+    "stars": 372,
     "archived": false
   },
   {
@@ -265,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 219,
+    "stars": 221,
     "archived": false
   },
   {
@@ -280,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 169,
+    "stars": 170,
     "archived": false
   },
   {
@@ -308,9 +289,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.8",
       "date": "2026-10-19"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v7.1.9",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.9",
+      "date": "2026-10-19"
+    },
     "updated": "2026-10-19",
-    "stars": 788,
+    "stars": 790,
     "archived": false
   },
   {
@@ -325,7 +310,7 @@
     },
     "pre": null,
     "updated": "2026-10-01",
-    "stars": 42,
+    "stars": 43,
     "archived": false
   },
   {
@@ -385,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1431,
+    "stars": 1444,
     "archived": false
   },
   {
@@ -400,7 +385,7 @@
     },
     "pre": null,
     "updated": "2026-10-06",
-    "stars": 59,
+    "stars": 60,
     "archived": false
   },
   {
@@ -415,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 363,
+    "stars": 366,
     "archived": false
   },
   {
@@ -430,7 +415,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 113,
+    "stars": 114,
     "archived": false
   },
   {
@@ -445,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 177,
+    "stars": 178,
     "archived": false
   },
   {
@@ -460,7 +445,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 348,
+    "stars": 353,
     "archived": false
   },
   {
@@ -535,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 180,
+    "stars": 182,
     "archived": false
   },
   {
@@ -550,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1038,
+    "stars": 1044,
     "archived": false
   },
   {
@@ -599,7 +584,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 918,
+    "stars": 924,
     "archived": false
   },
   {
@@ -629,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 242,
+    "stars": 243,
     "archived": false
   },
   {
@@ -644,7 +629,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 576,
+    "stars": 580,
     "archived": false
   }
 ]

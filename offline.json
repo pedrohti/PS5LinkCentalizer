@@ -22,5 +22,13 @@
     "category": "Dev",
     "lastVersion": "v01.000.010",
     "offlineSince": "2026-10-18"
+  },
+  {
+    "repo": "blackbearreloaded/ps5-homebrew-ui",
+    "name": "ps5-homebrew-ui",
+    "description": "Reference for building polished, console-grade PS5 homebrew interfaces with OpenGL",
+    "category": "Dev",
+    "lastVersion": "01.000.010",
+    "offlineSince": "2026-10-19"
   }
 ]
