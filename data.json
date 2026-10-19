@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 136,
+    "stars": 137,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1134,
+    "stars": 1135,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 9224,
+    "stars": 9232,
     "archived": false
   },
   {
@@ -216,9 +216,9 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v3.0.0-beta-3",
-      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v3.0.0-beta-3",
-      "date": "2026-10-18"
+      "tag": "v4.0.0-beta-4",
+      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v4.0.0-beta-4",
+      "date": "2026-10-19"
     },
     "updated": "2026-10-19",
     "stars": 372,
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 221,
+    "stars": 222,
     "archived": false
   },
   {
@@ -370,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1444,
+    "stars": 1446,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 178,
+    "stars": 179,
     "archived": false
   },
   {
@@ -445,7 +445,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 353,
+    "stars": 354,
     "archived": false
   },
   {
@@ -475,7 +475,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 97,
+    "stars": 98,
     "archived": false
   },
   {
@@ -535,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1044,
+    "stars": 1045,
     "archived": false
   },
   {
