@@ -85,7 +85,10 @@ for (const p of projects) {
   console.log(`${p.repo} -> ${stable?.tag ?? "-"} | ${pre?.tag ?? "-"}`);
 }
 
-await writeFile("data.json", JSON.stringify(out, null, 2) + "\n");
+// stars/updated change almost every run; only rewrite (and so commit) when something else changed
+const meaningful = d => JSON.stringify(d.map(({ stars, updated, ...rest }) => rest));
+if (meaningful(out) !== meaningful(previous)) await writeFile("data.json", JSON.stringify(out, null, 2) + "\n");
+else console.log("no version changes, data.json kept");
 
 // A repo listed again in projects.json and alive is no longer offline
 const alive = new Set(projects.filter(p => !dead.includes(p.repo)).map(p => key(p.repo)));

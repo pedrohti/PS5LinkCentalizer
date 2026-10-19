@@ -2,7 +2,7 @@ name: Update versions
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 * * * *"
   push:
     branches: [main]
     paths: [projects.json, scripts/update.mjs]
