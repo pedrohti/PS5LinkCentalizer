@@ -22,6 +22,9 @@ const byVersionDesc = new Intl.Collator("en", { numeric: true }).compare;
 
 function fromReleases(releases) {
   let stable = null, pre = null;
+  // The API orders by tag/commit date, not publish date: a fix released later on an older
+  // commit (1.7beta5 -> 1.7-beta5fix1) would lose. Newest published first.
+  releases = releases.toSorted((a, b) => (b.published_at ?? "").localeCompare(a.published_at ?? ""));
   for (const r of releases) {
     if (r.draft) continue;
     const v = { tag: r.tag_name, url: r.html_url, date: (r.published_at ?? "").slice(0, 10) };
