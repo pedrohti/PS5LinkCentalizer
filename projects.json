@@ -40,5 +40,6 @@
   { "repo": "StonedModder/PShare",                         "category": "Emulator" },
   { "repo": "itsPLK/ps5-y2jb-autoloader",                  "category": "Payload" },
   { "repo": "ps5-payload-dev/ftpsrv",                      "category": "Network" },
-  { "repo": "notmaj0r/CheatRunner",                        "category": "Cheats" }
+  { "repo": "notmaj0r/CheatRunner",                        "category": "Cheats" },
+  { "repo": "D3ATHLY/blackbox",                            "category": "Homebrew" }
 ]
