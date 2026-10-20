@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 803,
+    "stars": 807,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-09-23",
-    "stars": 771,
+    "stars": 772,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 603,
+    "stars": 605,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1135,
+    "stars": 1138,
     "archived": false
   },
   {
@@ -205,8 +205,8 @@
       "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-19-0cad467",
       "date": "2026-10-19"
     },
-    "updated": "2026-10-19",
-    "stars": 9232,
+    "updated": "2026-10-20",
+    "stars": 9248,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 372,
+    "stars": 375,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 222,
+    "stars": 223,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 170,
+    "stars": 172,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 371,
+    "stars": 372,
     "archived": false
   },
   {
@@ -285,17 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.1.8",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.8",
-      "date": "2026-10-19"
-    },
-    "pre": {
       "tag": "v7.1.9",
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.9",
       "date": "2026-10-19"
     },
+    "pre": null,
     "updated": "2026-10-19",
-    "stars": 790,
+    "stars": 791,
     "archived": false
   },
   {
@@ -370,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1446,
+    "stars": 1451,
     "archived": false
   },
   {
@@ -400,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 366,
+    "stars": 367,
     "archived": false
   },
   {
@@ -438,14 +434,14 @@
     "url": "https://github.com/darkxex/ProsperoStore",
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
     "category": "Homebrew",
-    "stable": null,
-    "pre": {
-      "tag": "v1.000.101",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.101",
+    "stable": {
+      "tag": "v1.000.102",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.102",
       "date": "2026-10-19"
     },
+    "pre": null,
     "updated": "2026-10-19",
-    "stars": 354,
+    "stars": 356,
     "archived": false
   },
   {
@@ -535,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1045,
+    "stars": 1053,
     "archived": false
   },
   {
@@ -584,7 +580,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 924,
+    "stars": 926,
     "archived": false
   },
   {
