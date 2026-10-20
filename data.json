@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 447,
+    "stars": 449,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 816,
+    "stars": 821,
     "archived": false
   },
   {
@@ -55,8 +55,8 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-19",
-    "stars": 139,
+    "updated": "2026-10-20",
+    "stars": 140,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 441,
+    "stars": 442,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 1046,
+    "stars": 1047,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 781,
+    "stars": 784,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 609,
+    "stars": 610,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1148,
+    "stars": 1155,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 275,
+    "stars": 276,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-20-1a053f9",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-20-1a053f9",
+      "tag": "KytyPS5-2026-10-20-7b7f9a7",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-20-7b7f9a7",
       "date": "2026-10-20"
     },
     "updated": "2026-10-20",
-    "stars": 9312,
+    "stars": 9340,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 377,
+    "stars": 378,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 173,
+    "stars": 176,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 793,
+    "stars": 798,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1462,
+    "stars": 1465,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 367,
+    "stars": 368,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 364,
+    "stars": 366,
     "archived": false
   },
   {
@@ -480,12 +480,12 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.2.0",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.2.0",
-      "date": "2026-10-18"
+      "tag": "v1.3.0",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.0",
+      "date": "2026-10-20"
     },
     "pre": null,
-    "updated": "2026-10-18",
+    "updated": "2026-10-20",
     "stars": 34,
     "archived": false
   },
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 183,
+    "stars": 185,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1058,
+    "stars": 1061,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 933,
+    "stars": 935,
     "archived": false
   },
   {
@@ -619,13 +619,23 @@
     "description": "BB",
     "category": "Homebrew",
     "stable": {
-      "tag": "1.12.0",
-      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.0",
-      "date": "2026-10-18"
+      "tag": "1.12.1",
+      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.1",
+      "date": "2026-10-20"
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 585,
+    "stars": 588,
+    "archived": false
+  },
+  {
+    "name": "ps5-signal-suite",
+    "url": "https://github.com/Marice/ps5-signal-suite",
+    "description": "Payload repository for Payload Manager (pldmgr): ps5-exporter, ps5-homeassistant, ps5-signal",
+    "category": "Payload",
+    "pre": null,
+    "updated": "2026-10-19",
+    "stars": 0,
     "archived": false
   }
 ]
