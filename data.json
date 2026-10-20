@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 446,
+    "stars": 447,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 813,
+    "stars": 816,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 138,
+    "stars": 139,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 438,
+    "stars": 441,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-10"
     },
     "updated": "2026-10-10",
-    "stars": 1037,
+    "stars": 1046,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 775,
+    "stars": 781,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 605,
+    "stars": 609,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 212,
+    "stars": 213,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1140,
+    "stars": 1148,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-20",
-    "stars": 9268,
+    "stars": 9312,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 376,
+    "stars": 377,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 223,
+    "stars": 225,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 172,
+    "stars": 173,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 372,
+    "stars": 373,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 792,
+    "stars": 793,
     "archived": false
   },
   {
@@ -306,7 +306,7 @@
     },
     "pre": null,
     "updated": "2026-10-01",
-    "stars": 43,
+    "stars": 42,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1457,
+    "stars": 1462,
     "archived": false
   },
   {
@@ -385,14 +385,14 @@
     "archived": false
   },
   {
-    "name": "PS5CEMU-HAR",
-    "url": "https://github.com/premohq/PS5CEMU-HAR",
-    "description": "Wii U, 3DS, and DS emulation for PS5 homebrew (Cemu + Azahar+ Melon DS)",
+    "name": "PS5-ECAM",
+    "url": "https://github.com/premohq/PS5-ECAM",
+    "description": "Wii U, 3DS, DS, and Switch emulation for PS5 homebrew (Cemu + Azahar + Melon DS + Eden)",
     "category": "Emulator",
     "stable": {
-      "tag": "v4.0.1",
-      "url": "https://github.com/premohq/PS5CEMU-HAR/releases/tag/v4.0.1",
-      "date": "2026-10-15"
+      "tag": "v5.0.0",
+      "url": "https://github.com/premohq/PS5-ECAM/releases/tag/v5.0.0",
+      "date": "2026-10-20"
     },
     "pre": null,
     "updated": "2026-10-20",
@@ -411,7 +411,7 @@
       "date": "2026-09-30"
     },
     "updated": "2026-09-30",
-    "stars": 114,
+    "stars": 115,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 363,
+    "stars": 364,
     "archived": false
   },
   {
@@ -471,7 +471,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 99,
+    "stars": 100,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1054,
+    "stars": 1058,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 928,
+    "stars": 933,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 244,
+    "stars": 246,
     "archived": false
   },
   {
@@ -624,8 +624,8 @@
       "date": "2026-10-18"
     },
     "pre": null,
-    "updated": "2026-10-19",
-    "stars": 582,
+    "updated": "2026-10-20",
+    "stars": 585,
     "archived": false
   }
 ]
