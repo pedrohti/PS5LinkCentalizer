@@ -11,7 +11,7 @@
     },
     "pre": null,
     "updated": "2026-05-25",
-    "stars": 69,
+    "stars": 70,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 821,
+    "stars": 826,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 442,
+    "stars": 444,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 83,
+    "stars": 84,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 610,
+    "stars": 612,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1155,
+    "stars": 1159,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-20",
-    "stars": 9340,
+    "stars": 9373,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 176,
+    "stars": 178,
     "archived": false
   },
   {
@@ -290,8 +290,8 @@
       "date": "2026-10-19"
     },
     "pre": null,
-    "updated": "2026-10-19",
-    "stars": 798,
+    "updated": "2026-10-20",
+    "stars": 799,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1465,
+    "stars": 1466,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 368,
+    "stars": 369,
     "archived": false
   },
   {
@@ -435,13 +435,13 @@
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.000.103",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.103",
+      "tag": "v1.000.104",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.104",
       "date": "2026-10-20"
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 366,
+    "stars": 368,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 185,
+    "stars": 186,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1061,
+    "stars": 1069,
     "archived": false
   },
   {
@@ -553,7 +553,7 @@
     "name": "PShare",
     "url": "https://github.com/StonedModder/PShare",
     "description": "Native PS5 homebrew app that sends media gallery items to Discord, Telegram, catbox.moe, a USB drive, a shared folder on your PC or a dozen other places, automatically",
-    "category": "Emulator",
+    "category": "Tool",
     "stable": {
       "tag": "1.0",
       "url": "https://github.com/StonedModder/PShare/releases/tag/1.0",
@@ -580,7 +580,7 @@
       "date": "2026-10-14"
     },
     "updated": "2026-10-15",
-    "stars": 935,
+    "stars": 937,
     "archived": false
   },
   {
@@ -594,7 +594,7 @@
       "date": "2026-08-20"
     },
     "pre": null,
-    "updated": "2026-09-30",
+    "updated": "2026-10-20",
     "stars": 188,
     "archived": false
   },
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 588,
+    "stars": 592,
     "archived": false
   },
   {
