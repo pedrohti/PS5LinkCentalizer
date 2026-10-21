@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 446,
+    "stars": 447,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1073,
+    "stars": 1075,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 9483,
+    "stars": 9485,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 1091,
+    "stars": 1092,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 956,
+    "stars": 957,
     "archived": false
   },
   {
@@ -651,6 +651,36 @@
     "pre": null,
     "updated": "2026-10-15",
     "stars": 42,
+    "archived": false
+  },
+  {
+    "name": "syncps5",
+    "url": "https://github.com/heydemoura/syncps5",
+    "description": "Syncthing running on a jailbroken PS5 as an ELF payload service",
+    "category": "Payload",
+    "stable": {
+      "tag": "v0.2.0",
+      "url": "https://github.com/heydemoura/syncps5/releases/tag/v0.2.0",
+      "date": "2026-10-08"
+    },
+    "pre": null,
+    "updated": "2026-10-08",
+    "stars": 2,
+    "archived": false
+  },
+  {
+    "name": "RetroSync",
+    "url": "https://github.com/aleksejsgx/RetroSync",
+    "description": "PC <-> PS5 sync for RetroArch saves/config and PS2 memory cards, with PS5 backup, remote power-on and rest mode",
+    "category": "PC Tool",
+    "stable": {
+      "tag": "v2.1.1",
+      "url": "https://github.com/aleksejsgx/RetroSync/releases/tag/v2.1.1",
+      "date": "2026-10-20"
+    },
+    "pre": null,
+    "updated": "2026-10-20",
+    "stars": 6,
     "archived": false
   }
 ]
