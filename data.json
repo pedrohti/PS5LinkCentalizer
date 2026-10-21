@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 830,
+    "stars": 838,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 141,
+    "stars": 142,
     "archived": false
   },
   {
@@ -81,12 +81,12 @@
     "category": "Payload",
     "stable": null,
     "pre": {
-      "tag": "1.7beta6-fix1",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta6-fix1",
+      "tag": "1.7beta6-fix2",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta6-fix2",
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1049,
+    "stars": 1059,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 786,
+    "stars": 788,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 612,
+    "stars": 613,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 213,
+    "stars": 214,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1162,
+    "stars": 1164,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 276,
+    "stars": 277,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-20-7b7f9a7",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-20-7b7f9a7",
-      "date": "2026-10-20"
+      "tag": "KytyPS5-2026-10-21-4644c52",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-4644c52",
+      "date": "2026-10-21"
     },
-    "updated": "2026-10-20",
-    "stars": 9391,
+    "updated": "2026-10-21",
+    "stars": 9418,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 378,
+    "stars": 380,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 230,
+    "stars": 231,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 374,
+    "stars": 376,
     "archived": false
   },
   {
@@ -289,9 +289,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.10",
       "date": "2026-10-20"
     },
-    "pre": null,
-    "updated": "2026-10-20",
-    "stars": 802,
+    "pre": {
+      "tag": "v7.1.11",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.11",
+      "date": "2026-10-21"
+    },
+    "updated": "2026-10-21",
+    "stars": 805,
     "archived": false
   },
   {
@@ -366,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1471,
+    "stars": 1478,
     "archived": false
   },
   {
@@ -396,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 370,
+    "stars": 372,
     "archived": false
   },
   {
@@ -404,13 +408,13 @@
     "url": "https://github.com/ItsBlurf/PoorDS4",
     "description": "Use a wireless DualShock 4 in native PS5 games on jailbroken consoles.",
     "category": "Payload",
-    "stable": null,
-    "pre": {
-      "tag": "v0.1.0-rc51",
-      "url": "https://github.com/ItsBlurf/PoorDS4/releases/tag/v0.1.0-rc51",
-      "date": "2026-09-30"
+    "stable": {
+      "tag": "v0.2.0",
+      "url": "https://github.com/ItsBlurf/PoorDS4/releases/tag/v0.2.0",
+      "date": "2026-10-21"
     },
-    "updated": "2026-09-30",
+    "pre": null,
+    "updated": "2026-10-21",
     "stars": 115,
     "archived": false
   },
@@ -441,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 369,
+    "stars": 371,
     "archived": false
   },
   {
@@ -486,7 +490,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 34,
+    "stars": 35,
     "archived": false
   },
   {
@@ -501,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 60,
+    "stars": 61,
     "archived": false
   },
   {
@@ -516,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 187,
+    "stars": 190,
     "archived": false
   },
   {
@@ -531,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1075,
+    "stars": 1080,
     "archived": false
   },
   {
@@ -580,7 +584,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-20",
-    "stars": 943,
+    "stars": 947,
     "archived": false
   },
   {
@@ -625,7 +629,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 598,
+    "stars": 601,
     "archived": false
   },
   {
