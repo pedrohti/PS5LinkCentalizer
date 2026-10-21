@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 792,
+    "stars": 793,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-21-4644c52",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-4644c52",
+      "tag": "KytyPS5-2026-10-21-13b291f",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-13b291f",
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 9485,
+    "stars": 9489,
     "archived": false
   },
   {
@@ -680,7 +680,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 6,
+    "stars": 7,
     "archived": false
   }
 ]
