@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 838,
+    "stars": 841,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 142,
+    "stars": 143,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 444,
+    "stars": 446,
     "archived": false
   },
   {
@@ -81,12 +81,12 @@
     "category": "Payload",
     "stable": null,
     "pre": {
-      "tag": "1.7beta6-fix2",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta6-fix2",
+      "tag": "1.7beta7",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta7",
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1059,
+    "stars": 1066,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 788,
+    "stars": 790,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 174,
+    "stars": 175,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 613,
+    "stars": 614,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1164,
+    "stars": 1168,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 9418,
+    "stars": 9455,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 180,
+    "stars": 181,
     "archived": false
   },
   {
@@ -295,7 +295,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 805,
+    "stars": 807,
     "archived": false
   },
   {
@@ -370,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1478,
+    "stars": 1484,
     "archived": false
   },
   {
@@ -445,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 371,
+    "stars": 372,
     "archived": false
   },
   {
@@ -520,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 190,
+    "stars": 191,
     "archived": false
   },
   {
@@ -534,8 +534,8 @@
       "date": "2026-10-14"
     },
     "pre": null,
-    "updated": "2026-10-14",
-    "stars": 1080,
+    "updated": "2026-10-21",
+    "stars": 1087,
     "archived": false
   },
   {
@@ -583,8 +583,8 @@
       "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.3-185cdf8",
       "date": "2026-10-20"
     },
-    "updated": "2026-10-20",
-    "stars": 947,
+    "updated": "2026-10-21",
+    "stars": 952,
     "archived": false
   },
   {
@@ -599,7 +599,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 189,
+    "stars": 190,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 246,
+    "stars": 247,
     "archived": false
   },
   {
@@ -623,13 +623,13 @@
     "description": "BB",
     "category": "Homebrew",
     "stable": {
-      "tag": "1.12.1",
-      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.1",
-      "date": "2026-10-20"
+      "tag": "1.12.3",
+      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.3",
+      "date": "2026-10-21"
     },
     "pre": null,
-    "updated": "2026-10-20",
-    "stars": 601,
+    "updated": "2026-10-21",
+    "stars": 604,
     "archived": false
   },
   {
