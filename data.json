@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 844,
+    "stars": 845,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 448,
+    "stars": 449,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1080,
+    "stars": 1081,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 176,
+    "stars": 177,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 214,
+    "stars": 215,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1172,
+    "stars": 1171,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 279,
+    "stars": 280,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-21-2864818",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-2864818",
+      "tag": "KytyPS5-2026-10-21-919fac1",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-919fac1",
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 9510,
+    "stars": 9526,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 380,
+    "stars": 381,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 236,
+    "stars": 238,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 378,
+    "stars": 379,
     "archived": false
   },
   {
@@ -295,7 +295,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 810,
+    "stars": 813,
     "archived": false
   },
   {
@@ -400,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 372,
+    "stars": 373,
     "archived": false
   },
   {
@@ -415,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 117,
+    "stars": 118,
     "archived": false
   },
   {
@@ -475,7 +475,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 99,
+    "stars": 100,
     "archived": false
   },
   {
@@ -514,13 +514,13 @@
     "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
     "category": "Emulator",
     "stable": {
-      "tag": "v3.0",
-      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/tag/v3.0",
-      "date": "2026-10-10"
+      "tag": "v4.0",
+      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/tag/v4.0",
+      "date": "2026-10-21"
     },
     "pre": null,
-    "updated": "2026-10-10",
-    "stars": 191,
+    "updated": "2026-10-21",
+    "stars": 194,
     "archived": false
   },
   {
@@ -535,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 1094,
+    "stars": 1097,
     "archived": false
   },
   {
@@ -584,7 +584,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 960,
+    "stars": 962,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 249,
+    "stars": 250,
     "archived": false
   },
   {
