@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 841,
+    "stars": 843,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1066,
+    "stars": 1073,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 790,
+    "stars": 792,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 175,
+    "stars": 176,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 614,
+    "stars": 616,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1168,
+    "stars": 1171,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 9455,
+    "stars": 9483,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 231,
+    "stars": 233,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 181,
+    "stars": 182,
     "archived": false
   },
   {
@@ -285,17 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.1.10",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.10",
-      "date": "2026-10-20"
-    },
-    "pre": {
       "tag": "v7.1.11",
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.11",
       "date": "2026-10-21"
     },
+    "pre": null,
     "updated": "2026-10-21",
-    "stars": 807,
+    "stars": 808,
     "archived": false
   },
   {
@@ -370,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1484,
+    "stars": 1487,
     "archived": false
   },
   {
@@ -399,7 +395,7 @@
       "date": "2026-10-20"
     },
     "pre": null,
-    "updated": "2026-10-20",
+    "updated": "2026-10-21",
     "stars": 372,
     "archived": false
   },
@@ -415,7 +411,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 115,
+    "stars": 116,
     "archived": false
   },
   {
@@ -439,13 +435,13 @@
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.000.104",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.104",
-      "date": "2026-10-20"
+      "tag": "v1.000.105",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.105",
+      "date": "2026-10-21"
     },
     "pre": null,
-    "updated": "2026-10-20",
-    "stars": 372,
+    "updated": "2026-10-21",
+    "stars": 373,
     "archived": false
   },
   {
@@ -535,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 1087,
+    "stars": 1091,
     "archived": false
   },
   {
@@ -584,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 952,
+    "stars": 956,
     "archived": false
   },
   {
@@ -614,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 247,
+    "stars": 249,
     "archived": false
   },
   {
@@ -629,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 604,
+    "stars": 608,
     "archived": false
   },
   {
@@ -640,6 +636,21 @@
     "pre": null,
     "updated": "2026-10-19",
     "stars": 0,
+    "archived": false
+  },
+  {
+    "name": "ps5-cloud-save",
+    "url": "https://github.com/bc160201983/ps5-cloud-save",
+    "description": "PSCloud: back up, share and sync PS5 game saves from any browser. One payload for jailbroken PS5s.",
+    "category": "Payload",
+    "stable": {
+      "tag": "v0.34.28",
+      "url": "https://github.com/bc160201983/ps5-cloud-save/releases/tag/v0.34.28",
+      "date": "2026-10-15"
+    },
+    "pre": null,
+    "updated": "2026-10-15",
+    "stars": 42,
     "archived": false
   }
 ]
