@@ -41,5 +41,6 @@
   { "repo": "ps5-payload-dev/ftpsrv",                      "category": "Network" },
   { "repo": "notmaj0r/CheatRunner",                        "category": "Cheats" },
   { "repo": "D3ATHLY/blackbox",                            "category": "Homebrew" },
-  { "repo": "Marice/ps5-signal-suite",                     "category": "Payload" }
+  { "repo": "Marice/ps5-signal-suite",                     "category": "Payload" },
+  { "repo": "bc160201983/ps5-cloud-save",                  "category": "Payload" }
 ]
