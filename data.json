@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 843,
+    "stars": 844,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 447,
+    "stars": 448,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1075,
+    "stars": 1080,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 793,
+    "stars": 796,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 84,
+    "stars": 83,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1171,
+    "stars": 1172,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 277,
+    "stars": 279,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-21-13b291f",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-13b291f",
+      "tag": "KytyPS5-2026-10-21-2864818",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-2864818",
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 9489,
+    "stars": 9510,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 233,
+    "stars": 236,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 182,
+    "stars": 183,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 376,
+    "stars": 378,
     "archived": false
   },
   {
@@ -289,9 +289,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.11",
       "date": "2026-10-21"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v7.1.13",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.13",
+      "date": "2026-10-21"
+    },
     "updated": "2026-10-21",
-    "stars": 808,
+    "stars": 810,
     "archived": false
   },
   {
@@ -337,7 +341,7 @@
     "pre": null,
     "updated": "2026-09-12",
     "stars": 26,
-    "archived": false
+    "archived": true
   },
   {
     "name": "Prospero-Multi-Tools",
@@ -352,7 +356,7 @@
     "pre": null,
     "updated": "2026-09-25",
     "stars": 19,
-    "archived": false
+    "archived": true
   },
   {
     "name": "PS5SX2",
@@ -366,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1487,
+    "stars": 1488,
     "archived": false
   },
   {
@@ -411,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 116,
+    "stars": 117,
     "archived": false
   },
   {
@@ -441,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 373,
+    "stars": 374,
     "archived": false
   },
   {
@@ -531,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 1092,
+    "stars": 1094,
     "archived": false
   },
   {
@@ -580,7 +584,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 957,
+    "stars": 960,
     "archived": false
   },
   {
@@ -625,7 +629,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 608,
+    "stars": 611,
     "archived": false
   },
   {
