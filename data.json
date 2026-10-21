@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 828,
+    "stars": 830,
     "archived": false
   },
   {
@@ -55,7 +55,7 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-20",
+    "updated": "2026-10-21",
     "stars": 141,
     "archived": false
   },
@@ -81,11 +81,11 @@
     "category": "Payload",
     "stable": null,
     "pre": {
-      "tag": "1.7-beta5fix1",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7-beta5fix1",
-      "date": "2026-10-10"
+      "tag": "1.7beta6-fix1",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta6-fix1",
+      "date": "2026-10-21"
     },
-    "updated": "2026-10-20",
+    "updated": "2026-10-21",
     "stars": 1049,
     "archived": false
   },
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 785,
+    "stars": 786,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 613,
+    "stars": 612,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1161,
+    "stars": 1162,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-20",
-    "stars": 9385,
+    "stars": 9391,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 226,
+    "stars": 230,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 179,
+    "stars": 180,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 800,
+    "stars": 802,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1470,
+    "stars": 1471,
     "archived": false
   },
   {
@@ -471,7 +471,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 100,
+    "stars": 99,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-14",
-    "stars": 1071,
+    "stars": 1075,
     "archived": false
   },
   {
@@ -575,12 +575,12 @@
       "date": "2026-05-01"
     },
     "pre": {
-      "tag": "v1.0.2-254c85f",
-      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.2-254c85f",
-      "date": "2026-10-14"
+      "tag": "v1.0.3-185cdf8",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.3-185cdf8",
+      "date": "2026-10-20"
     },
-    "updated": "2026-10-15",
-    "stars": 940,
+    "updated": "2026-10-20",
+    "stars": 943,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 594,
+    "stars": 598,
     "archived": false
   },
   {
