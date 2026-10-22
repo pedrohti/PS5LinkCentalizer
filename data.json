@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 448,
+    "stars": 449,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 847,
+    "stars": 848,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1083,
+    "stars": 1088,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 616,
+    "stars": 619,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1173,
+    "stars": 1176,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-22-8502d8a",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-22-8502d8a",
+      "tag": "KytyPS5-2026-10-22-c5016d9",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-22-c5016d9",
       "date": "2026-10-22"
     },
     "updated": "2026-10-22",
-    "stars": 9531,
+    "stars": 9556,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 238,
+    "stars": 239,
     "archived": false
   },
   {
@@ -285,16 +285,16 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.1.11",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.11",
-      "date": "2026-10-21"
-    },
-    "pre": {
       "tag": "v7.1.13",
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.13",
       "date": "2026-10-21"
     },
-    "updated": "2026-10-21",
+    "pre": {
+      "tag": "v7.1.15",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.15",
+      "date": "2026-10-22"
+    },
+    "updated": "2026-10-22",
     "stars": 813,
     "archived": false
   },
@@ -370,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1490,
+    "stars": 1491,
     "archived": false
   },
   {
@@ -399,8 +399,8 @@
       "date": "2026-10-20"
     },
     "pre": null,
-    "updated": "2026-10-21",
-    "stars": 374,
+    "updated": "2026-10-22",
+    "stars": 377,
     "archived": false
   },
   {
@@ -445,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 374,
+    "stars": 376,
     "archived": false
   },
   {
@@ -460,7 +460,7 @@
     },
     "pre": null,
     "updated": "2026-08-05",
-    "stars": 15,
+    "stars": 16,
     "archived": false
   },
   {
@@ -489,7 +489,7 @@
       "date": "2026-10-20"
     },
     "pre": null,
-    "updated": "2026-10-20",
+    "updated": "2026-10-22",
     "stars": 35,
     "archived": false
   },
@@ -520,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 194,
+    "stars": 196,
     "archived": false
   },
   {
@@ -535,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 1099,
+    "stars": 1103,
     "archived": false
   },
   {
@@ -584,7 +584,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 962,
+    "stars": 964,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 250,
+    "stars": 251,
     "archived": false
   },
   {
@@ -623,13 +623,13 @@
     "description": "BB",
     "category": "Homebrew",
     "stable": {
-      "tag": "1.12.3",
-      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.3",
-      "date": "2026-10-21"
+      "tag": "1.12.4",
+      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.4",
+      "date": "2026-10-22"
     },
     "pre": null,
-    "updated": "2026-10-21",
-    "stars": 612,
+    "updated": "2026-10-22",
+    "stars": 618,
     "archived": false
   },
   {
