@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 452,
+    "stars": 453,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 855,
+    "stars": 856,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 453,
+    "stars": 454,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1093,
+    "stars": 1094,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 623,
+    "stars": 624,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1186,
+    "stars": 1187,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-22-f5f4e7d",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-22-f5f4e7d",
+      "tag": "KytyPS5-2026-10-22-79837b4",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-22-79837b4",
       "date": "2026-10-22"
     },
     "updated": "2026-10-22",
-    "stars": 9594,
+    "stars": 9611,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 239,
+    "stars": 240,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 186,
+    "stars": 188,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 821,
+    "stars": 823,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1498,
+    "stars": 1500,
     "archived": false
   },
   {
@@ -426,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 180,
+    "stars": 181,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 379,
+    "stars": 381,
     "archived": false
   },
   {
@@ -525,13 +525,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.3.5",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.3.5",
-      "date": "2026-10-14"
+      "tag": "v1.4.0",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.4.0",
+      "date": "2026-10-22"
     },
     "pre": null,
-    "updated": "2026-10-21",
-    "stars": 1111,
+    "updated": "2026-10-22",
+    "stars": 1115,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 974,
+    "stars": 975,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 622,
+    "stars": 623,
     "archived": false
   },
   {
