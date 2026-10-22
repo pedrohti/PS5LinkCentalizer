@@ -11,7 +11,7 @@
     },
     "pre": null,
     "updated": "2026-05-25",
-    "stars": 70,
+    "stars": 71,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 852,
+    "stars": 855,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 451,
+    "stars": 453,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1092,
+    "stars": 1093,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 798,
+    "stars": 799,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 620,
+    "stars": 623,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 215,
+    "stars": 216,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1184,
+    "stars": 1186,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-22-c5016d9",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-22-c5016d9",
+      "tag": "KytyPS5-2026-10-22-f5f4e7d",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-22-f5f4e7d",
       "date": "2026-10-22"
     },
     "updated": "2026-10-22",
-    "stars": 9576,
+    "stars": 9594,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 384,
+    "stars": 385,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 240,
+    "stars": 239,
     "archived": false
   },
   {
@@ -285,13 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.1.16",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.16",
+      "tag": "v7.1.18",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.18",
       "date": "2026-10-22"
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 817,
+    "stars": 821,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 1494,
+    "stars": 1498,
     "archived": false
   },
   {
@@ -390,9 +390,9 @@
     "description": "Wii U, 3DS, DS, and Switch emulation for PS5 homebrew (Cemu + Azahar + Melon DS + Eden)",
     "category": "Emulator",
     "stable": {
-      "tag": "v5.0.0",
-      "url": "https://github.com/premohq/PS5-ECAM/releases/tag/v5.0.0",
-      "date": "2026-10-20"
+      "tag": "v5.0.1",
+      "url": "https://github.com/premohq/PS5-ECAM/releases/tag/v5.0.1",
+      "date": "2026-10-22"
     },
     "pre": null,
     "updated": "2026-10-22",
@@ -426,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 179,
+    "stars": 180,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 377,
+    "stars": 379,
     "archived": false
   },
   {
@@ -471,7 +471,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 100,
+    "stars": 101,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 198,
+    "stars": 199,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 1108,
+    "stars": 1111,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 971,
+    "stars": 974,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 251,
+    "stars": 250,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 621,
+    "stars": 622,
     "archived": false
   },
   {
@@ -650,7 +650,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 42,
+    "stars": 43,
     "archived": false
   },
   {
