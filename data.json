@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 861,
+    "stars": 865,
     "archived": false
   },
   {
@@ -55,7 +55,7 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-21",
+    "updated": "2026-10-23",
     "stars": 144,
     "archived": false
   },
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 455,
+    "stars": 456,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1097,
+    "stars": 1100,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 803,
+    "stars": 804,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 625,
+    "stars": 626,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 216,
+    "stars": 217,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1191,
+    "stars": 1198,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-22-79837b4",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-22-79837b4",
-      "date": "2026-10-22"
+      "tag": "KytyPS5-2026-10-23-9dcff95",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-23-9dcff95",
+      "date": "2026-10-23"
     },
-    "updated": "2026-10-22",
-    "stars": 9630,
+    "updated": "2026-10-23",
+    "stars": 9651,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     "category": "Dev",
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 28,
+    "stars": 29,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 240,
+    "stars": 242,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 190,
+    "stars": 192,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 380,
+    "stars": 381,
     "archived": false
   },
   {
@@ -289,9 +289,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.18",
       "date": "2026-10-22"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v7.1.19",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.19",
+      "date": "2026-10-23"
+    },
     "updated": "2026-10-23",
-    "stars": 824,
+    "stars": 826,
     "archived": false
   },
   {
@@ -366,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1509,
+    "stars": 1514,
     "archived": false
   },
   {
@@ -396,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 379,
+    "stars": 380,
     "archived": false
   },
   {
@@ -411,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 119,
+    "stars": 121,
     "archived": false
   },
   {
@@ -441,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 386,
+    "stars": 390,
     "archived": false
   },
   {
@@ -471,7 +475,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 101,
+    "stars": 104,
     "archived": false
   },
   {
@@ -530,8 +534,8 @@
       "date": "2026-10-22"
     },
     "pre": null,
-    "updated": "2026-10-22",
-    "stars": 1124,
+    "updated": "2026-10-23",
+    "stars": 1129,
     "archived": false
   },
   {
@@ -580,7 +584,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 976,
+    "stars": 977,
     "archived": false
   },
   {
@@ -610,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 251,
+    "stars": 252,
     "archived": false
   },
   {
@@ -634,7 +638,7 @@
     "description": "Payload repository for Payload Manager (pldmgr): ps5-exporter, ps5-homeassistant, ps5-signal",
     "category": "Payload",
     "pre": null,
-    "updated": "2026-10-19",
+    "updated": "2026-10-23",
     "stars": 0,
     "archived": false
   },
