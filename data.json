@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 454,
+    "stars": 457,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 865,
+    "stars": 868,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 456,
+    "stars": 457,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1100,
+    "stars": 1102,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 84,
+    "stars": 85,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 626,
+    "stars": 629,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1198,
+    "stars": 1202,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-23"
     },
     "updated": "2026-10-23",
-    "stars": 9651,
+    "stars": 9678,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 387,
+    "stars": 389,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 242,
+    "stars": 243,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 192,
+    "stars": 193,
     "archived": false
   },
   {
@@ -285,17 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.1.18",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.18",
-      "date": "2026-10-22"
-    },
-    "pre": {
       "tag": "v7.1.19",
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.19",
       "date": "2026-10-23"
     },
+    "pre": null,
     "updated": "2026-10-23",
-    "stars": 826,
+    "stars": 831,
     "archived": false
   },
   {
@@ -370,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1514,
+    "stars": 1519,
     "archived": false
   },
   {
@@ -400,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 380,
+    "stars": 381,
     "archived": false
   },
   {
@@ -445,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 390,
+    "stars": 391,
     "archived": false
   },
   {
@@ -460,7 +456,7 @@
     },
     "pre": null,
     "updated": "2026-08-05",
-    "stars": 16,
+    "stars": 17,
     "archived": false
   },
   {
@@ -475,7 +471,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 104,
+    "stars": 106,
     "archived": false
   },
   {
@@ -490,7 +486,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 36,
+    "stars": 38,
     "archived": false
   },
   {
@@ -520,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 199,
+    "stars": 202,
     "archived": false
   },
   {
@@ -535,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1129,
+    "stars": 1135,
     "archived": false
   },
   {
@@ -584,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 977,
+    "stars": 981,
     "archived": false
   },
   {
@@ -599,7 +595,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 190,
+    "stars": 191,
     "archived": false
   },
   {
@@ -614,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 252,
+    "stars": 253,
     "archived": false
   },
   {
@@ -623,13 +619,13 @@
     "description": "BB",
     "category": "Homebrew",
     "stable": {
-      "tag": "1.12.4",
-      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.4",
-      "date": "2026-10-22"
+      "tag": "1.12.5",
+      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.5",
+      "date": "2026-10-23"
     },
     "pre": null,
-    "updated": "2026-10-22",
-    "stars": 626,
+    "updated": "2026-10-23",
+    "stars": 628,
     "archived": false
   },
   {
@@ -654,7 +650,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 43,
+    "stars": 44,
     "archived": false
   },
   {
