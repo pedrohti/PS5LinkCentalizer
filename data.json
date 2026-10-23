@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 453,
+    "stars": 454,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 856,
+    "stars": 861,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 143,
+    "stars": 144,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 454,
+    "stars": 455,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1094,
+    "stars": 1097,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 799,
+    "stars": 803,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 624,
+    "stars": 625,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1187,
+    "stars": 1191,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 280,
+    "stars": 281,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-22"
     },
     "updated": "2026-10-22",
-    "stars": 9611,
+    "stars": 9630,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 385,
+    "stars": 387,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 188,
+    "stars": 190,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-17",
-    "stars": 379,
+    "stars": 380,
     "archived": false
   },
   {
@@ -290,8 +290,8 @@
       "date": "2026-10-22"
     },
     "pre": null,
-    "updated": "2026-10-22",
-    "stars": 823,
+    "updated": "2026-10-23",
+    "stars": 824,
     "archived": false
   },
   {
@@ -365,8 +365,8 @@
       "date": "2026-10-19"
     },
     "pre": null,
-    "updated": "2026-10-19",
-    "stars": 1500,
+    "updated": "2026-10-23",
+    "stars": 1509,
     "archived": false
   },
   {
@@ -395,8 +395,8 @@
       "date": "2026-10-22"
     },
     "pre": null,
-    "updated": "2026-10-22",
-    "stars": 377,
+    "updated": "2026-10-23",
+    "stars": 379,
     "archived": false
   },
   {
@@ -411,7 +411,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 118,
+    "stars": 119,
     "archived": false
   },
   {
@@ -440,8 +440,8 @@
       "date": "2026-10-21"
     },
     "pre": null,
-    "updated": "2026-10-21",
-    "stars": 381,
+    "updated": "2026-10-22",
+    "stars": 386,
     "archived": false
   },
   {
@@ -480,13 +480,13 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.3.0",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.0",
-      "date": "2026-10-20"
+      "tag": "v1.3.2",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.2",
+      "date": "2026-10-23"
     },
     "pre": null,
-    "updated": "2026-10-22",
-    "stars": 35,
+    "updated": "2026-10-23",
+    "stars": 36,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 1115,
+    "stars": 1124,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 975,
+    "stars": 976,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 250,
+    "stars": 251,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 623,
+    "stars": 626,
     "archived": false
   },
   {
@@ -680,7 +680,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 7,
+    "stars": 8,
     "archived": false
   }
 ]
