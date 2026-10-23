@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 457,
+    "stars": 458,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 868,
+    "stars": 870,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 144,
+    "stars": 145,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 457,
+    "stars": 458,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 804,
+    "stars": 805,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 629,
+    "stars": 632,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1202,
+    "stars": 1205,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-23"
     },
     "updated": "2026-10-23",
-    "stars": 9678,
+    "stars": 9694,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 243,
+    "stars": 244,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 831,
+    "stars": 832,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1519,
+    "stars": 1520,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 381,
+    "stars": 384,
     "archived": false
   },
   {
@@ -411,7 +411,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 121,
+    "stars": 124,
     "archived": false
   },
   {
@@ -426,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 181,
+    "stars": 182,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 391,
+    "stars": 392,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 202,
+    "stars": 203,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1135,
+    "stars": 1140,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 981,
+    "stars": 988,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 253,
+    "stars": 254,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 628,
+    "stars": 632,
     "archived": false
   },
   {
@@ -674,12 +674,12 @@
     "description": "PC <-> PS5 sync for RetroArch saves/config and PS2 memory cards, with PS5 backup, remote power-on and rest mode",
     "category": "PC Tool",
     "stable": {
-      "tag": "v2.1.1",
-      "url": "https://github.com/aleksejsgx/RetroSync/releases/tag/v2.1.1",
-      "date": "2026-10-20"
+      "tag": "v2.2.0",
+      "url": "https://github.com/aleksejsgx/RetroSync/releases/tag/v2.2.0",
+      "date": "2026-10-23"
     },
     "pre": null,
-    "updated": "2026-10-20",
+    "updated": "2026-10-23",
     "stars": 8,
     "archived": false
   }
