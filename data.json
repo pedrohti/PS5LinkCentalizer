@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 467,
+    "stars": 468,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 179,
+    "stars": 180,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 641,
+    "stars": 643,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-24"
     },
     "updated": "2026-10-24",
-    "stars": 9752,
+    "stars": 9757,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 396,
+    "stars": 398,
     "archived": false
   },
   {
@@ -270,13 +270,13 @@
     "description": "Direct package downloading from your PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.11.0",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/v1.11.0",
-      "date": "2026-10-09"
+      "tag": "native-v2.0.0",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.0",
+      "date": "2026-10-24"
     },
     "pre": null,
-    "updated": "2026-10-23",
-    "stars": 381,
+    "updated": "2026-10-24",
+    "stars": 383,
     "archived": false
   },
   {
@@ -285,13 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.4.3",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.4.3",
+      "tag": "v7.5.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.5.1",
       "date": "2026-10-24"
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 843,
+    "stars": 842,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 394,
+    "stars": 395,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-22",
-    "stars": 397,
+    "stars": 398,
     "archived": false
   },
   {
@@ -471,7 +471,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 107,
+    "stars": 108,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 206,
+    "stars": 207,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 1167,
+    "stars": 1168,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 648,
+    "stars": 649,
     "archived": false
   },
   {
