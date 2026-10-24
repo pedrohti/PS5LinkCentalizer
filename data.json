@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 466,
+    "stars": 467,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 878,
+    "stars": 883,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1108,
+    "stars": 1110,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 640,
+    "stars": 641,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1211,
+    "stars": 1212,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-24"
     },
     "updated": "2026-10-24",
-    "stars": 9738,
+    "stars": 9747,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 393,
+    "stars": 395,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 247,
+    "stars": 249,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 197,
+    "stars": 199,
     "archived": false
   },
   {
@@ -285,17 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.3.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.3.0",
+      "tag": "v7.4.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.4.1",
       "date": "2026-10-24"
     },
-    "pre": {
-      "tag": "v7.3.1",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.3.1",
-      "date": "2026-10-24"
-    },
+    "pre": null,
     "updated": "2026-10-24",
-    "stars": 839,
+    "stars": 841,
     "archived": false
   },
   {
@@ -355,7 +351,7 @@
     },
     "pre": null,
     "updated": "2026-09-25",
-    "stars": 19,
+    "stars": 18,
     "archived": true
   },
   {
@@ -430,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 186,
+    "stars": 187,
     "archived": false
   },
   {
@@ -520,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 205,
+    "stars": 206,
     "archived": false
   },
   {
@@ -529,13 +525,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.4.0",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.4.0",
-      "date": "2026-10-22"
+      "tag": "v1.5.0",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.5.0",
+      "date": "2026-10-24"
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 1157,
+    "stars": 1164,
     "archived": false
   },
   {
@@ -629,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 643,
+    "stars": 647,
     "archived": false
   },
   {
