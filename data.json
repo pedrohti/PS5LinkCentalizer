@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 889,
+    "stars": 892,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 471,
+    "stars": 472,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1117,
+    "stars": 1121,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 812,
+    "stars": 814,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1225,
+    "stars": 1228,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-25-83f8bfd",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-25-83f8bfd",
+      "tag": "KytyPS5-2026-10-25-99044c7",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-25-99044c7",
       "date": "2026-10-25"
     },
     "updated": "2026-10-25",
-    "stars": 9797,
+    "stars": 9811,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 400,
+    "stars": 401,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 252,
+    "stars": 253,
     "archived": false
   },
   {
@@ -270,13 +270,13 @@
     "description": "Direct package downloading from your PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "native-v2.0.3",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.3",
+      "tag": "native-v2.0.4",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.4",
       "date": "2026-10-25"
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 417,
+    "stars": 418,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 862,
+    "stars": 864,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1544,
+    "stars": 1548,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 398,
+    "stars": 399,
     "archived": false
   },
   {
@@ -426,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 190,
+    "stars": 191,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 212,
+    "stars": 213,
     "archived": false
   },
   {
@@ -530,8 +530,8 @@
       "date": "2026-10-24"
     },
     "pre": null,
-    "updated": "2026-10-24",
-    "stars": 1177,
+    "updated": "2026-10-25",
+    "stars": 1181,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 1003,
+    "stars": 1005,
     "archived": false
   },
   {
@@ -595,7 +595,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 191,
+    "stars": 193,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 258,
+    "stars": 259,
     "archived": false
   },
   {
