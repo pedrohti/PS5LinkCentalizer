@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 468,
+    "stars": 469,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 892,
+    "stars": 894,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 814,
+    "stars": 816,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 648,
+    "stars": 649,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-25-99044c7",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-25-99044c7",
+      "tag": "KytyPS5-2026-10-25-b2c9ec7",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-25-b2c9ec7",
       "date": "2026-10-25"
     },
     "updated": "2026-10-25",
-    "stars": 9811,
+    "stars": 9825,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 418,
+    "stars": 419,
     "archived": false
   },
   {
@@ -285,13 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v7.5.2",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.5.2",
+      "tag": "v7.5.3",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.5.3",
       "date": "2026-10-25"
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 864,
+    "stars": 868,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1548,
+    "stars": 1550,
     "archived": false
   },
   {
@@ -411,7 +411,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 124,
+    "stars": 125,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 405,
+    "stars": 407,
     "archived": false
   },
   {
@@ -525,13 +525,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.5.0",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.5.0",
-      "date": "2026-10-24"
+      "tag": "v1.6.0",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.6.0",
+      "date": "2026-10-25"
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 1181,
+    "stars": 1184,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 1005,
+    "stars": 1006,
     "archived": false
   },
   {
@@ -616,7 +616,7 @@
   {
     "name": "blackbox",
     "url": "https://github.com/D3ATHLY/blackbox",
-    "description": "BB",
+    "description": "Package installer for PS5",
     "category": "Homebrew",
     "stable": {
       "tag": "1.12.5",
