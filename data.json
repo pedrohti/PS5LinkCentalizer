@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 885,
+    "stars": 889,
     "archived": false
   },
   {
@@ -55,7 +55,7 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-24",
+    "updated": "2026-10-25",
     "stars": 146,
     "archived": false
   },
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 469,
+    "stars": 471,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1114,
+    "stars": 1117,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 810,
+    "stars": 812,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 645,
+    "stars": 648,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1221,
+    "stars": 1225,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-25"
     },
     "updated": "2026-10-25",
-    "stars": 9783,
+    "stars": 9797,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 398,
+    "stars": 400,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     "category": "Dev",
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 29,
+    "stars": 30,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 201,
+    "stars": 203,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 412,
+    "stars": 417,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 857,
+    "stars": 862,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1540,
+    "stars": 1544,
     "archived": false
   },
   {
@@ -426,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 188,
+    "stars": 190,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 402,
+    "stars": 405,
     "archived": false
   },
   {
@@ -480,12 +480,12 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.3.2",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.2",
-      "date": "2026-10-23"
+      "tag": "v1.3.3",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.3",
+      "date": "2026-10-25"
     },
     "pre": null,
-    "updated": "2026-10-23",
+    "updated": "2026-10-25",
     "stars": 38,
     "archived": false
   },
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 210,
+    "stars": 212,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 1173,
+    "stars": 1177,
     "archived": false
   },
   {
@@ -540,12 +540,12 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build24",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build24",
-      "date": "2026-10-18"
+      "tag": "build25",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build25",
+      "date": "2026-10-25"
     },
     "pre": null,
-    "updated": "2026-10-18",
+    "updated": "2026-10-25",
     "stars": 35,
     "archived": false
   },
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 1002,
+    "stars": 1003,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 652,
+    "stars": 655,
     "archived": false
   },
   {
