@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 884,
+    "stars": 883,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 465,
+    "stars": 468,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1110,
+    "stars": 1113,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 809,
+    "stars": 810,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 643,
+    "stars": 644,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1214,
+    "stars": 1217,
     "archived": false
   },
   {
@@ -205,8 +205,8 @@
       "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-24-906d255",
       "date": "2026-10-24"
     },
-    "updated": "2026-10-24",
-    "stars": 9757,
+    "updated": "2026-10-25",
+    "stars": 9764,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 249,
+    "stars": 251,
     "archived": false
   },
   {
@@ -270,13 +270,13 @@
     "description": "Direct package downloading from your PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "native-v2.0.0",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.0",
+      "tag": "native-v2.0.1",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.1",
       "date": "2026-10-24"
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 383,
+    "stars": 398,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 842,
+    "stars": 846,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1529,
+    "stars": 1532,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 395,
+    "stars": 397,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-21",
-    "stars": 207,
+    "stars": 209,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 1168,
+    "stars": 1170,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 649,
+    "stars": 648,
     "archived": false
   },
   {
