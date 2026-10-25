@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 883,
+    "stars": 884,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 468,
+    "stars": 469,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-21"
     },
     "updated": "2026-10-21",
-    "stars": 1113,
+    "stars": 1114,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 180,
+    "stars": 181,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1217,
+    "stars": 1218,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-24-906d255",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-24-906d255",
-      "date": "2026-10-24"
+      "tag": "KytyPS5-2026-10-25-83f8bfd",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-25-83f8bfd",
+      "date": "2026-10-25"
     },
     "updated": "2026-10-25",
-    "stars": 9764,
+    "stars": 9775,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 199,
+    "stars": 200,
     "archived": false
   },
   {
@@ -270,13 +270,13 @@
     "description": "Direct package downloading from your PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "native-v2.0.1",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.1",
-      "date": "2026-10-24"
+      "tag": "native-v2.0.3",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.3",
+      "date": "2026-10-25"
     },
     "pre": null,
-    "updated": "2026-10-24",
-    "stars": 398,
+    "updated": "2026-10-25",
+    "stars": 402,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 846,
+    "stars": 849,
     "archived": false
   },
   {
@@ -306,7 +306,7 @@
     },
     "pre": null,
     "updated": "2026-10-01",
-    "stars": 43,
+    "stars": 44,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1532,
+    "stars": 1536,
     "archived": false
   },
   {
@@ -381,7 +381,7 @@
     },
     "pre": null,
     "updated": "2026-10-06",
-    "stars": 61,
+    "stars": 62,
     "archived": false
   },
   {
@@ -426,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 187,
+    "stars": 188,
     "archived": false
   },
   {
@@ -435,13 +435,13 @@
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.000.105",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.105",
-      "date": "2026-10-21"
+      "tag": "v1.000.106",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.106",
+      "date": "2026-10-25"
     },
     "pre": null,
-    "updated": "2026-10-22",
-    "stars": 398,
+    "updated": "2026-10-25",
+    "stars": 399,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 1170,
+    "stars": 1171,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 999,
+    "stars": 1000,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 648,
+    "stars": 651,
     "archived": false
   },
   {
