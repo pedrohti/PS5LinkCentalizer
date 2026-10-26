@@ -86,7 +86,7 @@
       "date": "2026-10-26"
     },
     "updated": "2026-10-26",
-    "stars": 1129,
+    "stars": 1134,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 818,
+    "stars": 817,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 653,
+    "stars": 656,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1230,
+    "stars": 1234,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-26-3c62269",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-26-3c62269",
+      "tag": "KytyPS5-2026-10-26-f90a8b1",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-26-f90a8b1",
       "date": "2026-10-26"
     },
     "updated": "2026-10-26",
-    "stars": 9853,
+    "stars": 9878,
     "archived": false
   },
   {
@@ -221,7 +221,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 402,
+    "stars": 403,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 256,
+    "stars": 258,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 205,
+    "stars": 206,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 429,
+    "stars": 432,
     "archived": false
   },
   {
@@ -285,13 +285,17 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v8.1.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.1.0",
+      "tag": "v8.1.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.1.1",
       "date": "2026-10-26"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v8.2.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.2.0",
+      "date": "2026-10-26"
+    },
     "updated": "2026-10-26",
-    "stars": 880,
+    "stars": 887,
     "archived": false
   },
   {
@@ -366,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1558,
+    "stars": 1559,
     "archived": false
   },
   {
@@ -396,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 400,
+    "stars": 402,
     "archived": false
   },
   {
@@ -426,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 192,
+    "stars": 193,
     "archived": false
   },
   {
@@ -441,7 +445,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 406,
+    "stars": 410,
     "archived": false
   },
   {
@@ -531,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 1184,
+    "stars": 1187,
     "archived": false
   },
   {
@@ -580,7 +584,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 1011,
+    "stars": 1013,
     "archived": false
   },
   {
@@ -610,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 261,
+    "stars": 260,
     "archived": false
   },
   {
@@ -625,7 +629,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 656,
+    "stars": 657,
     "archived": false
   },
   {
