@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 911,
+    "stars": 913,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 480,
+    "stars": 481,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 1166,
+    "stars": 1169,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 829,
+    "stars": 830,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 663,
+    "stars": 665,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 229,
+    "stars": 230,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1251,
+    "stars": 1254,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-27-0685bff",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-27-0685bff",
+      "tag": "KytyPS5-2026-10-27-1be1c6c",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-27-1be1c6c",
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 9982,
+    "stars": 9999,
     "archived": false
   },
   {
@@ -245,8 +245,8 @@
       "date": "2026-09-28"
     },
     "pre": null,
-    "updated": "2026-09-28",
-    "stars": 263,
+    "updated": "2026-10-27",
+    "stars": 265,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 209,
+    "stars": 210,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 913,
+    "stars": 918,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1571,
+    "stars": 1576,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 402,
+    "stars": 403,
     "archived": false
   },
   {
@@ -435,13 +435,13 @@
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.000.113",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.113",
+      "tag": "v1.000.114",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.114",
       "date": "2026-10-27"
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 428,
+    "stars": 432,
     "archived": false
   },
   {
@@ -480,12 +480,12 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.3.3",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.3",
-      "date": "2026-10-25"
+      "tag": "v1.3.4",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.4",
+      "date": "2026-10-27"
     },
     "pre": null,
-    "updated": "2026-10-25",
+    "updated": "2026-10-27",
     "stars": 39,
     "archived": false
   },
@@ -501,7 +501,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 65,
+    "stars": 67,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 1211,
+    "stars": 1214,
     "archived": false
   },
   {
@@ -595,7 +595,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 193,
+    "stars": 194,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 262,
+    "stars": 263,
     "archived": false
   },
   {
