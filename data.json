@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 909,
+    "stars": 910,
     "archived": false
   },
   {
@@ -55,7 +55,7 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-26",
+    "updated": "2026-10-27",
     "stars": 147,
     "archived": false
   },
@@ -85,8 +85,8 @@
       "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta8",
       "date": "2026-10-26"
     },
-    "updated": "2026-10-26",
-    "stars": 1159,
+    "updated": "2026-10-27",
+    "stars": 1162,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 825,
+    "stars": 827,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 661,
+    "stars": 662,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1246,
+    "stars": 1248,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 284,
+    "stars": 286,
     "archived": false
   },
   {
@@ -201,12 +201,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-27-fd6b28c",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-27-fd6b28c",
+      "tag": "KytyPS5-2026-10-27-0685bff",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-27-0685bff",
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 9938,
+    "stars": 9953,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     "category": "Dev",
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 30,
+    "stars": 31,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-09-28",
-    "stars": 261,
+    "stars": 262,
     "archived": false
   },
   {
@@ -285,13 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v8.4.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.4.0",
+      "tag": "v8.5.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.5.1",
       "date": "2026-10-27"
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 904,
+    "stars": 909,
     "archived": false
   },
   {
@@ -366,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1566,
+    "stars": 1568,
     "archived": false
   },
   {
@@ -411,7 +411,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 129,
+    "stars": 130,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 420,
+    "stars": 425,
     "archived": false
   },
   {
@@ -486,7 +486,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 38,
+    "stars": 39,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 1202,
+    "stars": 1206,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 1021,
+    "stars": 1024,
     "archived": false
   },
   {
@@ -650,7 +650,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 48,
+    "stars": 49,
     "archived": false
   },
   {
