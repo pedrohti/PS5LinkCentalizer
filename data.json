@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 906,
+    "stars": 907,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 478,
+    "stars": 479,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-26"
     },
     "updated": "2026-10-26",
-    "stars": 1151,
+    "stars": 1154,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 659,
+    "stars": 660,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 226,
+    "stars": 227,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-08",
-    "stars": 1240,
+    "stars": 1242,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-26"
     },
     "updated": "2026-10-26",
-    "stars": 9918,
+    "stars": 9924,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 437,
+    "stars": 439,
     "archived": false
   },
   {
@@ -290,8 +290,8 @@
       "date": "2026-10-26"
     },
     "pre": null,
-    "updated": "2026-10-26",
-    "stars": 897,
+    "updated": "2026-10-27",
+    "stars": 899,
     "archived": false
   },
   {
@@ -395,7 +395,7 @@
       "date": "2026-10-22"
     },
     "pre": null,
-    "updated": "2026-10-23",
+    "updated": "2026-10-27",
     "stars": 401,
     "archived": false
   },
@@ -435,13 +435,13 @@
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.000.111",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.111",
+      "tag": "v1.000.112",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.112",
       "date": "2026-10-26"
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 414,
+    "stars": 415,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 1196,
+    "stars": 1197,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 261,
+    "stars": 262,
     "archived": false
   },
   {
@@ -625,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 659,
+    "stars": 661,
     "archived": false
   },
   {
@@ -650,7 +650,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 47,
+    "stars": 48,
     "archived": false
   },
   {
