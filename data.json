@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 916,
+    "stars": 918,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 484,
+    "stars": 489,
     "archived": false
   },
   {
@@ -85,8 +85,8 @@
       "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta9",
       "date": "2026-10-27"
     },
-    "updated": "2026-10-27",
-    "stars": 1181,
+    "updated": "2026-10-28",
+    "stars": 1188,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 834,
+    "stars": 839,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 667,
+    "stars": 671,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 231,
+    "stars": 232,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-10-28",
-    "stars": 1259,
+    "stars": 1264,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 287,
+    "stars": 288,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 10019,
+    "stars": 10048,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 210,
+    "stars": 211,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 442,
+    "stars": 443,
     "archived": false
   },
   {
@@ -285,17 +285,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v8.5.1",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.5.1",
-      "date": "2026-10-27"
-    },
-    "pre": {
-      "tag": "v8.6.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.6.0",
+      "tag": "v8.6.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v8.6.1",
       "date": "2026-10-28"
     },
+    "pre": null,
     "updated": "2026-10-28",
-    "stars": 919,
+    "stars": 922,
     "archived": false
   },
   {
@@ -370,7 +366,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1576,
+    "stars": 1577,
     "archived": false
   },
   {
@@ -400,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-28",
-    "stars": 403,
+    "stars": 412,
     "archived": false
   },
   {
@@ -436,7 +432,7 @@
   {
     "name": "ProsperoStore",
     "url": "https://github.com/darkxex/ProsperoStore",
-    "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000)",
+    "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000) https://discord.gg/Drx8tsqq3B",
     "category": "Homebrew",
     "stable": {
       "tag": "v1.000.114",
@@ -445,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 437,
+    "stars": 440,
     "archived": false
   },
   {
@@ -505,7 +501,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 68,
+    "stars": 69,
     "archived": false
   },
   {
@@ -535,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 1219,
+    "stars": 1221,
     "archived": false
   },
   {
@@ -579,12 +575,12 @@
       "date": "2026-05-01"
     },
     "pre": {
-      "tag": "v1.0.4-35c4413",
-      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.4-35c4413",
+      "tag": "v1.1.0-ba879c8",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.1.0-ba879c8",
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1030,
+    "stars": 1038,
     "archived": false
   },
   {
@@ -614,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 263,
+    "stars": 264,
     "archived": false
   },
   {
@@ -629,7 +625,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 664,
+    "stars": 667,
     "archived": false
   },
   {
@@ -654,7 +650,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 49,
+    "stars": 50,
     "archived": false
   },
   {
@@ -693,17 +689,13 @@
     "description": "Play your Steam library's Windows games on a jailbroken PS5.",
     "category": "Hmebrew",
     "stable": {
-      "tag": "v0.7.2",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.7.2",
-      "date": "2026-10-26"
+      "tag": "v0.8.0",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.8.0",
+      "date": "2026-10-28"
     },
-    "pre": {
-      "tag": "v0.8.0-beta.1",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.8.0-beta.1",
-      "date": "2026-10-27"
-    },
-    "updated": "2026-10-27",
-    "stars": 817,
+    "pre": null,
+    "updated": "2026-10-28",
+    "stars": 828,
     "archived": false
   }
 ]
