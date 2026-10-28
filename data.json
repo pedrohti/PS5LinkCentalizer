@@ -71,7 +71,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 481,
+    "stars": 482,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 1169,
+    "stars": 1172,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 665,
+    "stars": 666,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 230,
+    "stars": 231,
     "archived": false
   },
   {
@@ -170,13 +170,13 @@
     "description": "An automated payload loader for exploited PS5 consoles",
     "category": "Exploit",
     "stable": {
-      "tag": "v0.6.1",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.6.1",
-      "date": "2026-10-08"
+      "tag": "v0.6.2",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.6.2",
+      "date": "2026-10-28"
     },
     "pre": null,
-    "updated": "2026-10-08",
-    "stars": 1254,
+    "updated": "2026-10-28",
+    "stars": 1255,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 9999,
+    "stars": 10004,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 265,
+    "stars": 266,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 440,
+    "stars": 441,
     "archived": false
   },
   {
@@ -291,7 +291,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 918,
+    "stars": 919,
     "archived": false
   },
   {
@@ -381,7 +381,7 @@
     },
     "pre": null,
     "updated": "2026-10-06",
-    "stars": 62,
+    "stars": 63,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
       "date": "2026-10-20"
     },
     "updated": "2026-10-21",
-    "stars": 1025,
+    "stars": 1027,
     "archived": false
   },
   {
@@ -681,6 +681,25 @@
     "pre": null,
     "updated": "2026-10-23",
     "stars": 8,
+    "archived": false
+  },
+  {
+    "name": "playden-ps5",
+    "url": "https://github.com/leolobato/playden-ps5",
+    "description": "Play your Steam library's Windows games on a jailbroken PS5.",
+    "category": "Hmebrew",
+    "stable": {
+      "tag": "v0.7.2",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.7.2",
+      "date": "2026-10-26"
+    },
+    "pre": {
+      "tag": "v0.8.0-beta.1",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.8.0-beta.1",
+      "date": "2026-10-27"
+    },
+    "updated": "2026-10-27",
+    "stars": 793,
     "archived": false
   }
 ]
