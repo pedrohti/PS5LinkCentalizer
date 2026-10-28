@@ -41,7 +41,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 913,
+    "stars": 915,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 1172,
+    "stars": 1173,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 10004,
+    "stars": 10009,
     "archived": false
   },
   {
@@ -441,7 +441,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 432,
+    "stars": 435,
     "archived": false
   },
   {
@@ -531,7 +531,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 1214,
+    "stars": 1216,
     "archived": false
   },
   {
@@ -575,12 +575,12 @@
       "date": "2026-05-01"
     },
     "pre": {
-      "tag": "v1.0.3-185cdf8",
-      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.3-185cdf8",
-      "date": "2026-10-20"
+      "tag": "v1.0.4-35c4413",
+      "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.0.4-35c4413",
+      "date": "2026-10-28"
     },
-    "updated": "2026-10-21",
-    "stars": 1027,
+    "updated": "2026-10-28",
+    "stars": 1028,
     "archived": false
   },
   {
@@ -699,7 +699,7 @@
       "date": "2026-10-27"
     },
     "updated": "2026-10-27",
-    "stars": 793,
+    "stars": 798,
     "archived": false
   }
 ]
