@@ -1,7 +1,6 @@
 [
   { "repo": "Al-Azif/hermes-link",                         "category": "PC Tool" },
   { "repo": "aydencharles/onionHEN",                       "category": "HEN" },
-  { "repo": "blackbearreloaded/ProsperoEden",              "category": "Emulator" },
   { "repo": "blackbearreloaded/ProsperoLight",             "category": "Homebrew" },
   { "repo": "drakmor/nanoDNS",                             "category": "Network" },
   { "repo": "drakmor/ShadowMountPlus",                     "category": "Payload" },

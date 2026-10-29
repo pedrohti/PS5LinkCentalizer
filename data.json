@@ -26,22 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 479,
-    "archived": false
-  },
-  {
-    "name": "ProsperoEden",
-    "url": "https://github.com/Swordpdf/ProsperoEden",
-    "description": "Experimental Eden port for PS5",
-    "category": "Emulator",
-    "stable": null,
-    "pre": {
-      "tag": "v1.005.000",
-      "url": "https://github.com/Swordpdf/ProsperoEden/releases/tag/v1.005.000",
-      "date": "2026-10-18"
-    },
-    "updated": "2026-10-18",
-    "stars": 924,
+    "stars": 480,
     "archived": false
   },
   {
@@ -71,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 493,
+    "stars": 497,
     "archived": false
   },
   {
@@ -85,8 +70,8 @@
       "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta10",
       "date": "2026-10-28"
     },
-    "updated": "2026-10-28",
-    "stars": 1205,
+    "updated": "2026-10-29",
+    "stars": 1213,
     "archived": false
   },
   {
@@ -101,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 842,
+    "stars": 845,
     "archived": false
   },
   {
@@ -146,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 680,
+    "stars": 684,
     "archived": false
   },
   {
@@ -161,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 234,
+    "stars": 235,
     "archived": false
   },
   {
@@ -176,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-28",
-    "stars": 1283,
+    "stars": 1292,
     "archived": false
   },
   {
@@ -206,7 +191,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-10-29",
-    "stars": 10093,
+    "stars": 10105,
     "archived": false
   },
   {
@@ -221,7 +206,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 409,
+    "stars": 413,
     "archived": false
   },
   {
@@ -246,7 +231,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 272,
+    "stars": 274,
     "archived": false
   },
   {
@@ -261,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 213,
+    "stars": 214,
     "archived": false
   },
   {
@@ -276,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 445,
+    "stars": 446,
     "archived": false
   },
   {
@@ -285,13 +270,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v9.0.1",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v9.0.1",
+      "tag": "v9.1.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v9.1.0",
       "date": "2026-10-29"
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 933,
+    "stars": 937,
     "archived": false
   },
   {
@@ -366,7 +351,7 @@
     },
     "pre": null,
     "updated": "2026-10-23",
-    "stars": 1581,
+    "stars": 1582,
     "archived": false
   },
   {
@@ -396,7 +381,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 422,
+    "stars": 423,
     "archived": false
   },
   {
@@ -435,13 +420,13 @@
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000) https://discord.gg/Drx8tsqq3B",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.000.115",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.115",
-      "date": "2026-10-28"
+      "tag": "v1.000.116",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.116",
+      "date": "2026-10-29"
     },
     "pre": null,
-    "updated": "2026-10-28",
-    "stars": 448,
+    "updated": "2026-10-29",
+    "stars": 452,
     "archived": false
   },
   {
@@ -525,13 +510,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.7.0",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.7.0",
-      "date": "2026-10-26"
+      "tag": "v1.7.5",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.7.5",
+      "date": "2026-10-29"
     },
     "pre": null,
-    "updated": "2026-10-28",
-    "stars": 1234,
+    "updated": "2026-10-29",
+    "stars": 1236,
     "archived": false
   },
   {
@@ -580,7 +565,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1076,
+    "stars": 1099,
     "archived": false
   },
   {
@@ -610,7 +595,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 268,
+    "stars": 269,
     "archived": false
   },
   {
@@ -619,13 +604,13 @@
     "description": "Package installer for PS5",
     "category": "Homebrew",
     "stable": {
-      "tag": "1.12.5",
-      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.5",
-      "date": "2026-10-23"
+      "tag": "1.12.6",
+      "url": "https://github.com/D3ATHLY/blackbox/releases/tag/1.12.6",
+      "date": "2026-10-29"
     },
     "pre": null,
-    "updated": "2026-10-23",
-    "stars": 678,
+    "updated": "2026-10-29",
+    "stars": 679,
     "archived": false
   },
   {
@@ -693,9 +678,13 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.8.0",
       "date": "2026-10-28"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v0.9.0-beta.1",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.9.0-beta.1",
+      "date": "2026-10-29"
+    },
     "updated": "2026-10-29",
-    "stars": 857,
+    "stars": 867,
     "archived": false
   }
 ]
