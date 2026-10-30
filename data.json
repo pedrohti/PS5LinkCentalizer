@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 484,
+    "stars": 485,
     "archived": false
   },
   {
@@ -40,7 +40,7 @@
       "date": "2026-10-15"
     },
     "pre": null,
-    "updated": "2026-10-28",
+    "updated": "2026-10-30",
     "stars": 148,
     "archived": false
   },
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 506,
+    "stars": 509,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-10-29",
-    "stars": 1233,
+    "stars": 1237,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 854,
+    "stars": 857,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 694,
+    "stars": 697,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 238,
+    "stars": 239,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-28",
-    "stars": 1315,
+    "stars": 1317,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
       "date": "2026-10-30"
     },
     "updated": "2026-10-30",
-    "stars": 10193,
+    "stars": 10206,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 416,
+    "stars": 417,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 280,
+    "stars": 282,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 449,
+    "stars": 451,
     "archived": false
   },
   {
@@ -270,13 +270,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v9.5.3",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v9.5.3",
+      "tag": "v9.9.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v9.9.0",
       "date": "2026-10-30"
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 952,
+    "stars": 956,
     "archived": false
   },
   {
@@ -345,12 +345,12 @@
     "description": "A port of PCSX2 for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "vk-285-177",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-177",
-      "date": "2026-10-19"
+      "tag": "vk-285-182",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-182",
+      "date": "2026-10-30"
     },
     "pre": null,
-    "updated": "2026-10-23",
+    "updated": "2026-10-30",
     "stars": 1583,
     "archived": false
   },
@@ -380,8 +380,8 @@
       "date": "2026-10-28"
     },
     "pre": null,
-    "updated": "2026-10-29",
-    "stars": 427,
+    "updated": "2026-10-30",
+    "stars": 428,
     "archived": false
   },
   {
@@ -426,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 458,
+    "stars": 461,
     "archived": false
   },
   {
@@ -510,13 +510,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.7.5",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.7.5",
-      "date": "2026-10-29"
+      "tag": "v1.8.0",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.8.0",
+      "date": "2026-10-30"
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 1270,
+    "stars": 1276,
     "archived": false
   },
   {
@@ -565,7 +565,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1121,
+    "stars": 1124,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 200,
+    "stars": 201,
     "archived": false
   },
   {
@@ -595,7 +595,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 276,
+    "stars": 277,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 691,
+    "stars": 692,
     "archived": false
   },
   {
@@ -619,7 +619,7 @@
     "description": "Payload repository for Payload Manager (pldmgr): ps5-exporter, ps5-homeassistant, ps5-signal",
     "category": "Payload",
     "pre": null,
-    "updated": "2026-10-23",
+    "updated": "2026-10-30",
     "stars": 0,
     "archived": false
   },
@@ -684,7 +684,7 @@
       "date": "2026-10-30"
     },
     "updated": "2026-10-30",
-    "stars": 886,
+    "stars": 891,
     "archived": false
   }
 ]
