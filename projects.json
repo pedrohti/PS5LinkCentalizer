@@ -44,5 +44,6 @@
   { "repo": "bc160201983/ps5-cloud-save",                  "category": "Payload" },
   { "repo": "heydemoura/syncps5",                          "category": "Payload" },
   { "repo": "aleksejsgx/RetroSync",                        "category": "PC Tool" },
-  { "repo": "leolobato/playden-ps5",                       "category": "Hmebrew" }
+  { "repo": "leolobato/playden-ps5",                       "category": "Hmebrew" },
+  { "repo": "blackbearreloaded/ProsperoEden",              "category": "Emulator" }
 ]

@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 511,
+    "stars": 512,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-10-29",
-    "stars": 1242,
+    "stars": 1245,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 860,
+    "stars": 861,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-10-28",
-    "stars": 1319,
+    "stars": 1320,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 10230,
+    "stars": 10253,
     "archived": false
   },
   {
@@ -270,17 +270,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v10.0.1",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.0.1",
-      "date": "2026-10-31"
-    },
-    "pre": {
       "tag": "v10.0.2",
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.0.2",
       "date": "2026-10-31"
     },
+    "pre": null,
     "updated": "2026-10-31",
-    "stars": 971,
+    "stars": 981,
     "archived": false
   },
   {
@@ -355,7 +351,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 1596,
+    "stars": 1600,
     "archived": false
   },
   {
@@ -430,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 464,
+    "stars": 465,
     "archived": false
   },
   {
@@ -460,7 +456,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 113,
+    "stars": 115,
     "archived": false
   },
   {
@@ -519,8 +515,8 @@
       "date": "2026-10-30"
     },
     "pre": null,
-    "updated": "2026-10-30",
-    "stars": 1278,
+    "updated": "2026-10-31",
+    "stars": 1283,
     "archived": false
   },
   {
@@ -569,7 +565,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1128,
+    "stars": 1130,
     "archived": false
   },
   {
@@ -599,7 +595,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 279,
+    "stars": 280,
     "archived": false
   },
   {
@@ -614,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 696,
+    "stars": 697,
     "archived": false
   },
   {
@@ -687,8 +683,23 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.9.0-beta.3",
       "date": "2026-10-30"
     },
-    "updated": "2026-10-30",
-    "stars": 899,
+    "updated": "2026-10-31",
+    "stars": 905,
+    "archived": false
+  },
+  {
+    "name": "ProsperoEden",
+    "url": "https://github.com/Swordpdf/ProsperoEden",
+    "description": "Experimental Eden port for PS5",
+    "category": "Emulator",
+    "stable": null,
+    "pre": {
+      "tag": "v1.005.000",
+      "url": "https://github.com/Swordpdf/ProsperoEden/releases/tag/v1.005.000",
+      "date": "2026-10-18"
+    },
+    "updated": "2026-10-18",
+    "stars": 2,
     "archived": false
   }
 ]
