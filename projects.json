@@ -45,5 +45,6 @@
   { "repo": "heydemoura/syncps5",                          "category": "Payload" },
   { "repo": "aleksejsgx/RetroSync",                        "category": "PC Tool" },
   { "repo": "leolobato/playden-ps5",                       "category": "Hmebrew" },
-  { "repo": "blackbearreloaded/ProsperoEden",              "category": "Emulator" }
+  { "repo": "blackbearreloaded/ProsperoEden",              "category": "Emulator" },
+  { "repo": "jamesst20/ps5-y2jb-installer",                "category": "PC Tool" }
 ]
