@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 485,
+    "stars": 487,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-10-29",
-    "stars": 1245,
+    "stars": 1246,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 700,
+    "stars": 701,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 239,
+    "stars": 238,
     "archived": false
   },
   {
@@ -159,7 +159,11 @@
       "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.6.2",
       "date": "2026-10-28"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v0.7.0-prerelease-1",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.7.0-prerelease-1",
+      "date": "2026-10-31"
+    },
     "updated": "2026-10-31",
     "stars": 1322,
     "archived": false
@@ -191,7 +195,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 10256,
+    "stars": 10264,
     "archived": false
   },
   {
@@ -231,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 284,
+    "stars": 285,
     "archived": false
   },
   {
@@ -276,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-10-31",
-    "stars": 983,
+    "stars": 985,
     "archived": false
   },
   {
@@ -336,7 +340,7 @@
     },
     "pre": null,
     "updated": "2026-09-25",
-    "stars": 18,
+    "stars": 19,
     "archived": true
   },
   {
@@ -426,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 465,
+    "stars": 466,
     "archived": false
   },
   {
@@ -516,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-31",
-    "stars": 1286,
+    "stars": 1289,
     "archived": false
   },
   {
@@ -565,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1132,
+    "stars": 1135,
     "archived": false
   },
   {
@@ -610,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 696,
+    "stars": 697,
     "archived": false
   },
   {
@@ -684,7 +688,7 @@
       "date": "2026-10-30"
     },
     "updated": "2026-10-31",
-    "stars": 908,
+    "stars": 911,
     "archived": false
   },
   {
@@ -699,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 8,
+    "stars": 12,
     "archived": false
   },
   {
@@ -714,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 84,
+    "stars": 87,
     "archived": false
   },
   {
@@ -729,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 171,
+    "stars": 172,
     "archived": false
   }
 ]
