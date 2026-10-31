@@ -160,7 +160,7 @@
       "date": "2026-10-28"
     },
     "pre": null,
-    "updated": "2026-10-28",
+    "updated": "2026-10-31",
     "stars": 1322,
     "archived": false
   },
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-10-31",
-    "stars": 1285,
+    "stars": 1286,
     "archived": false
   },
   {
@@ -699,7 +699,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 7,
+    "stars": 8,
     "archived": false
   },
   {
@@ -715,6 +715,21 @@
     "pre": null,
     "updated": "2026-10-24",
     "stars": 84,
+    "archived": false
+  },
+  {
+    "name": "Y2JB",
+    "url": "https://github.com/notmaj0r/Y2JB",
+    "description": "Y2JB is userland code execution using PS5 YouTube app",
+    "category": "Exploit",
+    "stable": {
+      "tag": "Relapse",
+      "url": "https://github.com/notmaj0r/Y2JB/releases/tag/Relapse",
+      "date": "2026-10-27"
+    },
+    "pre": null,
+    "updated": "2026-10-27",
+    "stars": 171,
     "archived": false
   }
 ]
