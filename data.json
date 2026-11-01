@@ -11,7 +11,7 @@
     },
     "pre": null,
     "updated": "2026-05-25",
-    "stars": 73,
+    "stars": 72,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1331,
+    "stars": 1332,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-01"
     },
     "updated": "2026-11-01",
-    "stars": 10369,
+    "stars": 10399,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 421,
+    "stars": 423,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 220,
+    "stars": 221,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v10.5.1",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.5.1",
+      "tag": "v10.6.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.6.0",
       "date": "2026-11-01"
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 999,
+    "stars": 1001,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 473,
+    "stars": 474,
     "archived": false
   },
   {
@@ -505,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 218,
+    "stars": 219,
     "archived": false
   },
   {
@@ -520,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 1302,
+    "stars": 1304,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1148,
+    "stars": 1149,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 701,
+    "stars": 702,
     "archived": false
   },
   {
@@ -703,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 115,
+    "stars": 123,
     "archived": false
   },
   {
