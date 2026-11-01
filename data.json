@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 487,
+    "stars": 488,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 513,
+    "stars": 514,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-10-29",
-    "stars": 1252,
+    "stars": 1253,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 863,
+    "stars": 864,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 238,
+    "stars": 239,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1325,
+    "stars": 1326,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-10-31-a06e356",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-31-a06e356",
-      "date": "2026-10-31"
+      "tag": "KytyPS5-2026-11-01-2f885e2",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-01-2f885e2",
+      "date": "2026-11-01"
     },
-    "updated": "2026-10-31",
-    "stars": 10276,
+    "updated": "2026-11-01",
+    "stars": 10288,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 453,
+    "stars": 454,
     "archived": false
   },
   {
@@ -274,17 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v10.2.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.2.0",
+      "tag": "v10.3.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.3.0",
       "date": "2026-11-01"
     },
-    "pre": {
-      "tag": "v10.2.1",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.2.1",
-      "date": "2026-11-01"
-    },
+    "pre": null,
     "updated": "2026-11-01",
-    "stars": 988,
+    "stars": 991,
     "archived": false
   },
   {
@@ -359,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 1605,
+    "stars": 1609,
     "archived": false
   },
   {
@@ -404,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 132,
+    "stars": 133,
     "archived": false
   },
   {
@@ -434,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 470,
+    "stars": 471,
     "archived": false
   },
   {
@@ -473,12 +469,12 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.3.4",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.4",
-      "date": "2026-10-27"
+      "tag": "v1.3.5",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.5",
+      "date": "2026-11-01"
     },
     "pre": null,
-    "updated": "2026-10-27",
+    "updated": "2026-11-01",
     "stars": 39,
     "archived": false
   },
@@ -524,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-10-31",
-    "stars": 1295,
+    "stars": 1296,
     "archived": false
   },
   {
@@ -533,12 +529,12 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build25",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build25",
-      "date": "2026-10-25"
+      "tag": "build26",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build26",
+      "date": "2026-11-01"
     },
     "pre": null,
-    "updated": "2026-10-30",
+    "updated": "2026-11-01",
     "stars": 38,
     "archived": false
   },
@@ -554,7 +550,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 28,
+    "stars": 29,
     "archived": false
   },
   {
@@ -573,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1136,
+    "stars": 1139,
     "archived": false
   },
   {
@@ -603,7 +599,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 280,
+    "stars": 282,
     "archived": false
   },
   {
@@ -643,7 +639,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 50,
+    "stars": 51,
     "archived": false
   },
   {
@@ -692,7 +688,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 915,
+    "stars": 919,
     "archived": false
   },
   {
@@ -707,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 44,
+    "stars": 82,
     "archived": false
   },
   {
@@ -722,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 90,
+    "stars": 91,
     "archived": false
   },
   {
@@ -737,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 175,
+    "stars": 176,
     "archived": false
   }
 ]
