@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-10-29",
-    "stars": 1252,
+    "stars": 1253,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 701,
+    "stars": 703,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1326,
+    "stars": 1331,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-01"
     },
     "updated": "2026-11-01",
-    "stars": 10318,
+    "stars": 10369,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 287,
+    "stars": 288,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 454,
+    "stars": 453,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v10.4.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.4.0",
+      "tag": "v10.5.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.5.1",
       "date": "2026-11-01"
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 992,
+    "stars": 999,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 1612,
+    "stars": 1615,
     "archived": false
   },
   {
@@ -364,12 +364,12 @@
     "description": "Tailscale for jailbroken PS5: reach the console over your tailnet for Remote Play and stream to it with Moonlight/Sunshine (unofficial)",
     "category": "Network",
     "stable": {
-      "tag": "v0.7.1",
-      "url": "https://github.com/holdmysocks/ps5-tailscale/releases/tag/v0.7.1",
-      "date": "2026-10-06"
+      "tag": "v0.7.2",
+      "url": "https://github.com/holdmysocks/ps5-tailscale/releases/tag/v0.7.2",
+      "date": "2026-11-01"
     },
     "pre": null,
-    "updated": "2026-10-06",
+    "updated": "2026-11-01",
     "stars": 63,
     "archived": false
   },
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 472,
+    "stars": 473,
     "archived": false
   },
   {
@@ -514,13 +514,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.8.2",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.8.2",
-      "date": "2026-10-31"
+      "tag": "v1.8.3",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.8.3",
+      "date": "2026-11-01"
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 1299,
+    "stars": 1302,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1144,
+    "stars": 1148,
     "archived": false
   },
   {
@@ -688,7 +688,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-11-01",
-    "stars": 929,
+    "stars": 932,
     "archived": false
   },
   {
@@ -703,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 107,
+    "stars": 115,
     "archived": false
   },
   {
@@ -733,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 177,
+    "stars": 178,
     "archived": false
   }
 ]
