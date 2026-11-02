@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-10-29",
-    "stars": 1253,
+    "stars": 1254,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 703,
+    "stars": 705,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1332,
+    "stars": 1333,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 290,
+    "stars": 291,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-01"
     },
     "updated": "2026-11-01",
-    "stars": 10399,
+    "stars": 10420,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 288,
+    "stars": 289,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v10.6.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.6.0",
-      "date": "2026-11-01"
+      "tag": "v10.7.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.7.1",
+      "date": "2026-11-02"
     },
     "pre": null,
-    "updated": "2026-11-01",
-    "stars": 1001,
+    "updated": "2026-11-02",
+    "stars": 1003,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 1615,
+    "stars": 1616,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1149,
+    "stars": 1151,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 702,
+    "stars": 703,
     "archived": false
   },
   {
@@ -678,17 +678,13 @@
     "description": "Play your Steam library's Windows games on a jailbroken PS5.",
     "category": "Hmebrew",
     "stable": {
-      "tag": "v0.8.0",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.8.0",
-      "date": "2026-10-28"
+      "tag": "v0.9.0",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.9.0",
+      "date": "2026-11-02"
     },
-    "pre": {
-      "tag": "v0.9.0-beta.4",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.9.0-beta.4",
-      "date": "2026-10-31"
-    },
-    "updated": "2026-11-01",
-    "stars": 932,
+    "pre": null,
+    "updated": "2026-11-02",
+    "stars": 937,
     "archived": false
   },
   {
@@ -703,7 +699,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 123,
+    "stars": 129,
     "archived": false
   },
   {
@@ -718,7 +714,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 95,
+    "stars": 96,
     "archived": false
   },
   {
