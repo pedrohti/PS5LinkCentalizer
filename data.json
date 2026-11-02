@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-11-02",
-    "stars": 491,
+    "stars": 492,
     "archived": false
   },
   {
@@ -70,8 +70,8 @@
       "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta11",
       "date": "2026-10-29"
     },
-    "updated": "2026-10-29",
-    "stars": 1261,
+    "updated": "2026-11-02",
+    "stars": 1263,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1335,
+    "stars": 1336,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 292,
+    "stars": 293,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-02-02b17af",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-02-02b17af",
+      "tag": "KytyPS5-2026-11-02-4a305a9",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-02-4a305a9",
       "date": "2026-11-02"
     },
     "updated": "2026-11-02",
-    "stars": 10461,
+    "stars": 10503,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 424,
+    "stars": 425,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 289,
+    "stars": 290,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v10.7.2",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.7.2",
+      "tag": "v10.7.3",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.7.3",
       "date": "2026-11-02"
     },
     "pre": null,
     "updated": "2026-11-02",
-    "stars": 1007,
+    "stars": 1012,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 1617,
+    "stars": 1619,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 477,
+    "stars": 481,
     "archived": false
   },
   {
@@ -505,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 219,
+    "stars": 220,
     "archived": false
   },
   {
@@ -514,13 +514,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.8.3",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.8.3",
-      "date": "2026-11-01"
+      "tag": "v1.8.4",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.8.4",
+      "date": "2026-11-02"
     },
     "pre": null,
-    "updated": "2026-11-01",
-    "stars": 1306,
+    "updated": "2026-11-02",
+    "stars": 1310,
     "archived": false
   },
   {
@@ -535,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 38,
+    "stars": 39,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1155,
+    "stars": 1159,
     "archived": false
   },
   {
@@ -584,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 203,
+    "stars": 204,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 706,
+    "stars": 707,
     "archived": false
   },
   {
@@ -682,9 +682,13 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.9.0",
       "date": "2026-11-02"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v0.10.0-beta.1",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.10.0-beta.1",
+      "date": "2026-11-02"
+    },
     "updated": "2026-11-02",
-    "stars": 949,
+    "stars": 966,
     "archived": false
   },
   {
@@ -699,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 141,
+    "stars": 155,
     "archived": false
   },
   {
@@ -729,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 181,
+    "stars": 182,
     "archived": false
   }
 ]
