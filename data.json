@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-11-02",
-    "stars": 494,
+    "stars": 495,
     "archived": false
   },
   {
@@ -41,7 +41,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 148,
+    "stars": 151,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-11-02",
-    "stars": 1278,
+    "stars": 1282,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 883,
+    "stars": 885,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 189,
+    "stars": 190,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 88,
+    "stars": 89,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 708,
+    "stars": 710,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-02-dfec14a",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-02-dfec14a",
-      "date": "2026-11-02"
+      "tag": "KytyPS5-2026-11-03-eecd982",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-03-eecd982",
+      "date": "2026-11-03"
     },
     "updated": "2026-11-03",
-    "stars": 10567,
+    "stars": 10585,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 423,
+    "stars": 425,
     "archived": false
   },
   {
@@ -220,7 +220,7 @@
     "category": "Dev",
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 32,
+    "stars": 33,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 225,
+    "stars": 227,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 455,
+    "stars": 456,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v11.0.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.0.0",
+      "tag": "v11.0.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.0.1",
       "date": "2026-11-03"
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 1027,
+    "stars": 1031,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 1623,
+    "stars": 1626,
     "archived": false
   },
   {
@@ -385,7 +385,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 434,
+    "stars": 435,
     "archived": false
   },
   {
@@ -400,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 134,
+    "stars": 137,
     "archived": false
   },
   {
@@ -415,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 203,
+    "stars": 202,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 485,
+    "stars": 486,
     "archived": false
   },
   {
@@ -460,7 +460,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 116,
+    "stars": 117,
     "archived": false
   },
   {
@@ -499,13 +499,13 @@
     "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.",
     "category": "Emulator",
     "stable": {
-      "tag": "v4.0",
-      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/tag/v4.0",
-      "date": "2026-10-21"
+      "tag": "v4.5",
+      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/tag/v4.5",
+      "date": "2026-11-03"
     },
     "pre": null,
-    "updated": "2026-10-25",
-    "stars": 221,
+    "updated": "2026-11-03",
+    "stars": 223,
     "archived": false
   },
   {
@@ -520,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 1321,
+    "stars": 1323,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1172,
+    "stars": 1174,
     "archived": false
   },
   {
@@ -584,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 205,
+    "stars": 206,
     "archived": false
   },
   {
@@ -593,13 +593,13 @@
     "description": "Web-Based Cheat Trainer for PS5!",
     "category": "Cheats",
     "stable": {
-      "tag": "v0.18",
-      "url": "https://github.com/notmaj0r/CheatRunner/releases/tag/v0.18",
-      "date": "2026-10-10"
+      "tag": "v0.18.1",
+      "url": "https://github.com/notmaj0r/CheatRunner/releases/tag/v0.18.1",
+      "date": "2026-11-03"
     },
     "pre": null,
-    "updated": "2026-10-26",
-    "stars": 284,
+    "updated": "2026-11-03",
+    "stars": 285,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 708,
+    "stars": 710,
     "archived": false
   },
   {
@@ -688,7 +688,7 @@
       "date": "2026-11-02"
     },
     "updated": "2026-11-03",
-    "stars": 978,
+    "stars": 980,
     "archived": false
   },
   {
@@ -703,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 164,
+    "stars": 166,
     "archived": false
   },
   {
@@ -717,8 +717,8 @@
       "date": "2026-10-24"
     },
     "pre": null,
-    "updated": "2026-10-24",
-    "stars": 101,
+    "updated": "2026-11-03",
+    "stars": 102,
     "archived": false
   },
   {
