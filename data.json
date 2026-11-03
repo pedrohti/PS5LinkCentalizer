@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-11-02",
-    "stars": 492,
+    "stars": 494,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 518,
+    "stars": 519,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-11-02",
-    "stars": 1271,
+    "stars": 1278,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 880,
+    "stars": 883,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 706,
+    "stars": 708,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 241,
+    "stars": 243,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1342,
+    "stars": 1344,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-02"
     },
     "updated": "2026-11-03",
-    "stars": 10539,
+    "stars": 10567,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 424,
+    "stars": 423,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 291,
+    "stars": 293,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 224,
+    "stars": 225,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v10.7.6",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v10.7.6",
+      "tag": "v11.0.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.0.0",
       "date": "2026-11-03"
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 1020,
+    "stars": 1027,
     "archived": false
   },
   {
@@ -349,13 +349,13 @@
     "description": "A port of PCSX2 for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "vk-285-182",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-182",
-      "date": "2026-10-30"
+      "tag": "vk-285-187",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-187",
+      "date": "2026-11-03"
     },
     "pre": null,
-    "updated": "2026-10-30",
-    "stars": 1620,
+    "updated": "2026-11-03",
+    "stars": 1623,
     "archived": false
   },
   {
@@ -400,7 +400,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 133,
+    "stars": 134,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 483,
+    "stars": 485,
     "archived": false
   },
   {
@@ -505,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-10-25",
-    "stars": 220,
+    "stars": 221,
     "archived": false
   },
   {
@@ -519,8 +519,8 @@
       "date": "2026-11-02"
     },
     "pre": null,
-    "updated": "2026-11-02",
-    "stars": 1318,
+    "updated": "2026-11-03",
+    "stars": 1321,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1166,
+    "stars": 1172,
     "archived": false
   },
   {
@@ -584,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 204,
+    "stars": 205,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 706,
+    "stars": 708,
     "archived": false
   },
   {
@@ -688,7 +688,7 @@
       "date": "2026-11-02"
     },
     "updated": "2026-11-03",
-    "stars": 974,
+    "stars": 978,
     "archived": false
   },
   {
@@ -703,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 161,
+    "stars": 164,
     "archived": false
   },
   {
@@ -718,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 100,
+    "stars": 101,
     "archived": false
   },
   {
@@ -733,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 183,
+    "stars": 184,
     "archived": false
   }
 ]
