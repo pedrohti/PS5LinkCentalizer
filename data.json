@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 521,
+    "stars": 522,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-11-02",
-    "stars": 1283,
+    "stars": 1286,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 886,
+    "stars": 888,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 710,
+    "stars": 712,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1346,
+    "stars": 1349,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-03-eecd982",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-03-eecd982",
-      "date": "2026-11-03"
+      "tag": "KytyPS5-2026-11-04-65fd1f6",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-04-65fd1f6",
+      "date": "2026-11-04"
     },
-    "updated": "2026-11-03",
-    "stars": 10592,
+    "updated": "2026-11-04",
+    "stars": 10610,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 456,
+    "stars": 457,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v11.0.3",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.0.3",
+      "tag": "v11.0.8",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.0.8",
       "date": "2026-11-04"
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 1033,
+    "stars": 1036,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 1626,
+    "stars": 1630,
     "archived": false
   },
   {
@@ -370,7 +370,7 @@
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 63,
+    "stars": 64,
     "archived": false
   },
   {
@@ -385,7 +385,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 436,
+    "stars": 435,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 486,
+    "stars": 489,
     "archived": false
   },
   {
@@ -460,7 +460,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 117,
+    "stars": 118,
     "archived": false
   },
   {
@@ -475,7 +475,7 @@
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 39,
+    "stars": 40,
     "archived": false
   },
   {
@@ -505,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 223,
+    "stars": 224,
     "archived": false
   },
   {
@@ -519,8 +519,8 @@
       "date": "2026-11-02"
     },
     "pre": null,
-    "updated": "2026-11-03",
-    "stars": 1324,
+    "updated": "2026-11-04",
+    "stars": 1328,
     "archived": false
   },
   {
@@ -535,7 +535,7 @@
     },
     "pre": null,
     "updated": "2026-11-01",
-    "stars": 39,
+    "stars": 40,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1174,
+    "stars": 1175,
     "archived": false
   },
   {
@@ -688,7 +688,7 @@
       "date": "2026-11-02"
     },
     "updated": "2026-11-04",
-    "stars": 981,
+    "stars": 984,
     "archived": false
   },
   {
@@ -703,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 168,
+    "stars": 171,
     "archived": false
   },
   {
@@ -718,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 103,
+    "stars": 104,
     "archived": false
   },
   {
@@ -733,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 185,
+    "stars": 186,
     "archived": false
   }
 ]
