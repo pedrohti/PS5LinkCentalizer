@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 526,
+    "stars": 528,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-11-04",
-    "stars": 1301,
+    "stars": 1302,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 192,
+    "stars": 193,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 719,
+    "stars": 722,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 248,
+    "stars": 250,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
       "date": "2026-10-31"
     },
     "updated": "2026-10-31",
-    "stars": 1356,
+    "stars": 1358,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-05"
     },
     "updated": "2026-11-05",
-    "stars": 10669,
+    "stars": 10675,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 295,
+    "stars": 296,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v11.2.2",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.2.2",
+      "tag": "v11.2.3",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.2.3",
       "date": "2026-11-05"
     },
     "pre": null,
     "updated": "2026-11-05",
-    "stars": 1090,
+    "stars": 1098,
     "archived": false
   },
   {
@@ -349,12 +349,12 @@
     "description": "A port of PCSX2 for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "vk-285-187",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-187",
-      "date": "2026-11-03"
+      "tag": "vk-285-190",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-190",
+      "date": "2026-11-05"
     },
     "pre": null,
-    "updated": "2026-11-03",
+    "updated": "2026-11-05",
     "stars": 1637,
     "archived": false
   },
@@ -385,7 +385,7 @@
     },
     "pre": null,
     "updated": "2026-11-05",
-    "stars": 442,
+    "stars": 445,
     "archived": false
   },
   {
@@ -430,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 499,
+    "stars": 500,
     "archived": false
   },
   {
@@ -460,7 +460,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 119,
+    "stars": 120,
     "archived": false
   },
   {
@@ -505,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 225,
+    "stars": 226,
     "archived": false
   },
   {
@@ -519,8 +519,8 @@
       "date": "2026-11-04"
     },
     "pre": null,
-    "updated": "2026-11-04",
-    "stars": 1339,
+    "updated": "2026-11-05",
+    "stars": 1344,
     "archived": false
   },
   {
@@ -569,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1189,
+    "stars": 1191,
     "archived": false
   },
   {
@@ -584,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 210,
+    "stars": 211,
     "archived": false
   },
   {
@@ -599,7 +599,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 289,
+    "stars": 290,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 712,
+    "stars": 713,
     "archived": false
   },
   {
@@ -688,7 +688,7 @@
       "date": "2026-11-05"
     },
     "updated": "2026-11-05",
-    "stars": 1000,
+    "stars": 1004,
     "archived": false
   },
   {
@@ -703,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 194,
+    "stars": 197,
     "archived": false
   },
   {
@@ -718,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 111,
+    "stars": 114,
     "archived": false
   },
   {
@@ -733,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 188,
+    "stars": 189,
     "archived": false
   }
 ]
