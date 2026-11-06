@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 500,
+    "stars": 501,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-11-04",
-    "stars": 1300,
+    "stars": 1302,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 901,
+    "stars": 903,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 722,
+    "stars": 725,
     "archived": false
   },
   {
@@ -164,8 +164,8 @@
       "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.7.0-prerelease-2",
       "date": "2026-10-31"
     },
-    "updated": "2026-10-31",
-    "stars": 1359,
+    "updated": "2026-11-06",
+    "stars": 1361,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-06"
     },
     "updated": "2026-11-06",
-    "stars": 10703,
+    "stars": 10712,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 294,
+    "stars": 295,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 230,
+    "stars": 231,
     "archived": false
   },
   {
@@ -278,9 +278,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.2.6",
       "date": "2026-11-06"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v11.2.8",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.2.8",
+      "date": "2026-11-06"
+    },
     "updated": "2026-11-06",
-    "stars": 1108,
+    "stars": 1114,
     "archived": false
   },
   {
@@ -355,7 +359,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1639,
+    "stars": 1638,
     "archived": false
   },
   {
@@ -385,7 +389,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 462,
+    "stars": 466,
     "archived": false
   },
   {
@@ -400,7 +404,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 136,
+    "stars": 137,
     "archived": false
   },
   {
@@ -520,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1347,
+    "stars": 1350,
     "archived": false
   },
   {
@@ -569,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1192,
+    "stars": 1196,
     "archived": false
   },
   {
@@ -599,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 288,
+    "stars": 289,
     "archived": false
   },
   {
@@ -684,7 +688,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1009,
+    "stars": 1014,
     "archived": false
   },
   {
@@ -699,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 212,
+    "stars": 217,
     "archived": false
   },
   {
@@ -714,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 118,
+    "stars": 121,
     "archived": false
   },
   {
@@ -729,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 192,
+    "stars": 193,
     "archived": false
   }
 ]
