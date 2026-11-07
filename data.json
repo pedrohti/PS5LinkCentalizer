@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 501,
+    "stars": 502,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 531,
+    "stars": 533,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-11-04",
-    "stars": 1302,
+    "stars": 1304,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 903,
+    "stars": 905,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 192,
+    "stars": 193,
     "archived": false
   },
   {
@@ -155,17 +155,13 @@
     "description": "An automated payload loader for exploited PS5 consoles",
     "category": "Exploit",
     "stable": {
-      "tag": "v0.6.2",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.6.2",
-      "date": "2026-10-28"
+      "tag": "v0.7.0",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.7.0",
+      "date": "2026-11-06"
     },
-    "pre": {
-      "tag": "v0.7.0-prerelease-2",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.7.0-prerelease-2",
-      "date": "2026-10-31"
-    },
+    "pre": null,
     "updated": "2026-11-06",
-    "stars": 1361,
+    "stars": 1362,
     "archived": false
   },
   {
@@ -180,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 294,
+    "stars": 295,
     "archived": false
   },
   {
@@ -195,7 +191,7 @@
       "date": "2026-11-06"
     },
     "updated": "2026-11-06",
-    "stars": 10712,
+    "stars": 10723,
     "archived": false
   },
   {
@@ -210,7 +206,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 426,
+    "stars": 427,
     "archived": false
   },
   {
@@ -250,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 231,
+    "stars": 232,
     "archived": false
   },
   {
@@ -283,8 +279,8 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.2.8",
       "date": "2026-11-06"
     },
-    "updated": "2026-11-06",
-    "stars": 1114,
+    "updated": "2026-11-07",
+    "stars": 1116,
     "archived": false
   },
   {
@@ -359,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1638,
+    "stars": 1639,
     "archived": false
   },
   {
@@ -388,8 +384,8 @@
       "date": "2026-10-28"
     },
     "pre": null,
-    "updated": "2026-11-06",
-    "stars": 466,
+    "updated": "2026-11-07",
+    "stars": 467,
     "archived": false
   },
   {
@@ -419,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 201,
+    "stars": 202,
     "archived": false
   },
   {
@@ -434,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 503,
+    "stars": 506,
     "archived": false
   },
   {
@@ -524,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1350,
+    "stars": 1351,
     "archived": false
   },
   {
@@ -588,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 208,
+    "stars": 209,
     "archived": false
   },
   {
@@ -703,7 +699,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 217,
+    "stars": 221,
     "archived": false
   },
   {
@@ -718,7 +714,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 121,
+    "stars": 122,
     "archived": false
   },
   {
@@ -733,7 +729,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 193,
+    "stars": 194,
     "archived": false
   }
 ]
