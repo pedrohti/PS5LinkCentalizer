@@ -71,7 +71,7 @@
       "date": "2026-10-29"
     },
     "updated": "2026-11-04",
-    "stars": 1310,
+    "stars": 1313,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 912,
+    "stars": 913,
     "archived": false
   },
   {
@@ -101,7 +101,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 192,
+    "stars": 194,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 88,
+    "stars": 89,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1368,
+    "stars": 1370,
     "archived": false
   },
   {
@@ -186,12 +186,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-07-96b2517",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-07-96b2517",
+      "tag": "KytyPS5-2026-11-07-751fbd0",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-07-751fbd0",
       "date": "2026-11-07"
     },
     "updated": "2026-11-07",
-    "stars": 10749,
+    "stars": 10755,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 296,
+    "stars": 298,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 233,
+    "stars": 234,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 458,
+    "stars": 459,
     "archived": false
   },
   {
@@ -274,7 +274,11 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.5.0",
       "date": "2026-11-07"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v11.5.2",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.5.2",
+      "date": "2026-11-07"
+    },
     "updated": "2026-11-07",
     "stars": 1126,
     "archived": false
@@ -351,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1639,
+    "stars": 1642,
     "archived": false
   },
   {
@@ -426,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-10-29",
-    "stars": 510,
+    "stars": 511,
     "archived": false
   },
   {
@@ -486,7 +490,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 69,
+    "stars": 70,
     "archived": false
   },
   {
@@ -565,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1206,
+    "stars": 1207,
     "archived": false
   },
   {
@@ -610,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-11-07",
-    "stars": 715,
+    "stars": 716,
     "archived": false
   },
   {
@@ -678,9 +682,13 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.10.0",
       "date": "2026-11-06"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v0.11.0-beta.1",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.1",
+      "date": "2026-11-07"
+    },
     "updated": "2026-11-07",
-    "stars": 1025,
+    "stars": 1027,
     "archived": false
   },
   {
@@ -695,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 232,
+    "stars": 236,
     "archived": false
   },
   {
