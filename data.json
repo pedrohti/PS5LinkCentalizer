@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 537,
+    "stars": 538,
     "archived": false
   },
   {
@@ -66,12 +66,12 @@
     "category": "Payload",
     "stable": null,
     "pre": {
-      "tag": "1.7beta11",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta11",
-      "date": "2026-10-29"
+      "tag": "1.7beta12",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta12",
+      "date": "2026-11-08"
     },
-    "updated": "2026-11-04",
-    "stars": 1317,
+    "updated": "2026-11-08",
+    "stars": 1320,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 730,
+    "stars": 732,
     "archived": false
   },
   {
@@ -146,7 +146,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 251,
+    "stars": 252,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1377,
+    "stars": 1380,
     "archived": false
   },
   {
@@ -186,12 +186,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-08-7816ac7",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-08-7816ac7",
+      "tag": "KytyPS5-2026-11-08-16a7bbe",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-08-16a7bbe",
       "date": "2026-11-08"
     },
     "updated": "2026-11-08",
-    "stars": 10799,
+    "stars": 10812,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 429,
+    "stars": 428,
     "archived": false
   },
   {
@@ -246,7 +246,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 234,
+    "stars": 235,
     "archived": false
   },
   {
@@ -274,9 +274,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.6.0",
       "date": "2026-11-08"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v12.0.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.0.0",
+      "date": "2026-11-08"
+    },
     "updated": "2026-11-08",
-    "stars": 1137,
+    "stars": 1139,
     "archived": false
   },
   {
@@ -351,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1645,
+    "stars": 1646,
     "archived": false
   },
   {
@@ -411,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 202,
+    "stars": 203,
     "archived": false
   },
   {
@@ -580,7 +584,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 209,
+    "stars": 210,
     "archived": false
   },
   {
@@ -610,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-11-07",
-    "stars": 718,
+    "stars": 719,
     "archived": false
   },
   {
@@ -684,7 +688,7 @@
       "date": "2026-11-07"
     },
     "updated": "2026-11-07",
-    "stars": 1034,
+    "stars": 1036,
     "archived": false
   },
   {
@@ -699,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 244,
+    "stars": 246,
     "archived": false
   },
   {
@@ -714,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 131,
+    "stars": 132,
     "archived": false
   },
   {
