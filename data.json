@@ -70,8 +70,8 @@
       "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta12",
       "date": "2026-11-08"
     },
-    "updated": "2026-11-08",
-    "stars": 1321,
+    "updated": "2026-11-09",
+    "stars": 1323,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 917,
+    "stars": 918,
     "archived": false
   },
   {
@@ -116,7 +116,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 89,
+    "stars": 90,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 732,
+    "stars": 735,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1382,
+    "stars": 1386,
     "archived": false
   },
   {
@@ -176,7 +176,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 295,
+    "stars": 296,
     "archived": false
   },
   {
@@ -186,12 +186,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-08-16a7bbe",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-08-16a7bbe",
-      "date": "2026-11-08"
+      "tag": "KytyPS5-2026-11-09-e129252",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-09-e129252",
+      "date": "2026-11-09"
     },
-    "updated": "2026-11-08",
-    "stars": 10815,
+    "updated": "2026-11-09",
+    "stars": 10835,
     "archived": false
   },
   {
@@ -206,7 +206,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 428,
+    "stars": 429,
     "archived": false
   },
   {
@@ -225,13 +225,13 @@
     "description": "All-In-One manager for your PS5!",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.1",
-      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/tag/v1.1",
-      "date": "2026-09-28"
+      "tag": "v1.2",
+      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/tag/v1.2",
+      "date": "2026-11-09"
     },
     "pre": null,
-    "updated": "2026-10-27",
-    "stars": 299,
+    "updated": "2026-11-09",
+    "stars": 311,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 462,
+    "stars": 463,
     "archived": false
   },
   {
@@ -270,17 +270,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v11.6.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v11.6.0",
-      "date": "2026-11-08"
-    },
-    "pre": {
-      "tag": "v12.1.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.1.0",
+      "tag": "v12.2.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.2.0",
       "date": "2026-11-09"
     },
-    "updated": "2026-11-08",
-    "stars": 1142,
+    "pre": null,
+    "updated": "2026-11-09",
+    "stars": 1147,
     "archived": false
   },
   {
@@ -385,7 +381,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 475,
+    "stars": 476,
     "archived": false
   },
   {
@@ -400,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 136,
+    "stars": 137,
     "archived": false
   },
   {
@@ -430,7 +426,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 516,
+    "stars": 517,
     "archived": false
   },
   {
@@ -505,7 +501,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 230,
+    "stars": 231,
     "archived": false
   },
   {
@@ -520,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1361,
+    "stars": 1362,
     "archived": false
   },
   {
@@ -569,7 +565,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1211,
+    "stars": 1215,
     "archived": false
   },
   {
@@ -617,8 +613,8 @@
       "date": "2026-11-08"
     },
     "pre": null,
-    "updated": "2026-11-08",
-    "stars": 723,
+    "updated": "2026-11-09",
+    "stars": 729,
     "archived": false
   },
   {
@@ -692,7 +688,7 @@
       "date": "2026-11-07"
     },
     "updated": "2026-11-07",
-    "stars": 1037,
+    "stars": 1044,
     "archived": false
   },
   {
@@ -707,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 250,
+    "stars": 252,
     "archived": false
   },
   {
@@ -722,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 132,
+    "stars": 133,
     "archived": false
   },
   {
