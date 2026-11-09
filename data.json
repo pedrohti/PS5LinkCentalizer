@@ -41,7 +41,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 152,
+    "stars": 153,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 538,
+    "stars": 541,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-09",
-    "stars": 1323,
+    "stars": 1325,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 918,
+    "stars": 920,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 735,
+    "stars": 738,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1386,
+    "stars": 1392,
     "archived": false
   },
   {
@@ -186,12 +186,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-09-e129252",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-09-e129252",
+      "tag": "KytyPS5-2026-11-09-f399d48",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-09-f399d48",
       "date": "2026-11-09"
     },
     "updated": "2026-11-09",
-    "stars": 10835,
+    "stars": 10851,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 311,
+    "stars": 319,
     "archived": false
   },
   {
@@ -270,13 +270,17 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.2.0",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.2.0",
+      "tag": "v12.3.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.3.0",
       "date": "2026-11-09"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v12.4.0",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.0",
+      "date": "2026-11-09"
+    },
     "updated": "2026-11-09",
-    "stars": 1147,
+    "stars": 1153,
     "archived": false
   },
   {
@@ -351,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1647,
+    "stars": 1650,
     "archived": false
   },
   {
@@ -381,7 +385,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 476,
+    "stars": 479,
     "archived": false
   },
   {
@@ -411,7 +415,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 203,
+    "stars": 204,
     "archived": false
   },
   {
@@ -426,7 +430,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 517,
+    "stars": 519,
     "archived": false
   },
   {
@@ -501,7 +505,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 231,
+    "stars": 232,
     "archived": false
   },
   {
@@ -516,7 +520,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1362,
+    "stars": 1364,
     "archived": false
   },
   {
@@ -565,7 +569,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1215,
+    "stars": 1220,
     "archived": false
   },
   {
@@ -574,17 +578,13 @@
     "description": "An FTP server for jailbroken PS4s and PS5s",
     "category": "Network",
     "stable": {
-      "tag": "v0.21.1",
-      "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/tag/v0.21.1",
-      "date": "2026-08-20"
-    },
-    "pre": {
       "tag": "v0.22",
       "url": "https://github.com/ps5-payload-dev/ftpsrv/releases/tag/v0.22",
       "date": "2026-11-08"
     },
+    "pre": null,
     "updated": "2026-11-08",
-    "stars": 210,
+    "stars": 212,
     "archived": false
   },
   {
@@ -599,7 +599,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 291,
+    "stars": 292,
     "archived": false
   },
   {
@@ -614,7 +614,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 729,
+    "stars": 743,
     "archived": false
   },
   {
@@ -683,12 +683,12 @@
       "date": "2026-11-06"
     },
     "pre": {
-      "tag": "v0.11.0-beta.1",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.1",
-      "date": "2026-11-07"
+      "tag": "v0.11.0-beta.2",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.2",
+      "date": "2026-11-09"
     },
-    "updated": "2026-11-07",
-    "stars": 1044,
+    "updated": "2026-11-09",
+    "stars": 1046,
     "archived": false
   },
   {
@@ -703,7 +703,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 252,
+    "stars": 259,
     "archived": false
   },
   {
@@ -718,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 133,
+    "stars": 137,
     "archived": false
   },
   {
@@ -733,7 +733,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 201,
+    "stars": 202,
     "archived": false
   }
 ]
