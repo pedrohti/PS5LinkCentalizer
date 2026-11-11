@@ -26,7 +26,7 @@
     },
     "pre": null,
     "updated": "2026-11-11",
-    "stars": 507,
+    "stars": 508,
     "archived": false
   },
   {
@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 543,
+    "stars": 545,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-09",
-    "stars": 1341,
+    "stars": 1346,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 924,
+    "stars": 927,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 738,
+    "stars": 742,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1400,
+    "stars": 1404,
     "archived": false
   },
   {
@@ -186,12 +186,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-10-7d4e0d9",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-10-7d4e0d9",
-      "date": "2026-11-10"
+      "tag": "KytyPS5-2026-11-11-bc934ef",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-11-bc934ef",
+      "date": "2026-11-11"
     },
-    "updated": "2026-11-10",
-    "stars": 10985,
+    "updated": "2026-11-11",
+    "stars": 11006,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 330,
+    "stars": 332,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 465,
+    "stars": 467,
     "archived": false
   },
   {
@@ -276,7 +276,7 @@
     },
     "pre": null,
     "updated": "2026-11-11",
-    "stars": 1167,
+    "stars": 1181,
     "archived": false
   },
   {
@@ -351,7 +351,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1658,
+    "stars": 1659,
     "archived": false
   },
   {
@@ -381,7 +381,7 @@
     },
     "pre": null,
     "updated": "2026-11-11",
-    "stars": 487,
+    "stars": 488,
     "archived": false
   },
   {
@@ -411,7 +411,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 205,
+    "stars": 207,
     "archived": false
   },
   {
@@ -456,7 +456,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 123,
+    "stars": 124,
     "archived": false
   },
   {
@@ -486,7 +486,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 70,
+    "stars": 69,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-11-10",
-    "stars": 1377,
+    "stars": 1381,
     "archived": false
   },
   {
@@ -565,7 +565,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1227,
+    "stars": 1233,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 214,
+    "stars": 216,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 775,
+    "stars": 776,
     "archived": false
   },
   {
@@ -684,7 +684,7 @@
       "date": "2026-11-10"
     },
     "updated": "2026-11-11",
-    "stars": 1054,
+    "stars": 1056,
     "archived": false
   },
   {
@@ -699,7 +699,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 266,
+    "stars": 267,
     "archived": false
   },
   {
@@ -714,7 +714,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 140,
+    "stars": 142,
     "archived": false
   },
   {
@@ -729,7 +729,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 206,
+    "stars": 207,
     "archived": false
   }
 ]
