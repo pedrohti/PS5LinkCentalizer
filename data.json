@@ -56,7 +56,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 542,
+    "stars": 543,
     "archived": false
   },
   {
@@ -71,7 +71,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-09",
-    "stars": 1337,
+    "stars": 1336,
     "archived": false
   },
   {
@@ -86,7 +86,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 925,
+    "stars": 924,
     "archived": false
   },
   {
@@ -131,7 +131,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 739,
+    "stars": 738,
     "archived": false
   },
   {
@@ -161,7 +161,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1398,
+    "stars": 1400,
     "archived": false
   },
   {
@@ -191,7 +191,7 @@
       "date": "2026-11-10"
     },
     "updated": "2026-11-10",
-    "stars": 10943,
+    "stars": 10962,
     "archived": false
   },
   {
@@ -231,7 +231,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 328,
+    "stars": 330,
     "archived": false
   },
   {
@@ -261,7 +261,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 463,
+    "stars": 465,
     "archived": false
   },
   {
@@ -270,13 +270,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.4.6",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.6",
-      "date": "2026-11-10"
+      "tag": "v12.4.7",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.7",
+      "date": "2026-11-11"
     },
     "pre": null,
-    "updated": "2026-11-10",
-    "stars": 1159,
+    "updated": "2026-11-11",
+    "stars": 1162,
     "archived": false
   },
   {
@@ -351,7 +351,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1656,
+    "stars": 1657,
     "archived": false
   },
   {
@@ -381,7 +381,7 @@
     },
     "pre": null,
     "updated": "2026-11-10",
-    "stars": 485,
+    "stars": 486,
     "archived": false
   },
   {
@@ -396,7 +396,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 137,
+    "stars": 138,
     "archived": false
   },
   {
@@ -456,7 +456,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 123,
+    "stars": 124,
     "archived": false
   },
   {
@@ -516,7 +516,7 @@
     },
     "pre": null,
     "updated": "2026-11-10",
-    "stars": 1375,
+    "stars": 1376,
     "archived": false
   },
   {
@@ -565,7 +565,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1227,
+    "stars": 1228,
     "archived": false
   },
   {
@@ -580,7 +580,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 213,
+    "stars": 214,
     "archived": false
   },
   {
@@ -595,7 +595,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 296,
+    "stars": 297,
     "archived": false
   },
   {
@@ -610,7 +610,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 770,
+    "stars": 774,
     "archived": false
   },
   {
@@ -684,7 +684,7 @@
       "date": "2026-11-10"
     },
     "updated": "2026-11-10",
-    "stars": 1051,
+    "stars": 1052,
     "archived": false
   },
   {
@@ -699,7 +699,7 @@
       "date": "2026-10-18"
     },
     "updated": "2026-10-18",
-    "stars": 262,
+    "stars": 264,
     "archived": false
   },
   {
@@ -729,7 +729,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 205,
+    "stars": 206,
     "archived": false
   }
 ]
