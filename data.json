@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 508,
+    "stars": 510,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 155,
+    "stars": 157,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 545,
+    "stars": 549,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-09",
-    "stars": 1352,
+    "stars": 1360,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 928,
+    "stars": 932,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 196,
+    "stars": 197,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 741,
+    "stars": 743,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1405,
+    "stars": 1411,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-11-bc934ef",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-11-bc934ef",
-      "date": "2026-11-11"
+      "tag": "KytyPS5-2026-11-12-e35360f",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-12-e35360f",
+      "date": "2026-11-12"
     },
-    "updated": "2026-11-11",
-    "stars": 11057,
+    "updated": "2026-11-12",
+    "stars": 11071,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 430,
+    "stars": 431,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 333,
+    "stars": 337,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.4.11",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.11",
+      "tag": "v12.4.12",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.12",
       "date": "2026-11-12"
     },
     "pre": null,
     "updated": "2026-11-12",
-    "stars": 1188,
+    "stars": 1195,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1660,
+    "stars": 1661,
     "archived": false
   },
   {
@@ -404,7 +404,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 138,
+    "stars": 139,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 210,
+    "stars": 214,
     "archived": false
   },
   {
@@ -434,7 +434,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 524,
+    "stars": 527,
     "archived": false
   },
   {
@@ -464,7 +464,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 124,
+    "stars": 125,
     "archived": false
   },
   {
@@ -524,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-10",
-    "stars": 1386,
+    "stars": 1389,
     "archived": false
   },
   {
@@ -554,7 +554,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 29,
+    "stars": 30,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1236,
+    "stars": 1239,
     "archived": false
   },
   {
@@ -588,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 216,
+    "stars": 217,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 300,
+    "stars": 302,
     "archived": false
   },
   {
@@ -692,22 +692,7 @@
       "date": "2026-11-10"
     },
     "updated": "2026-11-12",
-    "stars": 1059,
-    "archived": false
-  },
-  {
-    "name": "ProsperoEden",
-    "url": "https://github.com/Swordpdf/ProsperoEden",
-    "description": "Experimental Eden port for PS5",
-    "category": "Emulator",
-    "stable": null,
-    "pre": {
-      "tag": "v1.005.000",
-      "url": "https://github.com/Swordpdf/ProsperoEden/releases/tag/v1.005.000",
-      "date": "2026-10-18"
-    },
-    "updated": "2026-10-18",
-    "stars": 269,
+    "stars": 1061,
     "archived": false
   },
   {
@@ -722,7 +707,7 @@
     },
     "pre": null,
     "updated": "2026-11-04",
-    "stars": 145,
+    "stars": 148,
     "archived": false
   },
   {
