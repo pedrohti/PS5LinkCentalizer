@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 510,
+    "stars": 512,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 549,
+    "stars": 552,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-09",
-    "stars": 1360,
+    "stars": 1362,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 932,
+    "stars": 935,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 743,
+    "stars": 742,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1411,
+    "stars": 1414,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-12-e35360f",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-12-e35360f",
+      "tag": "KytyPS5-2026-11-12-58ca8d1",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-12-58ca8d1",
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 11071,
+    "stars": 11101,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 431,
+    "stars": 434,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 337,
+    "stars": 340,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 236,
+    "stars": 238,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.4.12",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.12",
+      "tag": "v12.4.13",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.13",
       "date": "2026-11-12"
     },
     "pre": null,
     "updated": "2026-11-12",
-    "stars": 1195,
+    "stars": 1202,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-06",
-    "stars": 1661,
+    "stars": 1664,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 492,
+    "stars": 494,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 214,
+    "stars": 215,
     "archived": false
   },
   {
@@ -434,7 +434,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 527,
+    "stars": 529,
     "archived": false
   },
   {
@@ -524,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-10",
-    "stars": 1389,
+    "stars": 1391,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1239,
+    "stars": 1241,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 302,
+    "stars": 303,
     "archived": false
   },
   {
@@ -618,7 +618,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 776,
+    "stars": 780,
     "archived": false
   },
   {
@@ -687,12 +687,12 @@
       "date": "2026-11-06"
     },
     "pre": {
-      "tag": "v0.11.0-beta.3",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.3",
-      "date": "2026-11-10"
+      "tag": "v0.11.0-beta.4",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.4",
+      "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 1061,
+    "stars": 1063,
     "archived": false
   },
   {
