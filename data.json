@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 514,
+    "stars": 516,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 552,
+    "stars": 555,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-09",
-    "stars": 1363,
+    "stars": 1366,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 936,
+    "stars": 938,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1418,
+    "stars": 1419,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 11119,
+    "stars": 11137,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 435,
+    "stars": 437,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 343,
+    "stars": 344,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 466,
+    "stars": 467,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.4.14",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.14",
-      "date": "2026-11-12"
+      "tag": "v12.4.15",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.15",
+      "date": "2026-11-13"
     },
     "pre": null,
-    "updated": "2026-11-12",
-    "stars": 1205,
+    "updated": "2026-11-13",
+    "stars": 1211,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 493,
+    "stars": 494,
     "archived": false
   },
   {
@@ -434,7 +434,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 529,
+    "stars": 531,
     "archived": false
   },
   {
@@ -464,7 +464,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 125,
+    "stars": 126,
     "archived": false
   },
   {
@@ -524,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-10",
-    "stars": 1392,
+    "stars": 1396,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1242,
+    "stars": 1244,
     "archived": false
   },
   {
@@ -588,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 217,
+    "stars": 218,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 303,
+    "stars": 304,
     "archived": false
   },
   {
@@ -618,7 +618,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 781,
+    "stars": 783,
     "archived": false
   },
   {
@@ -691,8 +691,8 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.4",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-12",
-    "stars": 1063,
+    "updated": "2026-11-13",
+    "stars": 1065,
     "archived": false
   },
   {
