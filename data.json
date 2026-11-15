@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1387,
+    "stars": 1388,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 756,
+    "stars": 757,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-14"
     },
     "updated": "2026-11-14",
-    "stars": 11219,
+    "stars": 11227,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 353,
+    "stars": 354,
     "archived": false
   },
   {
@@ -279,8 +279,8 @@
       "date": "2026-11-14"
     },
     "pre": null,
-    "updated": "2026-11-14",
-    "stars": 1229,
+    "updated": "2026-11-15",
+    "stars": 1231,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 502,
+    "stars": 503,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 216,
+    "stars": 217,
     "archived": false
   },
   {
@@ -434,7 +434,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 541,
+    "stars": 542,
     "archived": false
   },
   {
@@ -518,13 +518,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.9.0",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.0",
-      "date": "2026-11-13"
+      "tag": "v1.9.1",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.1",
+      "date": "2026-11-15"
     },
     "pre": null,
-    "updated": "2026-11-13",
-    "stars": 1409,
+    "updated": "2026-11-15",
+    "stars": 1410,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1254,
+    "stars": 1256,
     "archived": false
   },
   {
@@ -692,7 +692,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-14",
-    "stars": 1070,
+    "stars": 1071,
     "archived": false
   },
   {
@@ -707,7 +707,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 151,
+    "stars": 152,
     "archived": false
   },
   {
