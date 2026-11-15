@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 564,
+    "stars": 565,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1395,
+    "stars": 1398,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 947,
+    "stars": 948,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 197,
+    "stars": 198,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 760,
+    "stars": 763,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1439,
+    "stars": 1441,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-15"
     },
     "updated": "2026-11-15",
-    "stars": 11267,
+    "stars": 11286,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 356,
+    "stars": 359,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 246,
+    "stars": 247,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.4.22",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.22",
+      "tag": "v12.4.23",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.23",
       "date": "2026-11-15"
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1249,
+    "stars": 1253,
     "archived": false
   },
   {
@@ -349,13 +349,13 @@
     "description": "A port of PCSX2 for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "vk-285-190",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-190",
-      "date": "2026-11-05"
+      "tag": "vk-285-321",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-321",
+      "date": "2026-11-15"
     },
     "pre": null,
-    "updated": "2026-11-13",
-    "stars": 1675,
+    "updated": "2026-11-15",
+    "stars": 1676,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 510,
+    "stars": 512,
     "archived": false
   },
   {
@@ -449,7 +449,7 @@
     },
     "pre": null,
     "updated": "2026-08-05",
-    "stars": 19,
+    "stars": 21,
     "archived": false
   },
   {
@@ -473,9 +473,9 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.3.5",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.5",
-      "date": "2026-11-01"
+      "tag": "v1.3.9",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.9",
+      "date": "2026-11-15"
     },
     "pre": null,
     "updated": "2026-11-15",
@@ -524,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1418,
+    "stars": 1421,
     "archived": false
   },
   {
@@ -533,9 +533,9 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build26",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build26",
-      "date": "2026-11-01"
+      "tag": "build27",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build27",
+      "date": "2026-11-15"
     },
     "pre": null,
     "updated": "2026-11-15",
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 307,
+    "stars": 309,
     "archived": false
   },
   {
@@ -618,7 +618,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 800,
+    "stars": 804,
     "archived": false
   },
   {
@@ -707,7 +707,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 163,
+    "stars": 164,
     "archived": false
   },
   {
