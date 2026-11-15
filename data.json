@@ -29,8 +29,8 @@
       "url": "https://github.com/aydencharles/onionHEN/releases/tag/nightly",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-12",
-    "stars": 518,
+    "updated": "2026-11-15",
+    "stars": 519,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 563,
+    "stars": 564,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1388,
+    "stars": 1392,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 946,
+    "stars": 947,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 90,
+    "stars": 91,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 757,
+    "stars": 758,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 257,
+    "stars": 258,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1436,
+    "stars": 1437,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-14"
     },
     "updated": "2026-11-14",
-    "stars": 11227,
+    "stars": 11247,
     "archived": false
   },
   {
@@ -229,13 +229,13 @@
     "description": "All-In-One manager for your PS5!",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.2",
-      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/tag/v1.2",
-      "date": "2026-11-09"
+      "tag": "v1.2.1",
+      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/tag/v1.2.1",
+      "date": "2026-11-15"
     },
     "pre": null,
-    "updated": "2026-11-09",
-    "stars": 354,
+    "updated": "2026-11-15",
+    "stars": 355,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 242,
+    "stars": 243,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.4.20",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.20",
-      "date": "2026-11-14"
+      "tag": "v12.4.21",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.21",
+      "date": "2026-11-15"
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1231,
+    "stars": 1233,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 503,
+    "stars": 504,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 217,
+    "stars": 219,
     "archived": false
   },
   {
@@ -434,7 +434,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 542,
+    "stars": 543,
     "archived": false
   },
   {
@@ -524,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1410,
+    "stars": 1414,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1256,
+    "stars": 1258,
     "archived": false
   },
   {
@@ -618,7 +618,7 @@
     },
     "pre": null,
     "updated": "2026-11-09",
-    "stars": 796,
+    "stars": 798,
     "archived": false
   },
   {
@@ -691,8 +691,8 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.4",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-14",
-    "stars": 1071,
+    "updated": "2026-11-15",
+    "stars": 1072,
     "archived": false
   },
   {
@@ -707,7 +707,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 152,
+    "stars": 158,
     "archived": false
   },
   {
