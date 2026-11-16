@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 522,
+    "stars": 524,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 565,
+    "stars": 566,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1401,
+    "stars": 1405,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 950,
+    "stars": 954,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 198,
+    "stars": 199,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 765,
+    "stars": 769,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 257,
+    "stars": 258,
     "archived": false
   },
   {
@@ -163,9 +163,13 @@
       "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.7.1",
       "date": "2026-11-08"
     },
-    "pre": null,
-    "updated": "2026-11-08",
-    "stars": 1445,
+    "pre": {
+      "tag": "v0.8.0-pre-627ba8c",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.0-pre-627ba8c",
+      "date": "2026-11-16"
+    },
+    "updated": "2026-11-16",
+    "stars": 1447,
     "archived": false
   },
   {
@@ -190,12 +194,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-15-f9dd415",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-15-f9dd415",
-      "date": "2026-11-15"
+      "tag": "KytyPS5-2026-11-16-d45b086",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-16-d45b086",
+      "date": "2026-11-16"
     },
-    "updated": "2026-11-15",
-    "stars": 11313,
+    "updated": "2026-11-16",
+    "stars": 11348,
     "archived": false
   },
   {
@@ -210,7 +214,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 440,
+    "stars": 441,
     "archived": false
   },
   {
@@ -235,7 +239,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 362,
+    "stars": 368,
     "archived": false
   },
   {
@@ -280,7 +284,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 1263,
+    "stars": 1267,
     "archived": false
   },
   {
@@ -355,7 +359,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1680,
+    "stars": 1682,
     "archived": false
   },
   {
@@ -389,7 +393,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 512,
+    "stars": 516,
     "archived": false
   },
   {
@@ -428,13 +432,13 @@
     "description": "Native PS5 app store for the homebrew catalog at ProsperoStore.net (title PPSA99000) https://discord.gg/Drx8tsqq3B",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.000.116",
-      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.116",
-      "date": "2026-10-29"
+      "tag": "v1.000.119",
+      "url": "https://github.com/darkxex/ProsperoStore/releases/tag/v1.000.119",
+      "date": "2026-11-16"
     },
     "pre": null,
-    "updated": "2026-11-08",
-    "stars": 546,
+    "updated": "2026-11-16",
+    "stars": 547,
     "archived": false
   },
   {
@@ -473,9 +477,9 @@
     "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
     "category": "Emulator",
     "stable": {
-      "tag": "v1.3.9",
-      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.3.9",
-      "date": "2026-11-15"
+      "tag": "v1.4.1",
+      "url": "https://github.com/Press5elect/PSFlycast/releases/tag/v1.4.1",
+      "date": "2026-11-16"
     },
     "pre": null,
     "updated": "2026-11-16",
@@ -509,7 +513,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 241,
+    "stars": 243,
     "archived": false
   },
   {
@@ -518,13 +522,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.9.1",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.1",
-      "date": "2026-11-15"
+      "tag": "v1.9.2",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.2",
+      "date": "2026-11-16"
     },
     "pre": null,
-    "updated": "2026-11-15",
-    "stars": 1423,
+    "updated": "2026-11-16",
+    "stars": 1428,
     "archived": false
   },
   {
@@ -533,12 +537,12 @@
     "description": "Port of Swanstation for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "build27",
-      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build27",
-      "date": "2026-11-15"
+      "tag": "build28",
+      "url": "https://github.com/Press5elect/PSSwanStation/releases/tag/build28",
+      "date": "2026-11-16"
     },
     "pre": null,
-    "updated": "2026-11-15",
+    "updated": "2026-11-16",
     "stars": 39,
     "archived": false
   },
@@ -573,7 +577,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1266,
+    "stars": 1270,
     "archived": false
   },
   {
@@ -588,7 +592,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 221,
+    "stars": 226,
     "archived": false
   },
   {
@@ -603,7 +607,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 309,
+    "stars": 310,
     "archived": false
   },
   {
@@ -618,7 +622,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 808,
+    "stars": 814,
     "archived": false
   },
   {
@@ -688,7 +692,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 1079,
+    "stars": 1083,
     "archived": false
   },
   {
@@ -703,7 +707,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 168,
+    "stars": 171,
     "archived": false
   },
   {
@@ -718,7 +722,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 210,
+    "stars": 211,
     "archived": false
   }
 ]
