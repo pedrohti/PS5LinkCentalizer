@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 520,
+    "stars": 522,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1398,
+    "stars": 1401,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 948,
+    "stars": 950,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 763,
+    "stars": 765,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 258,
+    "stars": 257,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 1441,
+    "stars": 1445,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-15"
     },
     "updated": "2026-11-15",
-    "stars": 11286,
+    "stars": 11313,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 359,
+    "stars": 362,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 247,
+    "stars": 249,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 471,
+    "stars": 472,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.4.23",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.4.23",
-      "date": "2026-11-15"
+      "tag": "v12.5.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.5.1",
+      "date": "2026-11-16"
     },
     "pre": null,
-    "updated": "2026-11-15",
-    "stars": 1253,
+    "updated": "2026-11-16",
+    "stars": 1263,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1676,
+    "stars": 1680,
     "archived": false
   },
   {
@@ -404,7 +404,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 139,
+    "stars": 140,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 219,
+    "stars": 220,
     "archived": false
   },
   {
@@ -478,7 +478,7 @@
       "date": "2026-11-15"
     },
     "pre": null,
-    "updated": "2026-11-15",
+    "updated": "2026-11-16",
     "stars": 40,
     "archived": false
   },
@@ -509,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 240,
+    "stars": 241,
     "archived": false
   },
   {
@@ -524,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1421,
+    "stars": 1423,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-10-28",
-    "stars": 1260,
+    "stars": 1266,
     "archived": false
   },
   {
@@ -617,8 +617,8 @@
       "date": "2026-11-08"
     },
     "pre": null,
-    "updated": "2026-11-09",
-    "stars": 804,
+    "updated": "2026-11-16",
+    "stars": 808,
     "archived": false
   },
   {
@@ -682,17 +682,13 @@
     "description": "Play your Steam library's Windows games on a jailbroken PS5.",
     "category": "Hmebrew",
     "stable": {
-      "tag": "v0.10.0",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.10.0",
-      "date": "2026-11-06"
+      "tag": "v0.11.0",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0",
+      "date": "2026-11-16"
     },
-    "pre": {
-      "tag": "v0.11.0-beta.4",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0-beta.4",
-      "date": "2026-11-12"
-    },
-    "updated": "2026-11-15",
-    "stars": 1076,
+    "pre": null,
+    "updated": "2026-11-16",
+    "stars": 1079,
     "archived": false
   },
   {
@@ -707,7 +703,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 164,
+    "stars": 168,
     "archived": false
   },
   {
@@ -722,7 +718,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 209,
+    "stars": 210,
     "archived": false
   }
 ]
