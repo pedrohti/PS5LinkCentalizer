@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 584,
+    "stars": 585,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1433,
+    "stars": 1434,
     "archived": false
   },
   {
@@ -169,7 +169,7 @@
       "date": "2026-11-17"
     },
     "updated": "2026-11-17",
-    "stars": 1497,
+    "stars": 1499,
     "archived": false
   },
   {
@@ -199,7 +199,7 @@
       "date": "2026-11-19"
     },
     "updated": "2026-11-19",
-    "stars": 12067,
+    "stars": 12114,
     "archived": false
   },
   {
@@ -239,7 +239,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 378,
+    "stars": 379,
     "archived": false
   },
   {
@@ -282,9 +282,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.11",
       "date": "2026-11-19"
     },
-    "pre": null,
+    "pre": {
+      "tag": "v12.6.12",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.12",
+      "date": "2026-11-19"
+    },
     "updated": "2026-11-19",
-    "stars": 1298,
+    "stars": 1300,
     "archived": false
   },
   {
@@ -438,7 +442,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 560,
+    "stars": 561,
     "archived": false
   },
   {
@@ -576,8 +580,8 @@
       "url": "https://github.com/itsPLK/ps5-y2jb-autoloader/releases/tag/v1.1.0-ba879c8",
       "date": "2026-10-28"
     },
-    "updated": "2026-10-28",
-    "stars": 1296,
+    "updated": "2026-11-19",
+    "stars": 1298,
     "archived": false
   },
   {
@@ -607,7 +611,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 315,
+    "stars": 316,
     "archived": false
   },
   {
