@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1435,
+    "stars": 1437,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 93,
+    "stars": 94,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 788,
+    "stars": 789,
     "archived": false
   },
   {
@@ -159,13 +159,13 @@
     "description": "An automated payload loader for exploited PS5 consoles",
     "category": "Exploit",
     "stable": {
-      "tag": "v0.8.0",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.0",
+      "tag": "v0.8.1",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.1",
       "date": "2026-11-20"
     },
     "pre": null,
     "updated": "2026-11-20",
-    "stars": 1503,
+    "stars": 1517,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-20"
     },
     "updated": "2026-11-20",
-    "stars": 12190,
+    "stars": 12254,
     "archived": false
   },
   {
@@ -278,9 +278,13 @@
       "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.13",
       "date": "2026-11-19"
     },
-    "pre": null,
-    "updated": "2026-11-19",
-    "stars": 1301,
+    "pre": {
+      "tag": "v12.6.14",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.14",
+      "date": "2026-11-20"
+    },
+    "updated": "2026-11-20",
+    "stars": 1306,
     "archived": false
   },
   {
@@ -354,7 +358,7 @@
       "date": "2026-11-15"
     },
     "pre": null,
-    "updated": "2026-11-15",
+    "updated": "2026-11-20",
     "stars": 1691,
     "archived": false
   },
@@ -434,7 +438,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 561,
+    "stars": 562,
     "archived": false
   },
   {
@@ -449,7 +453,7 @@
     },
     "pre": null,
     "updated": "2026-08-05",
-    "stars": 23,
+    "stars": 24,
     "archived": false
   },
   {
@@ -509,7 +513,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 246,
+    "stars": 247,
     "archived": false
   },
   {
@@ -573,7 +577,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1298,
+    "stars": 1301,
     "archived": false
   },
   {
@@ -603,7 +607,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 316,
+    "stars": 317,
     "archived": false
   },
   {
@@ -618,7 +622,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 823,
+    "stars": 824,
     "archived": false
   },
   {
@@ -691,7 +695,7 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.2",
       "date": "2026-11-18"
     },
-    "updated": "2026-11-19",
+    "updated": "2026-11-20",
     "stars": 1097,
     "archived": false
   },
