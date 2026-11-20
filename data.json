@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 587,
+    "stars": 589,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1437,
+    "stars": 1440,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 974,
+    "stars": 976,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 789,
+    "stars": 792,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 264,
+    "stars": 265,
     "archived": false
   },
   {
@@ -159,13 +159,13 @@
     "description": "An automated payload loader for exploited PS5 consoles",
     "category": "Exploit",
     "stable": {
-      "tag": "v0.8.1",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.1",
+      "tag": "v0.8.2",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.2",
       "date": "2026-11-20"
     },
     "pre": null,
     "updated": "2026-11-20",
-    "stars": 1517,
+    "stars": 1532,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-20"
     },
     "updated": "2026-11-20",
-    "stars": 12254,
+    "stars": 12326,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-10-19"
     },
     "updated": "2026-10-19",
-    "stars": 442,
+    "stars": 443,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 254,
+    "stars": 255,
     "archived": false
   },
   {
@@ -274,17 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.13",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.13",
-      "date": "2026-11-19"
-    },
-    "pre": {
-      "tag": "v12.6.14",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.14",
+      "tag": "v12.6.15",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.15",
       "date": "2026-11-20"
     },
+    "pre": null,
     "updated": "2026-11-20",
-    "stars": 1306,
+    "stars": 1312,
     "archived": false
   },
   {
@@ -359,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-20",
-    "stars": 1691,
+    "stars": 1694,
     "archived": false
   },
   {
@@ -393,7 +389,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 525,
+    "stars": 526,
     "archived": false
   },
   {
@@ -513,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 247,
+    "stars": 248,
     "archived": false
   },
   {
@@ -528,7 +524,7 @@
     },
     "pre": null,
     "updated": "2026-11-19",
-    "stars": 1451,
+    "stars": 1453,
     "archived": false
   },
   {
@@ -577,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1301,
+    "stars": 1305,
     "archived": false
   },
   {
@@ -592,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 237,
+    "stars": 238,
     "archived": false
   },
   {
@@ -607,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 317,
+    "stars": 318,
     "archived": false
   },
   {
@@ -691,12 +687,12 @@
       "date": "2026-11-16"
     },
     "pre": {
-      "tag": "v0.12.0-beta.2",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.2",
-      "date": "2026-11-18"
+      "tag": "v0.12.0-beta.3",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.3",
+      "date": "2026-11-20"
     },
     "updated": "2026-11-20",
-    "stars": 1097,
+    "stars": 1098,
     "archived": false
   },
   {
@@ -711,7 +707,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 177,
+    "stars": 179,
     "archived": false
   },
   {
@@ -726,7 +722,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 217,
+    "stars": 218,
     "archived": false
   },
   {
