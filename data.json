@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 585,
+    "stars": 587,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1434,
+    "stars": 1435,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 92,
+    "stars": 93,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 787,
+    "stars": 788,
     "archived": false
   },
   {
@@ -159,17 +159,13 @@
     "description": "An automated payload loader for exploited PS5 consoles",
     "category": "Exploit",
     "stable": {
-      "tag": "v0.7.1",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.7.1",
-      "date": "2026-11-08"
+      "tag": "v0.8.0",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.0",
+      "date": "2026-11-20"
     },
-    "pre": {
-      "tag": "v0.8.0-pre-0850478",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.0-pre-0850478",
-      "date": "2026-11-17"
-    },
-    "updated": "2026-11-17",
-    "stars": 1499,
+    "pre": null,
+    "updated": "2026-11-20",
+    "stars": 1503,
     "archived": false
   },
   {
@@ -194,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-19-5ad27cd",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-19-5ad27cd",
-      "date": "2026-11-19"
+      "tag": "KytyPS5-2026-11-20-a1fc5ae",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-20-a1fc5ae",
+      "date": "2026-11-20"
     },
-    "updated": "2026-11-19",
-    "stars": 12114,
+    "updated": "2026-11-20",
+    "stars": 12190,
     "archived": false
   },
   {
@@ -239,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 379,
+    "stars": 380,
     "archived": false
   },
   {
@@ -278,17 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.11",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.11",
+      "tag": "v12.6.13",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.13",
       "date": "2026-11-19"
     },
-    "pre": {
-      "tag": "v12.6.12",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.12",
-      "date": "2026-11-19"
-    },
+    "pre": null,
     "updated": "2026-11-19",
-    "stars": 1300,
+    "stars": 1301,
     "archived": false
   },
   {
@@ -363,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 1690,
+    "stars": 1691,
     "archived": false
   },
   {
@@ -397,7 +389,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 526,
+    "stars": 525,
     "archived": false
   },
   {
@@ -457,7 +449,7 @@
     },
     "pre": null,
     "updated": "2026-08-05",
-    "stars": 22,
+    "stars": 23,
     "archived": false
   },
   {
@@ -517,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 245,
+    "stars": 246,
     "archived": false
   },
   {
@@ -526,12 +518,12 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.9.2",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.2",
-      "date": "2026-11-16"
+      "tag": "v1.9.5",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.5",
+      "date": "2026-11-19"
     },
     "pre": null,
-    "updated": "2026-11-16",
+    "updated": "2026-11-19",
     "stars": 1451,
     "archived": false
   },
@@ -626,7 +618,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 822,
+    "stars": 823,
     "archived": false
   },
   {
@@ -700,7 +692,7 @@
       "date": "2026-11-18"
     },
     "updated": "2026-11-19",
-    "stars": 1095,
+    "stars": 1097,
     "archived": false
   },
   {
@@ -730,7 +722,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 216,
+    "stars": 217,
     "archived": false
   },
   {
