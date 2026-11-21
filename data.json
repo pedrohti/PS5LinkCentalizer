@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 537,
+    "stars": 538,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 590,
+    "stars": 591,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 977,
+    "stars": 978,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 793,
+    "stars": 795,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 265,
+    "stars": 266,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-20",
-    "stars": 1539,
+    "stars": 1545,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-20"
     },
     "updated": "2026-11-20",
-    "stars": 12354,
+    "stars": 12375,
     "archived": false
   },
   {
@@ -205,12 +205,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v4.0.0-beta-4",
-      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v4.0.0-beta-4",
-      "date": "2026-10-19"
+      "tag": "v4.1.0-beta-4",
+      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v4.1.0-beta-4",
+      "date": "2026-11-21"
     },
-    "updated": "2026-10-19",
-    "stars": 443,
+    "updated": "2026-11-21",
+    "stars": 444,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 259,
+    "stars": 260,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
       "date": "2026-11-20"
     },
     "updated": "2026-11-20",
-    "stars": 1316,
+    "stars": 1317,
     "archived": false
   },
   {
@@ -577,7 +577,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1306,
+    "stars": 1305,
     "archived": false
   },
   {
@@ -622,7 +622,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 825,
+    "stars": 827,
     "archived": false
   },
   {
@@ -695,8 +695,8 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.3",
       "date": "2026-11-20"
     },
-    "updated": "2026-11-20",
-    "stars": 1098,
+    "updated": "2026-11-21",
+    "stars": 1100,
     "archived": false
   },
   {
@@ -711,7 +711,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 180,
+    "stars": 181,
     "archived": false
   },
   {
