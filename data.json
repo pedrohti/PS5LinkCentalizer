@@ -11,7 +11,7 @@
     },
     "pre": null,
     "updated": "2026-05-25",
-    "stars": 73,
+    "stars": 74,
     "archived": false
   },
   {
@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 538,
+    "stars": 542,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 591,
+    "stars": 594,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1441,
+    "stars": 1446,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 978,
+    "stars": 983,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 202,
+    "stars": 203,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 795,
+    "stars": 799,
     "archived": false
   },
   {
@@ -159,13 +159,13 @@
     "description": "An automated payload loader for exploited PS5 consoles",
     "category": "Exploit",
     "stable": {
-      "tag": "v0.8.2",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.2",
-      "date": "2026-11-20"
+      "tag": "v0.8.3",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.3",
+      "date": "2026-11-21"
     },
     "pre": null,
-    "updated": "2026-11-20",
-    "stars": 1545,
+    "updated": "2026-11-21",
+    "stars": 1560,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 296,
+    "stars": 297,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-20-a21fd80",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-20-a21fd80",
-      "date": "2026-11-20"
+      "tag": "KytyPS5-2026-11-21-39936ff",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-21-39936ff",
+      "date": "2026-11-21"
     },
-    "updated": "2026-11-20",
-    "stars": 12375,
+    "updated": "2026-11-21",
+    "stars": 12416,
     "archived": false
   },
   {
@@ -205,12 +205,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "v4.1.0-beta-4",
-      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v4.1.0-beta-4",
+      "tag": "v4.2.0-beta-4",
+      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v4.2.0-beta-4",
       "date": "2026-11-21"
     },
     "updated": "2026-11-21",
-    "stars": 444,
+    "stars": 446,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 260,
+    "stars": 261,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 473,
+    "stars": 475,
     "archived": false
   },
   {
@@ -284,7 +284,7 @@
       "date": "2026-11-20"
     },
     "updated": "2026-11-20",
-    "stars": 1317,
+    "stars": 1319,
     "archived": false
   },
   {
@@ -359,7 +359,7 @@
     },
     "pre": null,
     "updated": "2026-11-20",
-    "stars": 1695,
+    "stars": 1694,
     "archived": false
   },
   {
@@ -393,7 +393,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-12",
-    "stars": 527,
+    "stars": 528,
     "archived": false
   },
   {
@@ -438,7 +438,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 562,
+    "stars": 564,
     "archived": false
   },
   {
@@ -513,7 +513,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 248,
+    "stars": 250,
     "archived": false
   },
   {
@@ -528,7 +528,7 @@
     },
     "pre": null,
     "updated": "2026-11-19",
-    "stars": 1456,
+    "stars": 1460,
     "archived": false
   },
   {
@@ -577,7 +577,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1305,
+    "stars": 1308,
     "archived": false
   },
   {
@@ -622,7 +622,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 827,
+    "stars": 830,
     "archived": false
   },
   {
@@ -696,7 +696,7 @@
       "date": "2026-11-20"
     },
     "updated": "2026-11-21",
-    "stars": 1100,
+    "stars": 1102,
     "archived": false
   },
   {
@@ -711,7 +711,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 181,
+    "stars": 184,
     "archived": false
   },
   {
