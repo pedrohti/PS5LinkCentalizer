@@ -18,7 +18,6 @@
   { "repo": "pearlxcore/PS5PKGTool",                       "category": "PC Tool" },
   { "repo": "pegasus-ps5/pegasus-dl",                      "category": "Homebrew" },
   { "repo": "phantomptr/ps5upload",                        "category": "PC Tool" },
-  { "repo": "soniciso1/poopicker",                         "category": "Exploit" },
   { "repo": "StonedModder/PS-DiscordPresence",             "category": "Payload" },
   { "repo": "SvenGDK/Prospero-Explorer",                   "category": "Homebrew" },
   { "repo": "SvenGDK/Prospero-Multi-Tools",                "category": "PC Tool" },
@@ -47,5 +46,5 @@
   { "repo": "leolobato/playden-ps5",                       "category": "Hmebrew" },
   { "repo": "jamesst20/ps5-y2jb-installer",                "category": "PC Tool" },
   { "repo": "notmaj0r/Y2JB",                               "category": "Exploit" },
-  { "repo": "fitzypopper/ps5-home-recorder",              "category": "Payload", "name": "PS5 Home Recorder", "description": "Full-screen H.264 capture with audio up to 60fps; web UI + PC CLI" }
+  { "repo": "fitzypopper/ps5-home-recorder",               "category": "Payload", "name": "PS5 Home Recorder", "description": "Full-screen H.264 capture with audio up to 60fps; web UI + PC CLI" }
 ]

@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 545,
+    "stars": 546,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 161,
+    "stars": 163,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1454,
+    "stars": 1456,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 985,
+    "stars": 986,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 203,
+    "stars": 204,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 95,
+    "stars": 96,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 806,
+    "stars": 810,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 267,
+    "stars": 268,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1594,
+    "stars": 1604,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-22"
     },
     "updated": "2026-11-22",
-    "stars": 12549,
+    "stars": 12576,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-10-26",
-    "stars": 476,
+    "stars": 477,
     "archived": false
   },
   {
@@ -274,28 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.23",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.23",
+      "tag": "v12.6.24",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.24",
       "date": "2026-11-23"
     },
     "pre": null,
-    "updated": "2026-11-22",
-    "stars": 1333,
-    "archived": false
-  },
-  {
-    "name": "poopicker",
-    "url": "https://github.com/soniciso1/poopicker",
-    "description": "Pick a pooP2JB build and your console type",
-    "category": "Exploit",
-    "stable": {
-      "tag": "host-2026.08.29",
-      "url": "https://github.com/soniciso1/poopicker/releases/tag/host-2026.08.29",
-      "date": "2026-08-29"
-    },
-    "pre": null,
-    "updated": "2026-10-01",
-    "stars": 41,
+    "updated": "2026-11-23",
+    "stars": 1340,
     "archived": false
   },
   {
@@ -355,7 +340,7 @@
     },
     "pre": null,
     "updated": "2026-11-20",
-    "stars": 1700,
+    "stars": 1699,
     "archived": false
   },
   {
@@ -434,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 567,
+    "stars": 569,
     "archived": false
   },
   {
@@ -464,7 +449,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 136,
+    "stars": 137,
     "archived": false
   },
   {
@@ -509,7 +494,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 249,
+    "stars": 250,
     "archived": false
   },
   {
@@ -518,13 +503,13 @@
     "description": "A modern PS5 download manager with a native TV app, phone controls and Orbit Zero for Mac, Windows and Linux.",
     "category": "Homebrew",
     "stable": {
-      "tag": "v1.9.6",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.6",
-      "date": "2026-11-21"
+      "tag": "v1.9.7",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.7",
+      "date": "2026-11-23"
     },
     "pre": null,
-    "updated": "2026-11-21",
-    "stars": 1466,
+    "updated": "2026-11-23",
+    "stars": 1467,
     "archived": false
   },
   {
@@ -573,7 +558,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1314,
+    "stars": 1317,
     "archived": false
   },
   {
@@ -588,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 238,
+    "stars": 240,
     "archived": false
   },
   {
@@ -603,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 320,
+    "stars": 321,
     "archived": false
   },
   {
@@ -722,7 +707,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 217,
+    "stars": 218,
     "archived": false
   },
   {
