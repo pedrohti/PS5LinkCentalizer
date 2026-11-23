@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 544,
+    "stars": 545,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1453,
+    "stars": 1454,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 805,
+    "stars": 806,
     "archived": false
   },
   {
@@ -159,13 +159,13 @@
     "description": "An automated payload loader for exploited PS5 consoles",
     "category": "Exploit",
     "stable": {
-      "tag": "v0.8.3",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.3",
-      "date": "2026-11-21"
+      "tag": "v0.8.4",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.8.4",
+      "date": "2026-11-23"
     },
     "pre": null,
-    "updated": "2026-11-21",
-    "stars": 1589,
+    "updated": "2026-11-23",
+    "stars": 1594,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 297,
+    "stars": 298,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-22"
     },
     "updated": "2026-11-22",
-    "stars": 12529,
+    "stars": 12549,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-11-22"
     },
     "updated": "2026-11-22",
-    "stars": 447,
+    "stars": 448,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.22",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.22",
-      "date": "2026-11-22"
+      "tag": "v12.6.23",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.23",
+      "date": "2026-11-23"
     },
     "pre": null,
     "updated": "2026-11-22",
-    "stars": 1332,
+    "stars": 1333,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1312,
+    "stars": 1314,
     "archived": false
   },
   {
@@ -691,8 +691,8 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.4",
       "date": "2026-11-21"
     },
-    "updated": "2026-11-22",
-    "stars": 1109,
+    "updated": "2026-11-23",
+    "stars": 1110,
     "archived": false
   },
   {
