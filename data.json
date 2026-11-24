@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 549,
+    "stars": 551,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1462,
+    "stars": 1468,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 987,
+    "stars": 989,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 204,
+    "stars": 205,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 812,
+    "stars": 814,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1615,
+    "stars": 1620,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-23-4e90654",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-23-4e90654",
-      "date": "2026-11-23"
+      "tag": "KytyPS5-2026-11-24-30781dc",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-24-30781dc",
+      "date": "2026-11-24"
     },
-    "updated": "2026-11-23",
-    "stars": 12643,
+    "updated": "2026-11-24",
+    "stars": 12658,
     "archived": false
   },
   {
@@ -210,7 +210,7 @@
       "date": "2026-11-22"
     },
     "updated": "2026-11-22",
-    "stars": 448,
+    "stars": 449,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 389,
+    "stars": 390,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 266,
+    "stars": 270,
     "archived": false
   },
   {
@@ -280,7 +280,7 @@
     },
     "pre": null,
     "updated": "2026-11-24",
-    "stars": 1349,
+    "stars": 1353,
     "archived": false
   },
   {
@@ -340,7 +340,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1700,
+    "stars": 1702,
     "archived": false
   },
   {
@@ -373,8 +373,8 @@
       "url": "https://github.com/premohq/PlayTendoh/releases/tag/es-de-1",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-12",
-    "stars": 532,
+    "updated": "2026-11-24",
+    "stars": 533,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 570,
+    "stars": 571,
     "archived": false
   },
   {
@@ -509,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1469,
+    "stars": 1472,
     "archived": false
   },
   {
@@ -588,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 320,
+    "stars": 321,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-16",
-    "stars": 843,
+    "stars": 844,
     "archived": false
   },
   {
@@ -628,7 +628,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 53,
+    "stars": 54,
     "archived": false
   },
   {
@@ -677,7 +677,7 @@
       "date": "2026-11-21"
     },
     "updated": "2026-11-24",
-    "stars": 1112,
+    "stars": 1113,
     "archived": false
   },
   {
@@ -707,17 +707,17 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 218,
+    "stars": 219,
     "archived": false
   },
   {
     "name": "PS5 Home Recorder",
-    "url": "https://github.com/fitzypopper/ps5-home-recorder",
+    "url": "https://github.com/Make-It-Goddamn-Work/ps5-home-recorder",
     "description": "Full-screen H.264 capture with audio up to 60fps; web UI + PC CLI",
     "category": "Payload",
     "stable": {
       "tag": "v1.0.0",
-      "url": "https://github.com/fitzypopper/ps5-home-recorder/releases/tag/v1.0.0",
+      "url": "https://github.com/Make-It-Goddamn-Work/ps5-home-recorder/releases/tag/v1.0.0",
       "date": "2026-11-17"
     },
     "pre": null,
