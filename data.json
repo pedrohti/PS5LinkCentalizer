@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-15",
-    "stars": 551,
+    "stars": 552,
     "archived": false
   },
   {
@@ -45,7 +45,7 @@
     },
     "pre": null,
     "updated": "2026-10-30",
-    "stars": 164,
+    "stars": 165,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 598,
+    "stars": 599,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1468,
+    "stars": 1474,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 989,
+    "stars": 996,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 814,
+    "stars": 817,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1620,
+    "stars": 1623,
     "archived": false
   },
   {
@@ -190,12 +190,12 @@
     "category": "Emulator",
     "stable": null,
     "pre": {
-      "tag": "KytyPS5-2026-11-24-30781dc",
-      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-24-30781dc",
-      "date": "2026-11-24"
+      "tag": "KytyPS5-2026-11-25-3057d08",
+      "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-11-25-3057d08",
+      "date": "2026-11-25"
     },
-    "updated": "2026-11-24",
-    "stars": 12658,
+    "updated": "2026-11-25",
+    "stars": 12667,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 390,
+    "stars": 391,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.26",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.26",
-      "date": "2026-11-24"
+      "tag": "v12.6.27",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.27",
+      "date": "2026-11-25"
     },
     "pre": null,
     "updated": "2026-11-24",
-    "stars": 1353,
+    "stars": 1355,
     "archived": false
   },
   {
@@ -334,13 +334,13 @@
     "description": "A port of PCSX2 for PS5",
     "category": "Emulator",
     "stable": {
-      "tag": "vk-285-329",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-329",
-      "date": "2026-11-23"
+      "tag": "vk-285-345",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-345",
+      "date": "2026-11-24"
     },
     "pre": null,
-    "updated": "2026-11-23",
-    "stars": 1702,
+    "updated": "2026-11-24",
+    "stars": 1703,
     "archived": false
   },
   {
@@ -373,8 +373,8 @@
       "url": "https://github.com/premohq/PlayTendoh/releases/tag/es-de-1",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-24",
-    "stars": 533,
+    "updated": "2026-11-25",
+    "stars": 534,
     "archived": false
   },
   {
@@ -558,7 +558,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1322,
+    "stars": 1323,
     "archived": false
   },
   {
@@ -672,12 +672,12 @@
       "date": "2026-11-16"
     },
     "pre": {
-      "tag": "v0.12.0-beta.4",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.4",
-      "date": "2026-11-21"
+      "tag": "v0.12.0-beta.5",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.5",
+      "date": "2026-11-25"
     },
-    "updated": "2026-11-24",
-    "stars": 1113,
+    "updated": "2026-11-25",
+    "stars": 1114,
     "archived": false
   },
   {
