@@ -29,8 +29,8 @@
       "url": "https://github.com/aydencharles/onionHEN/releases/tag/nightly",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-26",
-    "stars": 564,
+    "updated": "2026-11-27",
+    "stars": 570,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 605,
+    "stars": 607,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1523,
+    "stars": 1534,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 1025,
+    "stars": 1037,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 832,
+    "stars": 836,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1662,
+    "stars": 1674,
     "archived": false
   },
   {
@@ -180,7 +180,7 @@
     },
     "pre": null,
     "updated": "2026-08-21",
-    "stars": 299,
+    "stars": 300,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-26"
     },
     "updated": "2026-11-26",
-    "stars": 12833,
+    "stars": 12853,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 392,
+    "stars": 393,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-11-26",
-    "stars": 495,
+    "stars": 496,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.34",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.34",
-      "date": "2026-11-26"
+      "tag": "v12.6.38",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.38",
+      "date": "2026-11-27"
     },
     "pre": null,
-    "updated": "2026-11-26",
-    "stars": 1411,
+    "updated": "2026-11-27",
+    "stars": 1427,
     "archived": false
   },
   {
@@ -339,8 +339,8 @@
       "date": "2026-11-24"
     },
     "pre": null,
-    "updated": "2026-11-24",
-    "stars": 1706,
+    "updated": "2026-11-27",
+    "stars": 1707,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-19",
-    "stars": 77,
+    "stars": 79,
     "archived": false
   },
   {
@@ -373,8 +373,8 @@
       "url": "https://github.com/premohq/PlayTendoh/releases/tag/es-de-1",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-26",
-    "stars": 539,
+    "updated": "2026-11-27",
+    "stars": 540,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 145,
+    "stars": 146,
     "archived": false
   },
   {
@@ -404,7 +404,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 275,
+    "stars": 291,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 576,
+    "stars": 578,
     "archived": false
   },
   {
@@ -494,7 +494,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 254,
+    "stars": 255,
     "archived": false
   },
   {
@@ -509,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1481,
+    "stars": 1484,
     "archived": false
   },
   {
@@ -558,7 +558,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1330,
+    "stars": 1333,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 242,
+    "stars": 243,
     "archived": false
   },
   {
@@ -588,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 321,
+    "stars": 323,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-27",
-    "stars": 876,
+    "stars": 877,
     "archived": false
   },
   {
@@ -676,7 +676,7 @@
       "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.5",
       "date": "2026-11-25"
     },
-    "updated": "2026-11-26",
+    "updated": "2026-11-27",
     "stars": 1120,
     "archived": false
   },
@@ -692,7 +692,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 191,
+    "stars": 193,
     "archived": false
   },
   {
