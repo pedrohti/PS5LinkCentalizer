@@ -30,7 +30,7 @@
       "date": "2026-11-12"
     },
     "updated": "2026-11-27",
-    "stars": 570,
+    "stars": 573,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 607,
+    "stars": 608,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1534,
+    "stars": 1545,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 1037,
+    "stars": 1042,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 207,
+    "stars": 208,
     "archived": false
   },
   {
@@ -120,7 +120,7 @@
     },
     "pre": null,
     "updated": "2026-10-05",
-    "stars": 97,
+    "stars": 98,
     "archived": false
   },
   {
@@ -135,7 +135,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 836,
+    "stars": 844,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 279,
+    "stars": 282,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1674,
+    "stars": 1692,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-26"
     },
     "updated": "2026-11-26",
-    "stars": 12853,
+    "stars": 12872,
     "archived": false
   },
   {
@@ -220,7 +220,7 @@
     "category": "Dev",
     "pre": null,
     "updated": "2026-09-29",
-    "stars": 34,
+    "stars": 35,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 393,
+    "stars": 392,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 281,
+    "stars": 284,
     "archived": false
   },
   {
@@ -265,7 +265,7 @@
     },
     "pre": null,
     "updated": "2026-11-26",
-    "stars": 496,
+    "stars": 499,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.38",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.38",
+      "tag": "v12.6.42",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.42",
       "date": "2026-11-27"
     },
     "pre": null,
     "updated": "2026-11-27",
-    "stars": 1427,
+    "stars": 1443,
     "archived": false
   },
   {
@@ -355,7 +355,7 @@
     },
     "pre": null,
     "updated": "2026-11-19",
-    "stars": 79,
+    "stars": 81,
     "archived": false
   },
   {
@@ -404,7 +404,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 291,
+    "stars": 335,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 578,
+    "stars": 581,
     "archived": false
   },
   {
@@ -449,7 +449,7 @@
     },
     "pre": null,
     "updated": "2026-09-19",
-    "stars": 139,
+    "stars": 140,
     "archived": false
   },
   {
@@ -509,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1484,
+    "stars": 1488,
     "archived": false
   },
   {
@@ -558,7 +558,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1333,
+    "stars": 1339,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 243,
+    "stars": 245,
     "archived": false
   },
   {
@@ -588,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 323,
+    "stars": 325,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-27",
-    "stars": 877,
+    "stars": 883,
     "archived": false
   },
   {
@@ -667,17 +667,13 @@
     "description": "Play your Steam library's Windows games on a jailbroken PS5.",
     "category": "Hmebrew",
     "stable": {
-      "tag": "v0.11.0",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.11.0",
-      "date": "2026-11-16"
+      "tag": "v0.12.0",
+      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0",
+      "date": "2026-11-27"
     },
-    "pre": {
-      "tag": "v0.12.0-beta.5",
-      "url": "https://github.com/leolobato/playden-ps5/releases/tag/v0.12.0-beta.5",
-      "date": "2026-11-25"
-    },
+    "pre": null,
     "updated": "2026-11-27",
-    "stars": 1120,
+    "stars": 1122,
     "archived": false
   },
   {
@@ -692,7 +688,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 193,
+    "stars": 196,
     "archived": false
   },
   {
@@ -707,7 +703,7 @@
     },
     "pre": null,
     "updated": "2026-10-27",
-    "stars": 221,
+    "stars": 222,
     "archived": false
   },
   {
