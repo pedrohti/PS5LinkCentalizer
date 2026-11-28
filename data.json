@@ -29,8 +29,8 @@
       "url": "https://github.com/aydencharles/onionHEN/releases/tag/nightly",
       "date": "2026-11-12"
     },
-    "updated": "2026-11-27",
-    "stars": 588,
+    "updated": "2026-11-28",
+    "stars": 591,
     "archived": false
   },
   {
@@ -60,7 +60,7 @@
     },
     "pre": null,
     "updated": "2026-10-12",
-    "stars": 610,
+    "stars": 611,
     "archived": false
   },
   {
@@ -75,7 +75,7 @@
       "date": "2026-11-08"
     },
     "updated": "2026-11-14",
-    "stars": 1558,
+    "stars": 1560,
     "archived": false
   },
   {
@@ -90,7 +90,7 @@
     },
     "pre": null,
     "updated": "2026-10-20",
-    "stars": 1049,
+    "stars": 1054,
     "archived": false
   },
   {
@@ -105,7 +105,7 @@
     },
     "pre": null,
     "updated": "2026-10-03",
-    "stars": 208,
+    "stars": 209,
     "archived": false
   },
   {
@@ -134,8 +134,8 @@
       "date": "2026-10-19"
     },
     "pre": null,
-    "updated": "2026-10-19",
-    "stars": 852,
+    "updated": "2026-11-28",
+    "stars": 855,
     "archived": false
   },
   {
@@ -150,7 +150,7 @@
     },
     "pre": null,
     "updated": "2026-10-10",
-    "stars": 283,
+    "stars": 285,
     "archived": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1711,
+    "stars": 1718,
     "archived": false
   },
   {
@@ -195,7 +195,7 @@
       "date": "2026-11-26"
     },
     "updated": "2026-11-26",
-    "stars": 12895,
+    "stars": 12908,
     "archived": false
   },
   {
@@ -235,7 +235,7 @@
     },
     "pre": null,
     "updated": "2026-11-15",
-    "stars": 393,
+    "stars": 394,
     "archived": false
   },
   {
@@ -250,7 +250,7 @@
     },
     "pre": null,
     "updated": "2026-10-19",
-    "stars": 287,
+    "stars": 291,
     "archived": false
   },
   {
@@ -274,13 +274,13 @@
     "description": "Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.",
     "category": "PC Tool",
     "stable": {
-      "tag": "v12.6.46",
-      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v12.6.46",
+      "tag": "v13.0.1",
+      "url": "https://github.com/phantomptr/ps5upload/releases/tag/v13.0.1",
       "date": "2026-11-28"
     },
     "pre": null,
     "updated": "2026-11-28",
-    "stars": 1463,
+    "stars": 1476,
     "archived": false
   },
   {
@@ -389,7 +389,7 @@
     },
     "pre": null,
     "updated": "2026-10-24",
-    "stars": 146,
+    "stars": 147,
     "archived": false
   },
   {
@@ -404,7 +404,7 @@
     },
     "pre": null,
     "updated": "2026-10-11",
-    "stars": 386,
+    "stars": 406,
     "archived": false
   },
   {
@@ -419,7 +419,7 @@
     },
     "pre": null,
     "updated": "2026-11-17",
-    "stars": 582,
+    "stars": 583,
     "archived": false
   },
   {
@@ -509,7 +509,7 @@
     },
     "pre": null,
     "updated": "2026-11-23",
-    "stars": 1491,
+    "stars": 1492,
     "archived": false
   },
   {
@@ -558,7 +558,7 @@
       "date": "2026-10-28"
     },
     "updated": "2026-11-19",
-    "stars": 1343,
+    "stars": 1345,
     "archived": false
   },
   {
@@ -573,7 +573,7 @@
     },
     "pre": null,
     "updated": "2026-11-08",
-    "stars": 245,
+    "stars": 246,
     "archived": false
   },
   {
@@ -588,7 +588,7 @@
     },
     "pre": null,
     "updated": "2026-11-03",
-    "stars": 327,
+    "stars": 329,
     "archived": false
   },
   {
@@ -603,7 +603,7 @@
     },
     "pre": null,
     "updated": "2026-11-28",
-    "stars": 886,
+    "stars": 887,
     "archived": false
   },
   {
@@ -628,7 +628,7 @@
     },
     "pre": null,
     "updated": "2026-10-15",
-    "stars": 54,
+    "stars": 55,
     "archived": false
   },
   {
@@ -673,7 +673,7 @@
     },
     "pre": null,
     "updated": "2026-11-28",
-    "stars": 1122,
+    "stars": 1121,
     "archived": false
   },
   {
@@ -688,7 +688,7 @@
     },
     "pre": null,
     "updated": "2026-11-14",
-    "stars": 198,
+    "stars": 199,
     "archived": false
   },
   {
@@ -719,6 +719,36 @@
     "pre": null,
     "updated": "2026-11-17",
     "stars": 1,
+    "archived": false
+  },
+  {
+    "name": "Padrino-Store",
+    "url": "https://github.com/B4ckd0orl/Padrino-Store",
+    "description": "",
+    "category": "Homebrew",
+    "stable": {
+      "tag": "v1.52",
+      "url": "https://github.com/B4ckd0orl/Padrino-Store/releases/tag/v1.52",
+      "date": "2026-11-26"
+    },
+    "pre": null,
+    "updated": "2026-11-26",
+    "stars": 374,
+    "archived": false
+  },
+  {
+    "name": "ps5-disk-space-analyzer",
+    "url": "https://github.com/igorwojda/ps5-disk-space-analyzer",
+    "description": " Disk Space Analyzer for PS5",
+    "category": "Tool",
+    "stable": {
+      "tag": "v1.0.0",
+      "url": "https://github.com/igorwojda/ps5-disk-space-analyzer/releases/tag/v1.0.0",
+      "date": "2026-11-28"
+    },
+    "pre": null,
+    "updated": "2026-11-28",
+    "stars": 55,
     "archived": false
   }
 ]
