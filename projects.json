@@ -46,5 +46,7 @@
   { "repo": "leolobato/playden-ps5",                       "category": "Hmebrew" },
   { "repo": "jamesst20/ps5-y2jb-installer",                "category": "PC Tool" },
   { "repo": "notmaj0r/Y2JB",                               "category": "Exploit" },
-  { "repo": "fitzypopper/ps5-home-recorder",               "category": "Payload", "name": "PS5 Home Recorder", "description": "Full-screen H.264 capture with audio up to 60fps; web UI + PC CLI" }
+  { "repo": "fitzypopper/ps5-home-recorder",               "category": "Payload", "name": "PS5 Home Recorder", "description": "Full-screen H.264 capture with audio up to 60fps; web UI + PC CLI" },
+  { "repo": "B4ckd0orl/Padrino-Store",                     "category": "Homebrew" },
+  { "repo": "igorwojda/ps5-disk-space-analyzer",           "category": "Tool" }
 ]
